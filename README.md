@@ -1,4 +1,4 @@
-# Awesome Alfadi [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re
+# Awesome Alfadi [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > 一个覆盖 **计算机科学基础 → 编程语言 → 软件工程 → 人工智能 → 网络安全 → 底层原理 → 职业成长** 的全领域技术知识图谱型资源列表。  
 > 致力于为开发者、安全研究者与技术爱好者提供系统化、可持续扩展的学习与实践入口。
