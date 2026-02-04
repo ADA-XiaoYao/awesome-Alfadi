@@ -11,7 +11,7 @@
   </h1>
 </div>
 
-**A carefully selected comprehensive learning list integrating computer science, programming languages, and cybersecurity.**
+**A carefully selected, comprehensive learning list covering computer science, programming languages, and cybersecurity. Enabling everyone to become a top expert in their field.**
 ---
 
 ## 目录
