@@ -3,8 +3,10 @@
 </div>
 
 <div align="center">
-  <h1>Awesome Alfadi</h1>[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+  <h1>Awesome Alfadi</h1>
 </div>
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 
 **Awesome Alfadi**: A Structured Atlas for the Technical Cosmos
 
