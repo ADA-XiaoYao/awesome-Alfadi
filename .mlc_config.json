@@ -1,0 +1,21 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://github.com/ADA-XiaoYao/awesome-Alfadi/generate"
+    },
+    {
+      "pattern": "^https://play.picoctf.org/practice/challenge/.*"
+    },
+    {
+      "pattern": "^https://x.com/.*"
+    },
+    {
+      "pattern": "^https://twitter.com/.*"
+    }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 5,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 403, 429, 0]
+}
