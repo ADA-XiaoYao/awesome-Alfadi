@@ -1,6 +1,6 @@
 # Awesome Alfadi [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 <div align="center">
-	<img width="1168" height="880" src="media/banner.jpg" alt="Awesome">
+	<img width="1168" height="880" src="media/banner.jpg">
 	<br>
 	<br>
 	<br>
