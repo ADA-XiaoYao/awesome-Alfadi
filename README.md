@@ -25,9 +25,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 ## License
 
 [CC0 1.0](LICENSE)
-
-To the extent possible under law, the author has waived all copyright and related or neighboring rights.
-
 ---
 
 ## Table of Contents
