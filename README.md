@@ -633,7 +633,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-#### JavaScript Reverse Engineering
+### JavaScript Reverse Engineering
 
 - [Awesome JavaScript Reversing](https://github.com/jsoverson/awesome-js-reversing) - A list of resources for JavaScript reversing.
 - [de4js](https://github.com/lelinhtinh/de4js) - A JavaScript deobfuscation tool.
@@ -652,7 +652,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-#### Java Security
+### Java Security
 
 - [ysoserial](https://github.com/frohoff/ysoserial) - A tool for generating payloads that exploit unsafe Java object deserialization.
 - [Marshalsec](https://github.com/mbechler/marshalsec) - A Java deserialization exploitation library supporting multiple formats and payloads.
@@ -679,7 +679,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-#### Web3 & Blockchain Security
+### Web3 & Blockchain Security
 
 - [Awesome Web3 Security](https://github.com/Anugrahsr/Awesome-Web3-Security) - A list of resources for Web3 security.
 - [Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices) - Best practices for smart contract security.
@@ -697,7 +697,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-#### API Security
+### API Security
 
 - [Awesome API Security](https://github.com/arainho/awesome-api-security) - The authoritative resource list for API security, covering tools, articles, and best practices.
 - [OWASP API Security Top 10](https://owasp.org/www-project-api-security/) - The official OWASP Top 10 API Security Risks project.
@@ -723,7 +723,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-#### Service & Middleware Security
+### Service & Middleware Security
 
 - [Awesome-Web-Services](https://github.com/bregman-arie/awesome-web-services) - A list of resources related to web services; understanding how they work is the basis for attacking them.
 - [ysoserial.net](https://github.com/pwntester/ysoserial.net) - A deserialization payload generation tool for the .NET platform.
@@ -774,7 +774,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-#### Mobile Application Security
+### Mobile Application Security
 
 - [Awesome-Android-Security](https://github.com/ashishb/android-security-awesome) - A list of Android security resources, including many reverse engineering tools.
 - [Awesome-iOS-Security](https://github.com/Siguza/ios-resources) - A list of iOS security resources.
@@ -798,7 +798,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-#### System Security
+### System Security
 
 - [Linux-Kernel-Exploitation](https://github.com/xairy/linux-kernel-exploitation) - Learning resources for Linux kernel exploitation.
 - [Windows-Kernel-Exploits](https://github.com/SecWiki/windows-kernel-exploits) - A collection of exploit code for Windows kernel vulnerabilities.
@@ -899,7 +899,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## Cloud Security
+### Cloud Security
 
 - [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) - A comprehensive list of resources in the field of cloud security.
 - [Awesome Kubernetes Security](https://github.com/magnologan/awesome-k8s-security) - A list of Kubernetes security resources.
@@ -977,7 +977,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## Red Team & APT Operations
+### Red Team & APT Operations
 
 #### Comprehensive Awesome Lists & Resource Libraries
 
@@ -1114,7 +1114,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## Incident Response – Basic
+### Incident Response – Basic
 
 - [Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) - The most comprehensive list of blue team resources, covering all aspects.
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - A list of tools and resources focused on incident response.
@@ -1167,7 +1167,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## Incident Response – Advanced
+### Incident Response – Advanced
 
 #### Network Intrusion Detection & Monitoring (NIDS / NSM)
 
@@ -1237,7 +1237,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## Binary Reverse Engineering
+### Binary Reverse Engineering
 
 - [Awesome Reverse Engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - The most comprehensive list of reverse engineering resources, covering tools, courses, books, etc.
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - The authoritative list of malware analysis tools and resources.
@@ -1299,7 +1299,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## Device & Infrastructure Deployment
+### Device & Infrastructure Deployment
 
 This section covers the deployment and management of infrastructure for both offensive (Red Team) and defensive (Blue Team) operations. It includes tools for automation, secure configuration, and operational security (OPSEC) to ensure that your tools and systems are effective and resilient.
 
@@ -1365,7 +1365,7 @@ This section covers the deployment and management of infrastructure for both off
 
 ---
 
-## Traffic Analysis
+### Traffic Analysis
 
 This section covers the tools, techniques, and platforms for capturing, parsing, and analyzing network traffic. It is a fundamental skill for network defense, incident response, threat hunting, and verifying red team operations.
 
@@ -1428,7 +1428,7 @@ This section covers the tools, techniques, and platforms for capturing, parsing,
 
 ---
 
-## Rule & Signature Development
+### Rule & Signature Development
 
 This section is dedicated to the art and science of writing rules, signatures, and templates for various security tools. Effective rule development is crucial for threat detection, vulnerability scanning, and automating security checks.
 
@@ -1510,7 +1510,7 @@ This section is dedicated to the art and science of writing rules, signatures, a
 
 ---
 
-## Attribution & Counter-Operations
+### Attribution & Counter-Operations
 
 This section focuses on the techniques and tools used to trace the origin of attacks (attribution) and to actively deceive, delay, or gather intelligence on attackers (counter-operations).
 
@@ -1566,7 +1566,7 @@ This section focuses on the techniques and tools used to trace the origin of att
 
 ---
 
-## SRC Programs
+### SRC Programs
 
 This section covers resources, tools, and methodologies specifically for participating in Security Response Centers (SRCs) and Bug Bounty Programs.
 
@@ -1622,7 +1622,7 @@ This section covers resources, tools, and methodologies specifically for partici
 
 ---
 
-## CTF Resources
+### CTF Resources
 
 #### Comprehensive Awesome Lists & Resource Libraries
 
