@@ -373,7 +373,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## Reconnaissance & Information Gathering
+### Reconnaissance & Information Gathering
 
 #### Subdomain Enumeration & Discovery
 - [Amass](https://github.com/owasp-amass/amass) - From OWASP, the most powerful tool for in-depth subdomain enumeration and network mapping.
