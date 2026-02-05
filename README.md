@@ -2292,23 +2292,3 @@
 *   [GIMP](https://www.gimp.org/) - 开源的图像编辑器。
 *   [Inkscape](https://inkscape.org/) - 开源的矢量图形编辑器。
 *   [Excalidraw](https://github.com/excalidraw/excalidraw) - 虚拟协作白板工具。
-
----
-
-## 贡献指南
-
-欢迎任何形式的贡献。随着仓库规模扩大，请确保您添加的资源具有代表性且放置在最合适的分类下。
-
-1.  Fork 本仓库
-2.  创建分支 `feature/add-awesome-resource`
-3.  添加资源并保持格式统一
-4.  提交 Commit
-5.  Push 并创建 Pull Request
-
----
-
-## 许可证
-
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内，作者已放弃所有版权及相关权利。
