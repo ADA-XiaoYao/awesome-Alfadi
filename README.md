@@ -15,10 +15,12 @@
 
 ---
 
+---
+
 ## Contribution
 
-Contributions are welcome!  
-Please read the [Contribution Guidelines](CONTRIBUTING.md) before submitting a pull request.
+Contributions are welcome and appreciated.  
+Please read the [Contribution Guidelines](./contributing.md) before submitting a pull request.
 
 ---
 
