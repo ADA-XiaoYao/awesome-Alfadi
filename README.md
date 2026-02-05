@@ -22,9 +22,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## License
-
-[CC0 1.0](LICENSE)
+## License [CC0 1.0](LICENSE)
 ---
 
 ## Table of Contents
