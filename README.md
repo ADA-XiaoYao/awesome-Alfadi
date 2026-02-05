@@ -1894,165 +1894,166 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## 开发工具与职业成长
+## Developer Tools & Career Growth
 
-#### 12.1 综合性 Awesome 列表 & 资源库
+#### 12.1 Comprehensive Awesome Lists & Resource Libraries
 
-*   [Awesome Dev Env](https://github.com/jondot/awesome-dev-env) - 开发环境的综合资源列表。
-*   [Awesome Developer Tools](https://github.com/goabstract/awesome-developer-tools) - 各种开发者工具的集合。
-*   [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) - 提升生产力的工具和资源。
-*   [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - (重复) 成为各类开发者的学习路径图。
-*   [Free for Dev](https://github.com/ripienaar/free-for-dev) - (重复) 为开发者提供的免费 SaaS、PaaS、IaaS 等服务。
-*   [Awesome-README](https://github.com/matiassingers/awesome-readme) - (重复) 优秀的 README 范例。
-*   [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - 技术写作资源。
-*   [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - (重复) 各种技术和工具的速查表。
-*   [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行使用艺术。
-*   [Awesome-Interview-Questions](https://github.com/DopplerHQ/awesome-interview-questions) - (重复) 精选的面试问题列表。
-*   [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - (重复) 为忙碌工程师准备的免费技术面试资源。
-*   [Coding Interview University](https://github.com/jwasham/coding-interview-university) - (重复) 成为软件工程师的完整自学计划。
-*   [Professional Programming](https://github.com/charlax/professional-programming) - (重复) 成为更专业程序员的资源集合。
-*   [Awesome-for-Beginners](https://github.com/MunGell/awesome-for-beginners) - 对新手友好的开源项目。
-*   [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks) - (重复) 精彩的技术演讲。
-*   [Awesome-Podcasts](https://github.com/rShetty/awesome-podcasts) - (重复) 开发者喜欢的播客。
-*   [Awesome-Newsletters](https://github.com/zudochkin/awesome-newsletters) - (重复) 值得订阅的技术简报。
-*   [Developer-Health](https://github.com/zen-pro/awesome-developer-health) - 开发者健康资源。
+*   [Awesome Dev Env](https://github.com/jondot/awesome-dev-env) - A comprehensive list of development environment resources.
+*   [Awesome Developer Tools](https://github.com/goabstract/awesome-developer-tools) - A collection of various developer tools.
+*   [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) - Tools and resources to boost productivity.
+*   [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - (Duplicate) Learning roadmaps for different developer roles.
+*   [Free for Dev](https://github.com/ripienaar/free-for-dev) - (Duplicate) Free SaaS, PaaS, IaaS and other services for developers.
+*   [Awesome-README](https://github.com/matiassingers/awesome-readme) - (Duplicate) Excellent README examples.
+*   [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - Technical writing resources.
+*   [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - (Duplicate) Cheat sheets for various technologies and tools.
+*   [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Mastering the command line.
+*   [Awesome-Interview-Questions](https://github.com/DopplerHQ/awesome-interview-questions) - (Duplicate) Curated interview question lists.
+*   [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - (Duplicate) Free technical interview resources for busy engineers.
+*   [Coding Interview University](https://github.com/jwasham/coding-interview-university) - (Duplicate) Complete self-taught curriculum for becoming a software engineer.
+*   [Professional Programming](https://github.com/charlax/professional-programming) - (Duplicate) Resources to become a more professional programmer.
+*   [Awesome-for-Beginners](https://github.com/MunGell/awesome-for-beginners) - Beginner-friendly open source projects.
+*   [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks) - (Duplicate) Inspiring technical talks.
+*   [Awesome-Podcasts](https://github.com/rShetty/awesome-podcasts) - (Duplicate) Podcasts loved by developers.
+*   [Awesome-Newsletters](https://github.com/zudochkin/awesome-newsletters) - (Duplicate) Valuable tech newsletters.
+*   [Developer-Health](https://github.com/zen-pro/awesome-developer-health) - Developer health resources.
 
-#### 12.2 代码编辑器 & IDE
-*   [Claude Code](https://github.com/anthropics/claude-code) - Anthropic 官方出品的 AI 编程命令行工具。
-*   [Zed](https://github.com/zed-industries/zed) - 由 Atom 创始人打造的高性能代码编辑器。
+#### 12.2 Code Editors & IDEs
 
-*   [Visual Studio Code (VS Code)](https://github.com/microsoft/vscode) - 微软出品的、最流行的开源代码编辑器。
-*   [Awesome-VSCode](https://github.com/viatsko/awesome-vscode) - (重复) VSCode 插件和资源。
-*   [Neovim](https://github.com/neovim/neovim) - Vim 的一个分支，专注于可扩展性和可用性。
-*   [Awesome-Neovim](https://github.com/rockerBOO/awesome-neovim) - (重复) Neovim 插件和资源。
-*   [Vim](https://github.com/vim/vim) - 高度可配置的文本编辑器。
-*   [The Ultimate Vim Configuration](https://github.com/amix/vimrc) - 终极 Vim 配置。
-*   [SpaceVim](https://github.com/SpaceVim/SpaceVim) - 社区驱动的、模块化的 Vim/Neovim 配置。
-*   [Emacs](https://www.gnu.org/software/emacs/) - 可扩展的、可定制的、自文档化的实时显示编辑器。
-*   [Doom Emacs](https://github.com/doomemacs/doomemacs) - 为“Vim 精英”设计的 Emacs 配置框架。
-*   [Spacemacs](https://github.com/syl20bnr/spacemacs) - 社区驱动的 Emacs 发行版。
-*   [JetBrains IDEs](https://www.jetbrains.com/products/) - (商业) IntelliJ IDEA, PyCharm, GoLand, WebStorm 等。
-*   [Sublime Text](https://www.sublimetext.com/) - (商业) 成熟的、精致的文本编辑器。
-*   [Atom](https://github.com/atom/atom) - (已归档) GitHub 出品的可定制文本编辑器。
-*   [Zed](https://github.com/zed-industries/zed) - (macOS) Atom 和 Tree-sitter 创始人打造的高性能、多人协作代码编辑器。
-*   [Lapce](https://github.com/lapce/lapce) - Rust 编写的、快如闪电的、强大的代码编辑器。
-*   [Helix](https://github.com/helix-editor/helix) - Rust 编写的、受 Kakoune/Neovim 启发的、后现代文本编辑器。
-*   [OniVim 2](https://github.com/onivim/oni2) - (已归档) 结合 Vim 和 VS Code 优点的编辑器。
+*   [Claude Code](https://github.com/anthropics/claude-code) - Official AI coding CLI tool by Anthropic.
+*   [Zed](https://github.com/zed-industries/zed) - A high-performance code editor created by the founders of Atom.
 
-#### 12.3 终端 & Shell
+*   [Visual Studio Code (VS Code)](https://github.com/microsoft/vscode) - Microsoft’s most popular open-source code editor.
+*   [Awesome-VSCode](https://github.com/viatsko/awesome-vscode) - (Duplicate) VS Code extensions and resources.
+*   [Neovim](https://github.com/neovim/neovim) - A fork of Vim focused on extensibility and usability.
+*   [Awesome-Neovim](https://github.com/rockerBOO/awesome-neovim) - (Duplicate) Neovim plugins and resources.
+*   [Vim](https://github.com/vim/vim) - Highly configurable text editor.
+*   [The Ultimate Vim Configuration](https://github.com/amix/vimrc) - Ultimate Vim configuration.
+*   [SpaceVim](https://github.com/SpaceVim/SpaceVim) - Community-driven modular Vim/Neovim configuration.
+*   [Emacs](https://www.gnu.org/software/emacs/) - Extensible, customizable, self-documenting real-time display editor.
+*   [Doom Emacs](https://github.com/doomemacs/doomemacs) - An Emacs configuration framework for Vim enthusiasts.
+*   [Spacemacs](https://github.com/syl20bnr/spacemacs) - Community-driven Emacs distribution.
+*   [JetBrains IDEs](https://www.jetbrains.com/products/) - (Commercial) IntelliJ IDEA, PyCharm, GoLand, WebStorm, etc.
+*   [Sublime Text](https://www.sublimetext.com/) - (Commercial) Mature and refined text editor.
+*   [Atom](https://github.com/atom/atom) - (Archived) Customizable text editor by GitHub.
+*   [Zed](https://github.com/zed-industries/zed) - (macOS) High-performance collaborative editor built by Atom & Tree-sitter creators.
+*   [Lapce](https://github.com/lapce/lapce) - Lightning-fast powerful code editor written in Rust.
+*   [Helix](https://github.com/helix-editor/helix) - Post-modern text editor inspired by Kakoune/Neovim, written in Rust.
+*   [OniVim 2](https://github.com/onivim/oni2) - (Archived) Editor combining Vim and VS Code features.
 
-*   [Alacritty](https://github.com/alacritty/alacritty) - (重复) 跨平台的、GPU 加速的终端模拟器。
-*   [WezTerm](https://github.com/wez/wezterm) - Rust 编写的、GPU 加速的、跨平台的终端模拟器和多路复用器。
-*   [Kitty](https://github.com/kovidgoyal/kitty) - 快速的、功能丰富的、GPU 加速的终端模拟器。
-*   [Hyper](https://github.com/vercel/hyper) - 基于 Web 技术的终端。
-*   [iTerm2](https://iterm2.com/) - (macOS) macOS 的终端替代品。
-*   [Windows Terminal](https://github.com/microsoft/terminal) - 微软为 Windows 打造的现代终端应用。
-*   [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - 社区驱动的、用于管理 Zsh 配置的框架。
-*   [Awesome-Zsh-Plugins](https://github.com/unixorn/awesome-zsh-plugins) - (重复) Zsh 插件和主题。
-*   [Starship](https://github.com/starship/starship) - 极简的、极速的、可无限定制的跨 Shell 提示符。
-*   [Fish Shell](https://github.com/fish-shell/fish-shell) - 智能且用户友好的命令行 Shell。
-*   [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Fish Shell 的框架。
-*   [Fig](https://fig.io/) - (已被 AWS 收购) 为终端添加 IDE 风格的自动补全。
-*   [Warp](https://www.warp.dev/) - (macOS) Rust 编写的、现代化的终端。
-*   [Tmux](https://github.com/tmux/tmux) - 终端多路复用器。
-*   [Zellij](https://github.com/zellij-org/zellij) - Rust 编写的、面向开发者的终端工作区。
-*   [Fzf](https://github.com/junegunn/fzf) - 通用的命令行模糊查找器。
-*   [Bat](https://github.com/sharkdp/bat) - (重复) 带有语法高亮和 Git 集成的 `cat` 克隆。
-*   [Ripgrep](https://github.com/BurntSushi/ripgrep) - (重复) 极速的行导向搜索工具。
-*   [Exa](https://github.com/ogham/exa) - (重复) `ls` 的现代替代品。
-*   [Fd](https://github.com/sharkdp/fd) - `find` 的简单、快速、用户友好的替代品。
-*   [Sd](https://github.com/chmln/sd) - 直观的查找和替换命令行工具。
-*   [Zoxide](https://github.com/ajeetdsouza/zoxide) - 更智能的 `cd` 命令。
-*   [Tldr](https://github.com/tldr-pages/tldr) - 社区维护的、简化的 man pages。
-*   [Cheat.sh](https://github.com/chubin/cheat.sh) - 统一的、社区驱动的备忘单。
-*   [Awesome-Shell](https://github.com/alebcay/awesome-shell) - (重复) Shell 工具和资源。
-*   [Awesome-CLI-Apps](https://github.com/agarrharr/awesome-cli-apps) - (重复) 优秀的命令行应用。
+#### 12.3 Terminals & Shells
 
-#### 12.4 Git & 版本控制
+*   [Alacritty](https://github.com/alacritty/alacritty) - (Duplicate) Cross-platform GPU-accelerated terminal emulator.
+*   [WezTerm](https://github.com/wez/wezterm) - Rust-based GPU-accelerated cross-platform terminal and multiplexer.
+*   [Kitty](https://github.com/kovidgoyal/kitty) - Fast, feature-rich GPU-accelerated terminal emulator.
+*   [Hyper](https://github.com/vercel/hyper) - Terminal built on web technologies.
+*   [iTerm2](https://iterm2.com/) - (macOS) Terminal replacement for macOS.
+*   [Windows Terminal](https://github.com/microsoft/terminal) - Modern terminal application for Windows.
+*   [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Community-driven framework for managing Zsh configuration.
+*   [Awesome-Zsh-Plugins](https://github.com/unixorn/awesome-zsh-plugins) - (Duplicate) Zsh plugins and themes.
+*   [Starship](https://github.com/starship/starship) - Minimal, blazing-fast, infinitely customizable cross-shell prompt.
+*   [Fish Shell](https://github.com/fish-shell/fish-shell) - Smart and user-friendly command line shell.
+*   [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Framework for Fish Shell.
+*   [Fig](https://fig.io/) - (Acquired by AWS) IDE-style autocomplete for terminals.
+*   [Warp](https://www.warp.dev/) - (macOS) Modern Rust-based terminal.
+*   [Tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
+*   [Zellij](https://github.com/zellij-org/zellij) - Rust-based terminal workspace for developers.
+*   [Fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder.
+*   [Bat](https://github.com/sharkdp/bat) - (Duplicate) `cat` clone with syntax highlighting and Git integration.
+*   [Ripgrep](https://github.com/BurntSushi/ripgrep) - (Duplicate) Extremely fast line-oriented search tool.
+*   [Exa](https://github.com/ogham/exa) - (Duplicate) Modern replacement for `ls`.
+*   [Fd](https://github.com/sharkdp/fd) - Simple, fast, user-friendly alternative to `find`.
+*   [Sd](https://github.com/chmln/sd) - Intuitive find & replace CLI tool.
+*   [Zoxide](https://github.com/ajeetdsouza/zoxide) - Smarter `cd` command.
+*   [Tldr](https://github.com/tldr-pages/tldr) - Community-maintained simplified man pages.
+*   [Cheat.sh](https://github.com/chubin/cheat.sh) - Unified community-driven cheat sheets.
+*   [Awesome-Shell](https://github.com/alebcay/awesome-shell) - (Duplicate) Shell tools and resources.
+*   [Awesome-CLI-Apps](https://github.com/agarrharr/awesome-cli-apps) - (Duplicate) Excellent command-line applications.
 
-*   [Git](https://github.com/git/git) - 分布式版本控制系统。
-*   [Pro Git](https://github.com/progit/progit2) - 《Pro Git》第二版电子书。
-*   [Git-flight-rules](https://github.com/k88hudson/git-flight-rules) - (重复) Git 飞行规则，处理各种紧急情况的指南。
-*   [Gitignore](https://github.com/github/gitignore) - (重复) 有用的 `.gitignore` 模板集合。
-*   [Lazygit](https://github.com/jesseduffield/lazygit) - 简单的 Git 终端 UI。
-*   [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - 规范化的 Git 提交信息标准。
-*   [Commitizen](https://github.com/commitizen/cz-cli) - 帮助生成符合 Conventional Commits 标准的提交信息。
-*   [Husky](https://github.com/typicode/husky) - 现代化的原生 Git 钩子。
-*   [GitKraken](https://www.gitkraken.com/) - (商业) 跨平台的 Git GUI 客户端。
-*   [SourceTree](https://www.sourcetreeapp.com/) - (免费) 适用于 Windows 和 Mac 的 Git GUI。
-*   [GitHub Desktop](https://github.com/desktop/desktop) - GitHub 官方的桌面客户端。
-*   [Gitea](https://github.com/go-gitea/gitea) - Go 编写的、自托管的 Git 服务。
-*   [Gogs](https://github.com/gogs/gogs) - 另一个 Go 编写的、自托管的 Git 服务。
-*   [GitLab](https://gitlab.com/gitlab-org/gitlab) - 开源的、完整的 DevOps 平台。
-*   [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - 用于从 Git 仓库中删除大文件或敏感数据的工具。
-*   [Git-LFS (Large File Storage)](https://github.com/git-lfs/git-lfs) - Git 的大文件存储扩展。
-*   [Delta](https://github.com/dandavison/delta) - Git 和 diff 输出的查看器。
+#### 12.4 Git & Version Control
 
-#### 12.5 文档 & 知识管理
+*   [Git](https://github.com/git/git) - Distributed version control system.
+*   [Pro Git](https://github.com/progit/progit2) - *Pro Git* 2nd edition book.
+*   [Git-flight-rules](https://github.com/k88hudson/git-flight-rules) - (Duplicate) Git flight rules for emergency situations.
+*   [Gitignore](https://github.com/github/gitignore) - (Duplicate) Collection of useful `.gitignore` templates.
+*   [Lazygit](https://github.com/jesseduffield/lazygit) - Simple Git terminal UI.
+*   [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Standardized Git commit message convention.
+*   [Commitizen](https://github.com/commitizen/cz-cli) - Generate commits following Conventional Commits.
+*   [Husky](https://github.com/typicode/husky) - Modern native Git hooks.
+*   [GitKraken](https://www.gitkraken.com/) - (Commercial) Cross-platform Git GUI client.
+*   [SourceTree](https://www.sourcetreeapp.com/) - (Free) Git GUI for Windows and Mac.
+*   [GitHub Desktop](https://github.com/desktop/desktop) - Official GitHub desktop client.
+*   [Gitea](https://github.com/go-gitea/gitea) - Self-hosted Git service written in Go.
+*   [Gogs](https://github.com/gogs/gogs) - Another self-hosted Git service written in Go.
+*   [GitLab](https://gitlab.com/gitlab-org/gitlab) - Open-source complete DevOps platform.
+*   [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Tool for removing large files or sensitive data from Git repos.
+*   [Git-LFS (Large File Storage)](https://github.com/git-lfs/git-lfs) - Git extension for large file storage.
+*   [Delta](https://github.com/dandavison/delta) - Viewer for Git and diff output.
 
-*   [Docusaurus](https://github.com/facebook/docusaurus) - Facebook 出品的、易于维护的开源文档网站。
-*   [MkDocs](https://github.com/mkdocs/mkdocs) - 快速、简单、美观的静态网站生成器，专为项目文档设计。
-*   [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) - MkDocs 的一个非常流行的主题。
-*   [VitePress](https://github.com/vuejs/vitepress) - Vue.js 团队出品的、基于 Vite 的静态网站生成器。
-*   [Docsify](https://github.com/docsifyjs/docsify) - 神奇的文档网站生成器，无需构建过程。
-*   [Read the Docs](https://github.com/readthedocs/readthedocs.org) - 自动化构建、版本化和托管文档的平台。
-*   [Obsidian](https://obsidian.md/) - (免费增值) 基于本地 Markdown 文件的强大的知识库。
-*   [Logseq](https://github.com/logseq/logseq) - 注重隐私的、开源的知识管理和协作平台。
-*   [Joplin](https://github.com/laurent22/joplin) - 开源的笔记和待办事项应用，支持端到端加密。
-*   [Notion](https://www.notion.so/) - (商业) 将笔记、任务、Wiki 和数据库集成在一起的一体化工作空间。
-*   [Typora](https://typora.io/) - (商业) 极简的、所见即所得的 Markdown 编辑器。
-*   [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown 语法备忘单。
-*   [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - (重复) 可自行托管的服务列表，包含大量文档和 Wiki 系统。
-*   [Diataxis Framework](https://diataxis.fr/) - 技术文档写作的系统性框架。
-*   [Write the Docs](https://www.writethedocs.org/) - 关注文档、文档编写者和用户的全球社区。
+#### 12.5 Documentation & Knowledge Management
 
-#### 12.6 职业成长 & 软技能
+*   [Docusaurus](https://github.com/facebook/docusaurus) - Easy-to-maintain open-source documentation websites by Facebook.
+*   [MkDocs](https://github.com/mkdocs/mkdocs) - Fast, simple, beautiful static site generator for project docs.
+*   [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) - Popular theme for MkDocs.
+*   [VitePress](https://github.com/vuejs/vitepress) - Vite-powered static site generator by the Vue team.
+*   [Docsify](https://github.com/docsifyjs/docsify) - Magical documentation generator without build steps.
+*   [Read the Docs](https://github.com/readthedocs/readthedocs.org) - Platform for building, versioning, and hosting docs.
+*   [Obsidian](https://obsidian.md/) - (Freemium) Powerful knowledge base built on local Markdown files.
+*   [Logseq](https://github.com/logseq/logseq) - Privacy-focused open-source knowledge management platform.
+*   [Joplin](https://github.com/laurent22/joplin) - Open-source note-taking and to-do app with E2EE.
+*   [Notion](https://www.notion.so/) - (Commercial) All-in-one workspace for notes, tasks, wikis, and databases.
+*   [Typora](https://typora.io/) - (Commercial) Minimal WYSIWYG Markdown editor.
+*   [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown syntax cheat sheet.
+*   [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - (Duplicate) Self-hosted services including docs and wiki systems.
+*   [Diataxis Framework](https://diataxis.fr/) - Systematic framework for technical documentation.
+*   [Write the Docs](https://www.writethedocs.org/) - Global community focused on documentation and writers.
 
-*   [The Pragmatic Programmer](https://github.com/pragmaticprogrammer/pragmatic_programmer_20th_anniversary_edition) - (重复) 《程序员的修炼》相关资源。
-*   [Clean Code](https://github.com/JuanCrg90/Clean-Code-Notes) - (重复) 《代码整洁之道》笔记与实践。
-*   [Design Patterns](https://github.com/iluwatar/java-design-patterns) - (重复) Java 设计模式实现。
-*   [Refactoring Guru](https://refactoring.guru/) - 设计模式、重构、SOLID 原则等的可视化学习网站。
-*   [97-Things-Every-Programmer-Should-Know](https://github.com/97-things/97-things-every-programmer-should-know) - (重复) 每个程序员都应该知道的 97 件事。
-*   [Software Engineering at Google](https://github.com/google/eng-practices) - (重复) Google 的工程实践文档。
-*   [System Design Primer](https://github.com/donnemartin/system-design-primer) - (重复) 学习如何设计可扩展的系统。
-*   [Staff Engineer](https://staffeng.com/) - Staff+ 级别工程师的故事和经验。
-*   [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) - 《技术领导之路》书籍。
-*   [Pragmatic Engineer](https://blog.pragmaticengineer.com/) - Gergely Orosz 的博客，深入探讨软件工程和技术职业。
-*   [Levels.fyi](https://www.levels.fyi/) - 科技公司的职级、薪酬和职业路径对比。
-*   [Blind](https://www.teamblind.com/) - 匿名的职业社区。
-*   [LeetCode](https://leetcode.com/) - (重复) 算法和数据结构练习平台。
-*   [HackerRank](https://www.hackerrank.com/) - 另一个编程技能练习和竞赛平台。
-*   [Codewars](https://www.codewars.com/) - 通过挑战来提升编码技能。
-*   [Project Euler](https://projecteuler.net/) - 一系列具有挑战性的数学/计算机编程问题。
-*   [Awesome-Remote-Work](https://github.com/lukasz-madon/awesome-remote-job) - (重复) 远程工作资源。
-*   [Public-Speaking](https://github.com/vmbrasseur/Public_Speaking) - 公开演讲资源。
-*   [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - 如何成为一名程序员。
-*   [You-are-not-a-visual-learner](https://www.youtube.com/watch?v=rhgwIhB58PA) - 关于学习方法论的讨论。
-*   [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - Coursera 上的热门课程。
+#### 12.6 Career Growth & Soft Skills
 
-#### 12.7 其他实用工具
+*   [The Pragmatic Programmer](https://github.com/pragmaticprogrammer/pragmatic_programmer_20th_anniversary_edition) - (Duplicate) Resources related to *The Pragmatic Programmer*.
+*   [Clean Code](https://github.com/JuanCrg90/Clean-Code-Notes) - (Duplicate) Notes and practices from *Clean Code*.
+*   [Design Patterns](https://github.com/iluwatar/java-design-patterns) - (Duplicate) Java design pattern implementations.
+*   [Refactoring Guru](https://refactoring.guru/) - Visual learning site for design patterns, refactoring, and SOLID principles.
+*   [97-Things-Every-Programmer-Should-Know](https://github.com/97-things/97-things-every-programmer-should-know) - (Duplicate) 97 things every programmer should know.
+*   [Software Engineering at Google](https://github.com/google/eng-practices) - (Duplicate) Google engineering practices.
+*   [System Design Primer](https://github.com/donnemartin/system-design-primer) - (Duplicate) Learn to design scalable systems.
+*   [Staff Engineer](https://staffeng.com/) - Stories and lessons for Staff+ engineers.
+*   [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) - *The Manager’s Path* book.
+*   [Pragmatic Engineer](https://blog.pragmaticengineer.com/) - Blog by Gergely Orosz on software engineering careers.
+*   [Levels.fyi](https://www.levels.fyi/) - Compare levels, salaries, and career paths in tech companies.
+*   [Blind](https://www.teamblind.com/) - Anonymous professional community.
+*   [LeetCode](https://leetcode.com/) - (Duplicate) Algorithms and data structure practice platform.
+*   [HackerRank](https://www.hackerrank.com/) - Coding skills practice and competitions.
+*   [Codewars](https://www.codewars.com/) - Improve coding through challenges.
+*   [Project Euler](https://projecteuler.net/) - Challenging math and programming problems.
+*   [Awesome-Remote-Work](https://github.com/lukasz-madon/awesome-remote-job) - (Duplicate) Remote work resources.
+*   [Public-Speaking](https://github.com/vmbrasseur/Public_Speaking) - Public speaking resources.
+*   [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Guide on becoming a programmer.
+*   [You-are-not-a-visual-learner](https://www.youtube.com/watch?v=rhgwIhB58PA) - Discussion on learning methodologies.
+*   [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - Popular Coursera course on learning strategies.
 
-*   [HTTPie](https://github.com/httpie/httpie) - (重复) 现代化的、用户友好的命令行 HTTP 客户端。
-*   [Postman](https://www.postman.com/) - (重复) API 开发、测试和文档化的协作平台。
-*   [Insomnia](https://github.com/Kong/insomnia) - (重复) 开源的、跨平台的 API 设计和测试工具。
-*   [Docker](https://github.com/docker/cli) - (重复) 应用容器化平台。
-*   [Kubernetes](https://github.com/kubernetes/kubernetes) - (重复) 容器编排系统。
-*   [Ansible](https://github.com/ansible/ansible) - 简单的 IT 自动化引擎。
-*   [Terraform](https://github.com/hashicorp/terraform) - (重复) 基础设施即代码（IaC）工具。
-*   [NVM (Node Version Manager)](https://github.com/nvm-sh/nvm) - Node.js 版本管理器。
-*   [Pyenv](https://github.com/pyenv/pyenv) - Python 版本管理器。
-*   [asdf](https://github.com/asdf-vm/asdf) - 可扩展的版本管理器，支持多种语言。
-*   [jq](https://github.com/jqlang/jq) - (重复) 命令行 JSON 处理工具。
-*   [yq](https://github.com/mikefarah/yq) - 类似 jq 但用于 YAML, JSON, XML, properties 和 TOML 的工具。
-*   [ngrok](https://ngrok.com/) - 将本地服务器暴露到公网的工具。
-*   [LocalStack](https://github.com/localstack/localstack) - 在本地模拟 AWS 云服务的框架。
-*   [DBngin](https://dbngin.com/) - 一体化的数据库版本管理工具。
-*   [DB-Gate](https://github.com/dbeaver/dbeaver) - DBeaver，免费的通用数据库工具。
-*   [Responsively App](https://github.com/responsively-app/responsively-app) - 用于 Web 开发的、修改版的浏览器，可同时预览多个屏幕尺寸。
-*   [Carbon](https://github.com/carbon-app/carbon) - 创建和分享源代码的精美图片。
-*   [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 屏幕、摄像头和白板录制工具，可导出为 GIF、视频等。
-*   [Kap](https://github.com/wulkano/kap) - (macOS) 开源的屏幕录制工具。
-*   [LiceCap](https://www.cockos.com/licecap/) - 简单的动画屏幕捕捉工具。
-*   [GIMP](https://www.gimp.org/) - 开源的图像编辑器。
-*   [Inkscape](https://inkscape.org/) - 开源的矢量图形编辑器。
-*   [Excalidraw](https://github.com/excalidraw/excalidraw) - 虚拟协作白板工具。
+#### 12.7 Other Practical Tools
+
+*   [HTTPie](https://github.com/httpie/httpie) - (Duplicate) Modern user-friendly command-line HTTP client.
+*   [Postman](https://www.postman.com/) - (Duplicate) Collaborative API development and testing platform.
+*   [Insomnia](https://github.com/Kong/insomnia) - (Duplicate) Open-source cross-platform API design and testing tool.
+*   [Docker](https://github.com/docker/cli) - (Duplicate) Application containerization platform.
+*   [Kubernetes](https://github.com/kubernetes/kubernetes) - (Duplicate) Container orchestration system.
+*   [Ansible](https://github.com/ansible/ansible) - Simple IT automation engine.
+*   [Terraform](https://github.com/hashicorp/terraform) - (Duplicate) Infrastructure as Code tool.
+*   [NVM (Node Version Manager)](https://github.com/nvm-sh/nvm) - Node.js version manager.
+*   [Pyenv](https://github.com/pyenv/pyenv) - Python version manager.
+*   [asdf](https://github.com/asdf-vm/asdf) - Extensible multi-language version manager.
+*   [jq](https://github.com/jqlang/jq) - (Duplicate) Command-line JSON processor.
+*   [yq](https://github.com/mikefarah/yq) - YAML/JSON/XML/TOML processor similar to jq.
+*   [ngrok](https://ngrok.com/) - Expose local servers to the public internet.
+*   [LocalStack](https://github.com/localstack/localstack) - Local AWS cloud service emulator.
+*   [DBngin](https://dbngin.com/) - All-in-one database version manager.
+*   [DB-Gate](https://github.com/dbeaver/dbeaver) - DBeaver, free universal database tool.
+*   [Responsively App](https://github.com/responsively-app/responsively-app) - Modified browser for multi-screen web preview.
+*   [Carbon](https://github.com/carbon-app/carbon) - Create and share beautiful source code images.
+*   [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - Screen, webcam, and whiteboard recorder exporting GIF/video.
+*   [Kap](https://github.com/wulkano/kap) - (macOS) Open-source screen recorder.
+*   [LiceCap](https://www.cockos.com/licecap/) - Simple animated screen capture tool.
+*   [GIMP](https://www.gimp.org/) - Open-source image editor.
+*   [Inkscape](https://inkscape.org/) - Open-source vector graphics editor.
+*   [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual collaborative whiteboard tool.
