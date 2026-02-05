@@ -81,229 +81,63 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Developer Tools & Career Growth](#developer-tools--career-growth)
 ---
 
-## Awesome 系列精选
+## Awesome Collections
 
-#### 元列表 & 综合
+### Meta Lists & General
 
-*   [Awesome](https://github.com/sindresorhus/awesome) - Awesome 列表的元列表，一切的起点。
-*   [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - 一个很棒的 Awesome 列表的列表。
-*   [Lists](https://github.com/jnv/lists) - 各种主题的精彩列表集合（不仅限于 Awesome）。
-*   [Awesome Standalones](https://github.com/sublimino/awesome-standalones) - 独立的、自成体系的 Awesome 列表。
-*   [Awesome-JSON-Datasets](https://github.com/jdorfman/awesome-json-datasets) - 用于测试和原型设计的 JSON 数据集。
-*   [Awesome Readme](https://github.com/matiassingers/awesome-readme) - 值得学习的 README 文件范例。
-*   [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 各种技术和工具的速查表。
-*   [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) - 程序员对于各种概念的错误认知。
-*   [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - 精选的面试问题列表。
-*   [Awesome Analytics](https://github.com/newhouse/awesome-analytics) - 分析工具和服务。
-*   [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - 高质量的公共数据集。
-*   [Awesome Stacks](https://github.com/stackshareio/awesome-stacks) - 各种著名的技术栈。
+* [Awesome](https://github.com/sindresorhus/awesome) - The original curated list of awesome lists.
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A large collection of awesome lists across topics.
+* [Lists](https://github.com/jnv/lists) - Categorized collections of useful GitHub lists.
+* [Awesome Standalones](https://github.com/sublimino/awesome-standalones) - Independent and self-contained awesome lists.
+* [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets) - Public JSON datasets for testing and prototyping.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) - Examples of well-structured README files.
+* [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - Quick reference sheets for tools and technologies.
+* [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Common misconceptions in software development.
+* [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - Curated technical interview questions.
+* [Awesome Analytics](https://github.com/newhouse/awesome-analytics) - Analytics tools and services.
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - High-quality public datasets.
+* [Awesome Stacks](https://github.com/stackshareio/awesome-stacks) - Popular technology stacks used by companies.
 
-#### 平台 & 生态
+### Platforms & Ecosystems
 
-*   [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - macOS 上的优质软件、工具和资源。
-*   [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Windows 上的优质应用和工具。
-*   [Awesome Linux](https://github.com/luong-komorebi/Awesome-Linux-Software) - 适用于 Linux 的优质软件。
-*   [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 可自行托管的免费软件网络服务和 Web 应用列表。
-*   [Awesome-Android-UI](https://github.com/wasabeef/awesome-android-ui) - 精选的 Android UI/UX 库。
-*   [Awesome-iOS](https://github.com/vsouza/awesome-ios) - iOS 库、工具和框架。
-*   [Awesome-Docker](https://github.com/veggiemonk/awesome-docker) - Docker 资源和项目。
-*   [Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Kubernetes 资源。
-*   [Awesome-Electron](https://github.com/sindresorhus/awesome-electron) - 使用 Electron 构建的应用和工具。
-*   [Awesome-VSCode](https://github.com/viatsko/awesome-vscode) - VSCode 插件和资源。
-*   [Awesome-Neovim](https://github.com/rockerBOO/awesome-neovim) - Neovim 插件和资源。
-*   [Awesome-GitHub-Profile-README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - GitHub 个人主页 README 范例。
-*   [Awesome-Actions](https://github.com/sdras/awesome-actions) - GitHub Actions 资源。
-*   [Awesome-Browser-Extensions-for-GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - 增强 GitHub 体验的浏览器插件。
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Applications and tools for macOS.
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Software and tools for Windows.
+* [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - Applications and tools for Linux.
+* [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Free self-hosted web services and applications.
+* [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui) - Android UI/UX libraries and resources.
+* [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS libraries and frameworks.
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - Docker tools and projects.
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Kubernetes tools and resources.
+* [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Applications and tools built with Electron.
+* [Awesome VSCode](https://github.com/viatsko/awesome-vscode) - VS Code extensions and resources.
+* [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim) - Neovim plugins and tools.
+* [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - GitHub profile README inspirations.
+* [Awesome Actions](https://github.com/sdras/awesome-actions) - GitHub Actions tools and workflows.
+* [Awesome Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Browser extensions that enhance GitHub.
 
-#### 编程语言
+### Programming Languages
 
-*   [Awesome-Python](https://github.com/vinta/awesome-python) - Python 框架、库、软件和资源。
-*   [Awesome-Go](https://github.com/avelino/awesome-go) - Go 框架、库和软件。
-*   [Awesome-JavaScript](https://github.com/sorrycc/awesome-javascript) - 浏览器端 JavaScript 库、资源。
-*   [Awesome-Rust](https://github.com/rust-unofficial/awesome-rust) - Rust 代码和资源。
-*   [Awesome-Java](https://github.com/akullpp/awesome-java) - Java 框架、库和软件。
-*   [Awesome-Cpp](https://github.com/fffaraz/awesome-cpp) - C++ 框架、库和资源。
-*   [Awesome-PHP](https://github.com/ziadoz/awesome-php) - PHP 库、资源和闪亮的东西。
-*   [Awesome-Ruby](https://github.com/markets/awesome-ruby) - Ruby 资源集合。
-*   [Awesome-Swift](https://github.com/matteocrippa/awesome-swift) - Swift 资源集合。
-*   [Awesome-Kotlin](https://github.com/KotlinBy/awesome-kotlin) - Kotlin 资源集合。
-*   [Awesome-TypeScript](https://github.com/dzharii/awesome-typescript) - TypeScript 资源。
-*   [Awesome-CSharp](https://github.com/uhub/awesome-csharp) - C# 框架、库和软件。
-*   [Awesome-Scala](https://github.com/lauris/awesome-scala) - Scala 库、框架和软件。
-*   [Awesome-Elixir](https://github.com/h4cc/awesome-elixir) - Elixir 库、文章、视频等。
-*   [Awesome-Haskell](https://github.com/krispo/awesome-haskell) - Haskell 资源。
-*   [Awesome-Clojure](https://github.com/razum2um/awesome-clojure) - Clojure 资源。
-*   [Awesome-Lua](https://github.com/LewisJEllis/awesome-lua) - Lua 资源。
-*   [Awesome-Perl](https://github.com/hachiojipm/awesome-perl) - Perl 资源。
-*   [Awesome-OCaml](https://github.com/ocaml-community/awesome-ocaml) - OCaml 资源。
-*   [Awesome-R](https://github.com/qinwf/awesome-R) - R 语言资源。
-*   [Awesome-D](https://github.com/dlang-community/awesome-d) - D 语言资源。
-*   [Awesome-Elm](https://github.com/sporto/awesome-elm) - Elm 语言资源。
-*   [Awesome-Erlang](https://github.com/drobakowski/awesome-erlang) - Erlang 资源。
-*   [Awesome-Julia](https://github.com/svaksha/Julia.jl) - Julia 语言资源。
-*   [Awesome-Crystal](https://github.com/veelenga/awesome-crystal) - Crystal 语言资源。
-*   [Awesome-Nim](https://github.com/ringabout/awesome-nim) - Nim 语言资源。
-*   [Awesome-Zig](https://github.com/catdevnull/awesome-zig) - Zig 语言资源。
-*   [Awesome-FSharp](https://github.com/fsprojects/Awesome-FSharp) - F# 资源。
-*   [Awesome-Dart](https://github.com/yissachar/awesome-dart) - Dart 语言资源。
-*   [Awesome-V](https://github.com/vlang/awesome-v) - V 语言资源。
-*   [Awesome-Assembly](https://github.com/jaspergould/awesome-assembly) - 汇编语言资源。
-
-#### 前端开发
-
-*   [Awesome-React](https://github.com/enaqx/awesome-react) - React 生态系统资源。
-*   [Awesome-Vue](https://github.com/vuejs/awesome-vue) - Vue.js 资源。
-*   [Awesome-Angular](https://github.com/gdi2290/awesome-angular) - Angular 资源。
-*   [Awesome-Svelte](https://github.com/TheComputerM/awesome-svelte) - Svelte 资源。
-*   [Awesome-Nodejs](https://github.com/sindresorhus/awesome-nodejs) - Node.js 包和资源。
-*   [Awesome-CSS](https://github.com/awesome-css-group/awesome-css) - CSS 框架、预处理器、库和样式指南。
-*   [Awesome-Tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - Tailwind CSS 资源。
-*   [Awesome-Nextjs](https://github.com/unicodeveloper/awesome-nextjs) - Next.js 资源。
-*   [Awesome-Web-Performance-Budget](https://github.com/pajaydev/awesome-web-performance-budget) - Web 性能预算资源。
-*   [Awesome-Storybook](https://github.com/lauthieb/awesome-storybook) - Storybook 资源。
-*   [Awesome-WPO](https://github.com/davidsonfellipe/awesome-wpo) - Web 性能优化资源。
-*   [Awesome-D3](https://github.com/wbkd/awesome-d3) - D3.js 资源。
-*   [Awesome-GraphQL](https://github.com/chentsulin/awesome-graphql) - GraphQL 和 Relay 资源。
-*   [Awesome-Web-Animation](https://github.com/sergey-pimenov/awesome-web-animation) - Web 动画资源。
-
-#### 后端开发
-
-*   [Awesome-Django](https://github.com/wsvincent/awesome-django) - Django 资源。
-*   [Awesome-Flask](https://github.com/humiaozuzu/awesome-flask) - Flask 资源。
-*   [Awesome-Laravel](https://github.com/chiraggude/awesome-laravel) - Laravel 框架资源。
-*   [Awesome-Spring](https://github.com/Sigma-Spring/Awesome-Spring) - Spring 生态系统项目。
-*   [Awesome-NestJS](https://github.com/juliandavidmr/awesome-nestjs) - NestJS 资源。
-*   [Awesome-FastAPI](https://github.com/mjhea0/awesome-fastapi) - FastAPI 资源。
-*   [Awesome-Rails](https://github.com/gramantin/awesome-rails) - Ruby on Rails 资源。
-*   [Awesome-Serverless](https://github.com/pmuens/awesome-serverless) - Serverless 架构、框架和资源。
-*   [Awesome-API](https://github.com/Kikobeats/awesome-api) - API 设计和开发资源。
-*   [Awesome-AdonisJS](https://github.com/adonisjs-community/awesome-adonisjs) - AdonisJS 资源。
-
-#### 计算机科学 & 软件工程
-
-*   [Awesome-CS-Courses](https://github.com/prakhar1989/awesome-cs-courses) - 大学里的计算机科学课程。
-*   [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms) - 算法和数据结构学习资源。
-*   [Awesome-Design-Patterns](https://github.com/DovAmir/awesome-design-patterns) - 软件设计模式资源。
-*   [Awesome-Compilers](https://github.com/aalhour/awesome-compilers) - 编译器、解释器和运行时资源。
-*   [Awesome-Distributed-Systems](https://github.com/theanalyst/awesome-distributed-systems) - 分布式系统资源。
-*   [Awesome-Concurrency](https://github.com/lukasz-madon/awesome-concurrency) - 并发编程资源。
-*   [Awesome-Clean-Code](https://github.com/JuanCrg90/Clean-Code-Notes) - 《代码整洁之道》笔记与实践。
-*   [Awesome-Testing](https://github.com/TheJambo/awesome-testing) - 软件测试资源。
-*   [Awesome-Devops](https://github.com/bregman-arie/awesome-devops) - DevOps 工具、文化和资源。
-*   [Awesome-SRE](https://github.com/dastergon/awesome-sre) - 网站可靠性工程资源。
-*   [Awesome-System-Design](https://github.com/maddhruv/awesome-system-design) - 系统设计资源。
-*   [Awesome-Computer-Vision](https://github.com/jbhuang0604/awesome-computer-vision) - 计算机视觉资源。
-*   [Awesome-NLP](https://github.com/keon/awesome-nlp) - 自然语言处理资源。
-*   [Awesome-Mathematics](https://github.com/rossant/awesome-math) - 数学资源。
-
-#### 网络安全
-
-*   [Awesome-Hacking](https://github.com/carpedm20/awesome-hacking) - 黑客与安全资源（再次强调，因为太重要）。
-*   [Awesome-Pentest](https://github.com/enaqx/awesome-pentest) - 渗透测试资源。
-*   [Awesome-Web-Security](https://github.com/qazbnm456/awesome-web-security) - Web 安全资源。
-*   [Awesome-Cybersecurity-Blue-Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) - 蓝队防御资源。
-*   [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - 红队资源。
-*   [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - 威胁情报资源。
-*   [Awesome-OSINT](https://github.com/jivoi/awesome-osint) - 开源情报资源。
-*   [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis) - 恶意软件分析工具和资源。
-*   [Awesome-CTF](https://github.com/apsdehal/awesome-ctf) - CTF 框架、库、资源。
-*   [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots) - 蜜罐资源。
-*   [Awesome-Fuzzing](https://github.com/cpuu/awesome-fuzzing) - Fuzzing 测试资源。
-*   [Awesome-Reverse-Engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - 逆向工程资源。
-*   [Awesome-Exploit-Development](https://github.com/FabioBaroni/awesome-exploit-development) - Exploit 开发资源。
-*   [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response) - 应急响应资源。
-*   [Awesome-Forensics](https://github.com/mre/awesome-forensics) - 数字取证资源。
-*   [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography) - 密码学资源和工具。
-*   [Awesome-API-Security](https://github.com/arainho/awesome-api-security) - API 安全资源。
-*   [Awesome-Cloud-Security](https://github.com/4ndersonLin/awesome-cloud-security) - 云安全资源。
-*   [Awesome-Container-Security](https://github.com/kai5263499/awesome-container-security) - 容器安全资源。
-*   [Awesome-AI-Security](https://github.com/Deep-Learning-Security/Awesome-AI-Security) - AI 安全资源。
-*   [Awesome-Web3-Security](https://github.com/Anugrahsr/Awesome-Web3-Security) - Web3 安全资源。
-*   [Awesome-Vehicle-Security](https://github.com/jaredthecoder/awesome-vehicle-security) - 汽车安全资源。
-*   [Awesome-Embedded-and-IoT-Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) - 嵌入式与物联网安全。
-
-#### 人工智能 & 数据科学
-
-*   [Awesome-Machine-Learning](https://github.com/josephmisiti/awesome-machine-learning) - 机器学习框架、库和软件。
-*   [Awesome-Deep-Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - 深度学习教程、项目和社区。
-*   [Awesome-Data-Science](https://github.com/academic/awesome-datascience) - 数据科学资源。
-*   [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 大语言模型资源。
-*   [Awesome-Reinforcement-Learning](https://github.com/aikorea/awesome-rl) - 强化学习资源。
-*   [Awesome-MLOps](https://github.com/visenger/awesome-mlops) - MLOps 平台和工具。
-*   [Awesome-Prompt-Engineering](https://github.com/prompt-engineering/awesome-prompt-engineering) - 提示工程资源。
-*   [Awesome-PyTorch](https://github.com/bharathgs/Awesome-pytorch-list) - PyTorch 资源。
-*   [Awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow 资源。
-*   [Awesome-Data-Engineering](https://github.com/igorbarinov/awesome-data-engineering) - 数据工程工具和资源。
-*   [Awesome-Big-Data](https://github.com/onurakpolat/awesome-bigdata) - 大数据资源。
-*   [Awesome-Deep-Vision](https://github.com/kjw0612/awesome-deep-vision) - 深度学习在计算机视觉中的应用。
-*   [Awesome-AI-in-Finance](https://github.com/georgezouq/awesome-ai-in-finance) - AI 在金融领域的应用。
-
-#### 硬件 & 底层
-
-*   [Awesome-Embedded-Systems](https://github.com/nhivp/Awesome-Embedded) - 嵌入式系统资源。
-*   [Awesome-Electronics](https://github.com/kitspace/awesome-electronics) - 电子工程资源。
-*   [Awesome-IoT](https://github.com/HQarroum/awesome-iot) - 物联网资源。
-*   [Awesome-Robotics](https://github.com/jslee02/awesome-robotics) - 机器人技术资源。
-*   [Awesome-Vulkan](https://github.com/vinjn/awesome-vulkan) - Vulkan API 资源。
-*   [Awesome-OpenGL](https://github.com/eug/awesome-opengl) - OpenGL 库、教程等。
-*   [Awesome-WebAssembly](https://github.com/mbasso/awesome-wasm) - WebAssembly 资源。
-*   [Awesome-RISC-V](https://github.com/drom/awesome-riscv) - RISC-V 设计和实现的资源。
-*   [Awesome-Quantum-Computing](https://github.com/desireevl/awesome-quantum-computing) - 量子计算资源。
-
-#### 游戏开发 & 图形
-
-*   [Awesome-Game-Development](https://github.com/ellisonleao/magictools) - 游戏开发资源。
-*   [Awesome-Game-Engine-Dev](https://github.com/stevinz/awesome-game-engine-dev) - 游戏引擎开发资源。
-*   [Awesome-Graphics](https://github.com/ericjang/awesome-graphics) - 计算机图形学资源。
-*   [Awesome-Unity](https://github.com/RyanNielson/awesome-unity) - Unity 游戏引擎资源。
-*   [Awesome-Godot](https://github.com/godotengine/awesome-godot) - Godot 游戏引擎资源。
-*   [Awesome-Creative-Coding](https://github.com/terkelg/awesome-creative-coding) - 创意编码资源。
-*   [Awesome-AR-VR](https://github.com/huningxin/awesome-arvr) - 增强现实与虚拟现实资源。
-
-#### 其他
-
-*   [Awesome-for-Beginners](https://github.com/MunGell/awesome-for-beginners) - 对新手友好的开源项目。
-*   [Awesome-Remote-Work](https://github.com/lukasz-madon/awesome-remote-job) - 远程工作资源。
-*   [Awesome-Technical-Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - 技术写作资源。
-*   [Awesome-Design](https://github.com/gztchan/awesome-design) - 为开发者准备的设计工具和资源。
-*   [Awesome-Stock-Resources](https://github.com/neutraltone/awesome-stock-resources) - 免费的图片、视频、音频等素材资源。
-*   [Awesome-Podcasts](https://github.com/rShetty/awesome-podcasts) - 开发者喜欢的播客。
-*   [Awesome-Newsletters](https://github.com/zudochkin/awesome-newsletters) - 值得订阅的技术简报。
-*   [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks) - 精彩的技术演讲。
-*   [Awesome-Indie](https://github.com/mezod/awesome-indie) - 独立开发者的资源。
-*   [Awesome-Fintech](https://github.com/moov-io/awesome-fintech) - 金融科技资源。
-*   [Awesome-Health](https://github.com/prabhic/awesome-health) - 健康科技资源。
-*   [Awesome-Open-Source-Documents](https://github.com/42-AI/awesome-open-source-documents) - 开源文档集合。
-*   [Awesome-Scientific-Writing](https://github.com/writing-resources/awesome-scientific-writing) - 科学写作资源。
-*   [Awesome-Product-Management](https://github.com/dend/awesome-product-management) - 产品管理资源。
-*   [Awesome-Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - 系统管理员资源。
-*   [Awesome-CLI-Apps](https://github.com/agarrharr/awesome-cli-apps) - 优秀的命令行应用。
-*   [Awesome-Shell](https://github.com/alebcay/awesome-shell) - Shell 工具和资源。
-*   [Awesome-Zsh-Plugins](https://github.com/unixorn/awesome-zsh-plugins) - Zsh 插件和主题。
-*   [Awesome-Home-Assistant](https://github.com/frenck/awesome-home-assistant) - Home Assistant 资源。
-*   [Awesome-3D-Printing](https://github.com/yutannihilation/awesome-3d-printing) - 3D 打印资源。
-*   [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - 生物信息学资源。
-*   [Awesome-Blockchain-AI](https://github.com/steven2358/awesome-blockchain-ai) - 区块链与 AI 结合的资源。
-*   [Awesome-CSV](https://github.com/secretGeek/AwesomeCSV) - CSV 工具和库。
-*   [Awesome-Dataviz](https://github.com/javierluraschi/awesome-dataviz) - 数据可视化资源。
-*   [Awesome-Deep-Learning-Music](https://github.com/ybayle/awesome-deep-learning-music) - 深度学习在音乐领域的应用。
-*   [Awesome-Economics](https://github.com/antontarasenko/awesome-economics) - 经济学资源。
-*   [Awesome-Flutter](https://github.com/Solido/awesome-flutter) - Flutter 资源。
-*   [Awesome-IPFS](https://github.com/ipfs/awesome-ipfs) - IPFS 资源。
-*   [Awesome-Jupyter](https://github.com/markusschanta/awesome-jupyter) - Jupyter 项目、库和资源。
-*   [Awesome-Observables](https://github.com/sindresorhus/awesome-observables) - Observables 资源。
-*   [Awesome-PICO-8](https://github.com/pico-8/awesome-PICO-8) - PICO-8 资源。
-*   [Awesome-Privacy](https://github.com/pluja/awesome-privacy) - 保护隐私的工具和服务。
-*   [Awesome-Progressive-Web-Apps](https://github.com/TalAter/awesome-progressive-web-apps) - PWA 资源。
-*   [Awesome-React-Native](https://github.com/jondot/awesome-react-native) - React Native 资源。
-*   [Awesome-Robotics-Libraries](https://github.com/Kiloreux/awesome-robotics-libraries) - 机器人库。
-*   [Awesome-Selenium](https://github.com/christian-bromann/awesome-selenium) - Selenium 资源。
-*   [Awesome-Static-Website-Services](https://github.com/agarrharr/awesome-static-website-services) - 静态网站服务。
-*   [Awesome-Streaming](https://github.com/manuzhang/awesome-streaming) - 流媒体技术资源。
-*   [Awesome-Web-Archiving](https://github.com/iipc/awesome-web-archiving) - Web 归档资源。
-*   [Awesome-Web-Design](https://github.com/nicolesaidy/awesome-web-design) - Web 设计资源。
-*   [Awesome-Web-Monetization](https://github.com/thomasbnt/awesome-web-monetization) - Web 盈利资源。
-*   [Awesome-Xamarin](https://github.com/XamSome/awesome-xamarin) - Xamarin 资源。
+* [Awesome Python](https://github.com/vinta/awesome-python) - Python frameworks, libraries, and tools.
+* [Awesome Go](https://github.com/avelino/awesome-go) - Go frameworks and software.
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - JavaScript libraries and resources.
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - Rust libraries and tools.
+* [Awesome Java](https://github.com/akullpp/awesome-java) - Java frameworks and tools.
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp) - C++ libraries and resources.
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) - PHP libraries and frameworks.
+* [Awesome Ruby](https://github.com/markets/awesome-ruby) - Ruby resources and tools.
+* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Swift libraries and tools.
+* [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) - Kotlin resources and libraries.
+* [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) - TypeScript tools and libraries.
+* [Awesome C#](https://github.com/uhub/awesome-csharp) - C# frameworks and tools.
+* [Awesome Scala](https://github.com/lauris/awesome-scala) - Scala libraries and tools.
+* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) - Elixir resources and libraries.
+* [Awesome Haskell](https://github.com/krispo/awesome-haskell) - Haskell resources.
+* [Awesome Clojure](https://github.com/razum2um/awesome-clojure) - Clojure resources.
+* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - Lua libraries and tools.
+* [Awesome Perl](https://github.com/hachiojipm/awesome-perl) - Perl resources.
+* [Awesome OCaml](https://github.com/ocaml-community/awesome-ocaml) - OCaml tools and libraries.
+* [Awesome R](https://github.com/qinwf/awesome-R) - R language resources.
+* [Awesome Julia](https://github.com/svaksha/Julia.jl) - Julia ecosystem resources.
 
 ---
 
