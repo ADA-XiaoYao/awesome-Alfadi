@@ -12,6 +12,22 @@
 </div>
 
 **A carefully selected, comprehensive learning list covering computer science, programming languages, and cybersecurity. Enabling everyone to become a top expert in their field.**
+
+---
+
+## Contribution
+
+Contributions are welcome!  
+Please read the [Contribution Guidelines](CONTRIBUTING.md) before submitting a pull request.
+
+---
+
+## License
+
+[CC0 1.0](LICENSE)
+
+To the extent possible under law, the author has waived all copyright and related or neighboring rights.
+
 ---
 
 ## 目录
