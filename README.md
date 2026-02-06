@@ -29,6 +29,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 ## Table of Contents
 
 
+
 [Awesome Collections](#awesome-collections)
 [Computer Science & Software Engineering](#computer-science--software-engineering)
 [Programming Languages](#programming-languages)
@@ -67,9 +68,9 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 [Developer Tools & Career Growth](#developer-tools--career-growth)
 ---
 
-## Awesome Collections
+## 1. Awesome Collections
 
-### Meta Lists & General
+### 1.1 Meta Lists & General
 
 - [Awesome](https://github.com/sindresorhus/awesome) - The original curated list of awesome lists.
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A large collection of awesome lists across topics.
@@ -82,7 +83,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - High-quality public datasets.
 - [Awesome Stacks](https://github.com/stackshareio/awesome-stacks) - Popular technology stacks used by companies.
 
-### Platforms & Ecosystems
+### 1.2 Platforms & Ecosystems
 
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Applications and tools for macOS.
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - Applications and tools for Linux.
@@ -98,7 +99,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Awesome Actions](https://github.com/sdras/awesome-actions) - GitHub Actions tools and workflows.
 - [Awesome Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Browser extensions that enhance GitHub.
 
-### Awesome Programming Languages
+### 1.3 Awesome Programming Languages
 
 - [Awesome Python](https://github.com/vinta/awesome-python) - Python frameworks, libraries, and tools.
 - [Awesome Go](https://github.com/avelino/awesome-go) - Go frameworks and software.
@@ -123,7 +124,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## Computer Science & Software Engineering
+## 2. Computer Science & Software Engineering
 
 #### 2.1 Comprehensive Learning Paths & Courses
 
@@ -237,7 +238,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## Programming Languages
+## 3. Programming Languages
 
 #### 3.1 Comprehensive Awesome Lists & Multi-Language Resources
 
@@ -303,9 +304,9 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-## Cybersecurity
+## 4. Cybersecurity
 
-### Foundations & Entry Level
+### 4.1 Foundations & Entry Level
 
 - [SafeLine](https://github.com/chaitin/safeline) - A high-performance WAF from Chaitin Tech.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - A community-driven, collaborative intrusion prevention system.
@@ -326,9 +327,9 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Reconnaissance & Information Gathering
+### 4.2 Reconnaissance & Information Gathering
 
-#### Subdomain Enumeration & Discovery
+#### 4.2.1 Subdomain Enumeration & Discovery
 - [Amass](https://github.com/owasp-amass/amass) - From OWASP, the most powerful tool for in-depth subdomain enumeration and network mapping.
 - [Subfinder](https://github.com/projectdiscovery/subfinder) - From ProjectDiscovery, a fast and modular passive subdomain enumeration tool.
 - [OneForAll](https://github.com/shmilylty/OneForAll) - A powerful subdomain collection tool.
@@ -353,7 +354,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [dnscan](https://github.com/rbsec/dnscan) - A DNS scanner written in Python.
 - [subbrute](https://github.com/TheRook/subbrute) - A fast DNS subdomain brute-forcing tool.
 
-#### Network Scanning & Port Discovery
+#### 4.2.2 Network Scanning & Port Discovery
 - [Nmap](https://github.com/nmap/nmap) - The king of network discovery and security auditing, an essential tool.
 - [Masscan](https://github.com/robertdavidgraham/masscan) - An internet-scale port scanner, extremely fast.
 - [Zmap](https://github.com/zmap/zmap) - Another open-source network scanner designed for internet-wide scanning.
@@ -367,7 +368,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Sparta](https://github.com/SECFORCE/sparta) - A graphical network infrastructure penetration testing tool.
 - [Zgrab2](https://github.com/zmap/zgrab2) - A fast, modular application layer scanner written in Go.
 
-#### Web Crawling & Directory/Path Discovery
+#### 4.2.3 Web Crawling & Directory/Path Discovery
 - [Dirsearch](https://github.com/maurosoria/dirsearch) - A web path scanner written in Go, fast and powerful.
 - [Feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [FFUF (Fuzz Faster U Fool)](https://github.com/ffuf/ffuf) - A fast web fuzzer written in Go, often used for directory brute-forcing.
@@ -389,7 +390,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Subjs](https://github.com/lc/subjs) - Extracts JavaScript files from web pages.
 - [Waymore](https://github.com/xnl-h4ck3r/waymore) - Finds more URLs from more sources.
 
-#### Open Source Intelligence (OSINT) & Sensitive Information Leakage
+#### 4.2.4 Open Source Intelligence (OSINT) & Sensitive Information Leakage
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Searches for high entropy strings and secrets in git repositories, digging deep into commit history.
 - [Gitleaks](https://github.com/gitleaks/gitleaks) - Detects hardcoded secrets in Git repositories.
 - [Shhgit](https://github.com/eth0izzle/shhgit) - Monitors GitHub in real-time for accidentally committed secrets and sensitive files.
@@ -416,7 +417,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Instaloader](https://github.com/instaloader/instaloader) - Downloads Instagram pictures (or videos) along with their captions and metadata.
 - [WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - A username enumeration tool.
 
-#### Visualization & Data Processing
+#### 4.2.5 Visualization & Data Processing
 - [Aquatone](https://github.com/michenriksen/aquatone) - A tool for visual inspection of websites across a large number of hosts.
 - [Gowitness](https://github.com/sensepost/gowitness) - A website screenshot tool written in Go.
 - [Eyewitness](https://github.com/FortyNorthSecurity/EyeWitness) - Designed to take screenshots of websites and assess default credentials for web servers.
@@ -434,7 +435,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [gf](https://github.com/tomnomnom/gf) - A wrapper around `grep` to find potential vulnerability patterns.
 - [Interlace](https://github.com/codingo/Interlace) - Easily multithread and parallelize different commands.
 
-#### Comprehensive Reconnaissance Frameworks & Platforms
+#### 4.2.6 Comprehensive Reconnaissance Frameworks & Platforms
 - [Sn1per](https://github.com/1N3/Sn1per) - An automated penetration testing reconnaissance scanner.
 - [Osmedeus](https://github.com/j3ssie/osmedeus) - An automated offensive security workflow.
 - [ReconFTW](https://github.com/six2dez/reconftw) - Aims to perform fully automated reconnaissance on a target by running the best set of tools.
@@ -446,7 +447,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework) - A comprehensive web application penetration testing framework.
 - [ReconDog](https://github.com/s0md3v/ReconDog) - An all-in-one reconnaissance tool.
 
-#### Technology-Specific Reconnaissance
+#### 4.2.7 Technology-Specific Reconnaissance
 - [Wpscan](https://github.com/wpscanteam/wpscan) - A WordPress security scanner.
 - [Joomscan](https://github.com/OWASP/joomscan) - A Joomla CMS scanner.
 - [Droopescan](https://github.com/droope/droopescan) - A Drupal CMS scanner.
@@ -461,7 +462,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Secure Development
+### 4.3 Secure Development
 
 - [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - A comprehensive list of resources for Application Security (AppSec).
 - [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries) - Secure development cheat sheets from OWASP, the gold standard for secure coding.
@@ -492,7 +493,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Web Security
+### 4.4 Web Security
 
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - The most comprehensive list of web security resources, covering various topics.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - The ultimate collection of web attack payloads and bypass techniques.
@@ -555,7 +556,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### JavaScript Reverse Engineering
+### 4.5 JavaScript Reverse Engineering
 
 - [de4js](https://github.com/lelinhtinh/de4js) - A JavaScript deobfuscation tool.
 - [AST Explorer](https://astexplorer.net/) - An online tool for analyzing JavaScript AST.
@@ -570,7 +571,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Java Security
+### 4.6 Java Security
 
 - [ysoserial](https://github.com/frohoff/ysoserial) - A tool for generating payloads that exploit unsafe Java object deserialization.
 - [Marshalsec](https://github.com/mbechler/marshalsec) - A Java deserialization exploitation library supporting multiple formats and payloads.
@@ -590,7 +591,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Web3 & Blockchain Security
+### 4.7 Web3 & Blockchain Security
 
 - [Awesome Web3 Security](https://github.com/Anugrahsr/Awesome-Web3-Security) - A list of resources for Web3 security.
 - [Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices) - Best practices for smart contract security.
@@ -608,7 +609,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### API Security
+### 4.8 API Security
 
 - [Awesome API Security](https://github.com/arainho/awesome-api-security) - The authoritative resource list for API security, covering tools, articles, and best practices.
 - [OWASP API Security Top 10](https://owasp.org/www-project-api-security/) - The official OWASP Top 10 API Security Risks project.
@@ -631,7 +632,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Service & Middleware Security
+### 4.9 Service & Middleware Security
 
 - [ysoserial.net](https://github.com/pwntester/ysoserial.net) - A deserialization payload generation tool for the .NET platform.
 - [dnSpy](https://github.com/dnSpy/dnSpy) - A .NET debugger and assembly editor.
@@ -672,7 +673,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Mobile Application Security
+### 4.10 Mobile Application Security
 
 - [Awesome-Android-Security](https://github.com/ashishb/android-security-awesome) - A list of Android security resources, including many reverse engineering tools.
 - [Awesome-iOS-Security](https://github.com/Siguza/ios-resources) - A list of iOS security resources.
@@ -696,7 +697,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### System Security
+### 4.11 System Security
 
 - [Linux-Kernel-Exploitation](https://github.com/xairy/linux-kernel-exploitation) - Learning resources for Linux kernel exploitation.
 - [Windows-Kernel-Exploits](https://github.com/SecWiki/windows-kernel-exploits) - A collection of exploit code for Windows kernel vulnerabilities.
@@ -745,7 +746,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Cloud Security
+### 4.12 Cloud Security
 
 - [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) - A comprehensive list of resources i>
 - [Awesome Kubernetes Security](https://github.com/magnologan/awesome-k8s-security) - A list of Kubernetes security res>
@@ -814,19 +815,19 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Vulnerability Discovery & Exploitation                                           
+### 4.13 Vulnerability Discovery & Exploitation                                           
 - [Awesome Pentesting](https://github.com/enaqx/awesome-pentesting) - A curated co>
 - [Exploit Database](https://github.com/offensive-security/exploitdb) - The offici>
 - [ProjectDiscovery Tools](https://github.com/projectdiscovery) - A collection of >
 
 ---
 
-### Code Auditing
+### 4.14 Code Auditing
 
 - [Awesome Code Review](https://github.com/joho/awesome-code-review) - A curated list of tools, articles, and resources about code review.
 - [Bandit](https://github.com/PyCQA/bandit) - A tool designed specifically to find common security issues in Python code.
 
-### Privilege Escalation
+### 4.15 Privilege Escalation
 
 - [Awesome Privilege Escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of high-quality resources, articles, and tools on privilege escalation.
 - [PEASS-ng](https://github.com/carlospolop/PEASS-ng) - Privilege Escalation Awesome Scripts SUITE, for Windows and Linux/Unix systems, to check for potential privilege escalation paths.
@@ -835,7 +836,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Evasion & Defense Bypass
+### 4.16 Evasion & Defense Bypass
 
 - [ScareCrow](https://github.com/optiv/ScareCrow) - An EDR evasion payload generatio>
 - [Shellcode-Loader](https://github.com/TheWover/donut) - Converts .NET assemblies i>
@@ -863,7 +864,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Binary Modification & Repackaging
+### 4.17 Binary Modification & Repackaging
 
 - [Awesome Reverse Engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - A curated list of resources, frameworks, and tools for reverse engineering.
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - A software reverse engineering (SRE) framework developed by the National Security Agency (NSA).
@@ -873,7 +874,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Weaponization & Tooling
+### 4.18 Weaponization & Tooling
 
 - [Metasploit's msfvenom](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-u>
 - [Macro-Pack](https://github.com/sevagas/macro_pack) - A tool for automatically generating>
@@ -890,13 +891,13 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Internal Network Security
+### 4.19 Internal Network Security
 
 - [Internal-Pentest-Playbook](https://github.com/21y4d/Internal-Pentest-Playbook) - A practical playbook for internal penetration testing, covering various techniques and strategies.
 
 ---
 
-### Persistence Techniques
+### 4.20 Persistence Techniques
 
 - [Awesome-Persistence](https://github.com/Karneades/awesome-persistence) - A resource list>
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) - A library of small, p>
@@ -912,9 +913,9 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Red Team & APT Operations
+### 4.21 Red Team & APT Operations
 
-#### Comprehensive Awesome Lists & Resource Libraries
+#### 4.21.1 Comprehensive Awesome Lists & Resource Libraries
 
 - [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - The most comprehensive list of red teaming resources, covering all phases.
 - [Awesome C2 (Command and Control)](https://github.com/uhub/awesome-c2) - The authoritative list of C2 frameworks, projects, and resources.
@@ -931,7 +932,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [RedTeam-Techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques) - Red team tactics and techniques.
 - [Adversary Emulation Library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library) - A library of adversary emulation plans.
 
-#### Command and Control (C2) Frameworks
+#### 4.21.2 Command and Control (C2) Frameworks
 
 - [Cobalt Strike](https://www.cobaltstrike.com/) - The commercial benchmark C2 framework for red team operations and adversary simulation.
 - [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - A classic open-source penetration testing framework with C2 capabilities.
@@ -951,7 +952,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [GoPhish](https://github.com/gophish/gophish) - An open-source phishing framework, often used for initial access.
 - [Evilginx2](https://github.com/kgretzky/evilginx2) - A man-in-the-middle attack framework for phishing credentials and session hijacking.
 
-#### Internal Network Security (Lateral Movement)
+#### 4.21.3 Internal Network Security (Lateral Movement)
 
 - [Invoke-TheHash](https://github.com/Kevin-Robertson/Invoke-TheHash) - A PowerShell Pass-the-Hash attack tool.
 - [KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp) - A universal Kerberos relaying privilege escalation tool.
@@ -967,7 +968,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec) - The official PsExec from Microsoft.
 
 
-#### APT Reports & Adversary Emulation
+#### 4.21.4 APT Reports & Adversary Emulation
 
 - [APT-Simulator](https://github.com/NextronSystems/APTSimulator) - A Windows batch script to simulate APT attack behaviors.
 - [Red-Team-Automation (RTA)](https://github.com/endgameinc/RTA) - Provides a script framework for simulating malicious behavior.
@@ -984,7 +985,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Incident Response – Basic
+### 4.22 Incident Response – Basic
 
 - [Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) - The most comprehensive list of blue team resources, covering all aspects.
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - A list of tools and resources focused on incident response.
@@ -1033,9 +1034,9 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Incident Response – Advanced
+### 4.23 Incident Response – Advanced
 
-#### Network Intrusion Detection & Monitoring (NIDS / NSM)
+#### 4.23.1 Network Intrusion Detection & Monitoring (NIDS / NSM)
 
 - [Snort](https://github.com/snort3/snort3) - A famous open-source Network Intrusion Prevention System (NIPS) and Network Intrusion Detection System (NIDS).
 - [Suricata](https://github.com/OISF/suricata-rules) - A high-performance Network IDS, IPS, and Network Security Monitoring engine.
@@ -1054,7 +1055,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [PF_RING](https://github.com/ntop/PF_RING) - A high-speed packet capture library.
 - [DPDK](https://github.com/DPDK/dpdk) - The Data Plane Development Kit for fast packet processing.
 
-#### Digital Forensics & Memory Analysis
+#### 4.23.2 Digital Forensics & Memory Analysis
 
 - [The Volatility Framework](https://github.com/volatilityfoundation/volatility) - The leading open-source memory forensics framework (Volatility 2).
 - [Volatility3](https://github.com/volatilityfoundation/volatility3) - The next generation of Volatility.
@@ -1076,7 +1077,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Awesome-Forensics-Resources](https://github.com/PaulSec/awesome-forensics) - Another list of digital forensics resources.
 - [DFIR-Training](https://dfir.training/) - A DFIR training resource website.
 
-#### Threat Hunting & Adversary Emulation
+#### 4.23.3 Threat Hunting & Adversary Emulation
 
 - [Threat-Hunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A playbook that maps ATT&CK techniques to various data sources and analysis methods.
 - [HELK (Hunting ELK Stack)](https://github.com/Cyb3rWard0g/HELK) - A threat hunting ELK stack with advanced analysis capabilities.
@@ -1091,7 +1092,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [ThreatHunting](https://github.com/ThreatHuntingProject/ThreatHunting) - The Threat Hunting Project.
 - [Invoke-ThreatIntel](https://github.com/darkoperator/Posh-ThreatIntel) - A threat intelligence module for PowerShell.
 
-#### Security Hardening & Compliance
+#### 4.23.4 Security Hardening & Compliance
 
 - [OpenSCAP](https://github.com/OpenSCAP/openscap) - An open-source toolset that implements the SCAP (Security Content Automation Protocol) standard.
 - [CIS-Benchmarks](https://www.cisecurity.org/cis-benchmarks/) - Industry-recognized security configuration baselines.
@@ -1102,7 +1103,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Binary Reverse Engineering
+### 4.24 Binary Reverse Engineering
 
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - The authoritative list of malware analysis tools and resources.
 - [Reverse-Engineering-Tutorials](https://github.com/mytechnotalent/Reverse-Engineering-Tutorials) - Reverse engineering tutorials.
@@ -1153,14 +1154,14 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ---
 
-### Device & Infrastructure Deployment
+### 4.25 Device & Infrastructure Deployment
 
 This section covers the deployment and management of infrastructure for both offensive (Red Team) and defensive (Blue Team) operations. It includes tools for automation, secure configuration, and operational security (OPSEC) to ensure that your tools and systems are effective and resilient.
 
-#### Comprehensive Awesome Lists & Resource Libraries
+#### 4.25.1 Comprehensive Awesome Lists & Resource Libraries
 
 
-#### Automation & Infrastructure as Code (IaC)
+#### 4.25.2 Automation & Infrastructure as Code (IaC)
 
 - **Core Tools**
     - [Terraform](https://github.com/hashicorp/terraform) - The industry standard for building, changing, and versioning infrastructure safely and efficiently across multiple cloud providers.
@@ -1172,7 +1173,7 @@ This section covers the deployment and management of infrastructure for both off
     - [Automated Red Team Infrastructure](https://github.com/R-Vision/red-team-infrastructure) - Scripts for deploying a ready-to-use Red Team infrastructure.
     - [T-Pot](https://github.com/telekom-security/tpotce) - A multi-honeypot platform that is deployed via a simple installation script, automating the setup of a complex defensive deception environment.
 
-#### Red Team Infrastructure & C2 Redirectors
+#### 4.25.3 Red Team Infrastructure & C2 Redirectors
 
 - **Domain & Redirector Management**
     - [CatMyFish](https://github.com/hlldz/CatMyFish) - A tool for searching for categorized domains to bypass corporate filters.
@@ -1188,7 +1189,7 @@ This section covers the deployment and management of infrastructure for both off
     - [Let's Encrypt](https://letsencrypt.org/) - A free, automated, and open certificate authority. Using valid SSL/TLS certificates is a basic OPSEC requirement for C2 and phishing infrastructure.
     - [Cloud-init](https://cloud-init.io/) - A standard for customizing cloud instances at boot time, useful for securely configuring servers on first launch (e.g., setting firewall rules, installing tools).
 
-#### Blue Team & Defensive Device Deployment
+#### 4.25.4 Blue Team & Defensive Device Deployment
 
 - **SIEM & Log Management Deployment**
     - [Wazuh - Deployment Guide](https://documentation.wazuh.com/current/deployment-options/index.html) - Official documentation for deploying Wazuh in various configurations (all-in-one, distributed).
@@ -1201,7 +1202,7 @@ This section covers the deployment and management of infrastructure for both off
     - [T-Pot-Autoinstall](https://github.com/telekom-security/tpotce/blob/master/docs/2_autoinstall.md) - T-Pot's automated installation process, which makes deploying a complex honeypot network incredibly simple.
     - [MHN (Modern Honey Network)](https://github.com/pwnlandia/mhn) - Provides a centralized server and simple deployment scripts to deploy and manage honeypots like Cowrie, Dionaea, etc.
 
-#### Cloud-Based Infrastructure
+#### 4.25.5 Cloud-Based Infrastructure
 
 - **General Cloud Tools**
     - [AWS CLI / Azure CLI / gcloud CLI](https://aws.amazon.com/cli/) - The official command-line interfaces for the major cloud providers are essential for scripting and automating any infrastructure deployment.
@@ -1212,29 +1213,29 @@ This section covers the deployment and management of infrastructure for both off
 
 ---
 
-### Traffic Analysis
+### 4.26 Traffic Analysis
 
 This section covers the tools, techniques, and platforms for capturing, parsing, and analyzing network traffic. It is a fundamental skill for network defense, incident response, threat hunting, and verifying red team operations.
 
-#### Comprehensive Awesome Lists & Resource Libraries
+#### 4.26.1 Comprehensive Awesome Lists & Resource Libraries
 
 - [Awesome-Zeek](https://github.com/zeek/awesome-zeek) - A curated list of resources for Zeek (formerly Bro), a powerful network analysis framework.
 - [Awesome-Suricata](https://github.com/OISF/suricata/wiki/Suricata-Awesome-List) - A list of awesome things related to Suricata, the high-performance NIDS/IPS.
 
-#### Packet Capture & Protocol Analysis
+#### 4.26.2 Packet Capture & Protocol Analysis
 
 - **Core Tools**
     - [ngrep (network grep)](https://github.com/jpr5/ngrep) - A tool that applies the `grep` concept to network traffic, allowing you to match patterns in the payload of packets.
 - **Specialized Capture Tools**
     - [Termshark](https://github.com/gcla/termshark) - A terminal-based UI for Tshark, bringing a Wireshark-like experience to the command line.
 
-#### Network Security Monitoring (NSM) & Intrusion Detection (NIDS)
+#### 4.26.3 Network Security Monitoring (NSM) & Intrusion Detection (NIDS)
 
 - **Frameworks & Engines**
     - [Suricata](https://github.com/OISF/suricata) - A high-performance, open-source Network IDS, IPS, and Network Security Monitoring engine. It uses signatures (rules) but can also generate protocol logs similar to Zeek.
 - **Integrated Platforms**
 
-#### Traffic Analysis & Visualization Tools
+#### 4.26.4 Traffic Analysis & Visualization Tools
 
 - **Flow Analysis**
     - [SiLK (System for Internet-Level Knowledge)](https://tools.netsa.cert.org/silk/) - A collection of tools for large-scale NetFlow analysis, developed by the CERT/CC.
@@ -1246,7 +1247,7 @@ This section covers the tools, techniques, and platforms for capturing, parsing,
     - [EtherApe](https://github.com/etherape-project/etherape) - A graphical network monitor for Unix, which displays network activity graphically.
     - [AfterGlow](https://github.com/CISAgov/afterglow) - A collection of scripts for generating link-graph visualizations from log data.
 
-#### Encrypted Traffic Analysis
+#### 4.26.5 Encrypted Traffic Analysis
 
 - **TLS/SSL Decryption & Analysis**
     - [PolarProxy](https://www.netresec.com/?page=PolarProxy) - A transparent SSL/TLS proxy that decrypts and re-encrypts TLS traffic while saving the decrypted traffic to a PCAP file.
@@ -1258,15 +1259,15 @@ This section covers the tools, techniques, and platforms for capturing, parsing,
 
 ---
 
-### Rule & Signature Development
+### 4.27 Rule & Signature Development
 
 This section is dedicated to the art and science of writing rules, signatures, and templates for various security tools. Effective rule development is crucial for threat detection, vulnerability scanning, and automating security checks.
 
-#### Comprehensive Awesome Lists & Resource Libraries
+#### 4.27.1 Comprehensive Awesome Lists & Resource Libraries
 
 - [Awesome-Sigma](https://github.com/0xAlexei/awesome-sigma) - A curated list of resources for the Sigma detection rule format.
 
-#### Malware & Threat Detection Rules (YARA)
+#### 4.27.2 Malware & Threat Detection Rules (YARA)
 
 - **Core Resources**
     - [YARA Official Documentation](https://yara.readthedocs.io/en/stable/) - The official source for YARA's syntax, modules, and usage.
@@ -1280,7 +1281,7 @@ This section is dedicated to the art and science of writing rules, signatures, a
     - [YARA Rule Writing Best Practices](https://www.nextron-systems.com/2015/10/17/yara-rule-writing-best-practices/) - A blog post outlining best practices for creating effective and performant rules.
     - [YARA in a Nutshell](https://www.virustotal.com/gui/yara-in-a-nutshell) - A concise guide from VirusTotal.
 
-#### SIEM & Log-Based Detection Rules (Sigma)
+#### 4.27.3 SIEM & Log-Based Detection Rules (Sigma)
 
 - **Core Resources**
     - [Sigma Official Website](https://sigmaconverter.io/) - Provides an overview and documentation for the Sigma format.
@@ -1292,7 +1293,7 @@ This section is dedicated to the art and science of writing rules, signatures, a
     - [How to Write Sigma Rules](https://github.com/SigmaHQ/sigma/wiki/Rule-Creation-Guide) - The official guide for creating Sigma rules.
     - [Sigma Rule Writing Cheatsheet](https://www.socprime.com/blog/sigma-rules-cheatsheet/) - A handy cheatsheet for Sigma syntax and fields.
 
-#### Vulnerability & Exposure Scanning Rules (Nuclei)
+#### 4.27.4 Vulnerability & Exposure Scanning Rules (Nuclei)
 
 - **Core Resources**
     - [Nuclei Templates Guide](https://nuclei.projectdiscovery.io/templating-guide/) - The official and comprehensive guide to writing Nuclei templates.
@@ -1304,7 +1305,7 @@ This section is dedicated to the art and science of writing rules, signatures, a
     - [Writing Your First Nuclei Template](https://blog.projectdiscovery.io/writing-your-first-nuclei-template/) - A beginner-friendly blog post.
     - [Nuclei Template Deep Dive](https://www.youtube.com/watch?v=f4A2qF-d3j4) - A video that goes into the details of template creation.
 
-#### Static Code Analysis Rules (Semgrep)
+#### 4.27.5 Static Code Analysis Rules (Semgrep)
 
 - **Core Resources**
     - [Semgrep Official Documentation](https://semgrep.dev/docs/) - The official documentation, including tutorials and rule syntax.
@@ -1316,7 +1317,7 @@ This section is dedicated to the art and science of writing rules, signatures, a
     - [Trail of Bits - Semgrep Rules](https://github.com/trailofbits/semgrep-rules) - High-quality rules from a reputable security company.
     - [Automating vulnerability discovery with Semgrep](https://www.youtube.com/watch?v=52kpy_C-C-Y) - A presentation on how to leverage Semgrep for security.
 
-#### Network Intrusion Detection Rules (Snort/Suricata)
+#### 4.27.6 Network Intrusion Detection Rules (Snort/Suricata)
 
 - **Core Resources**
     - [Snort Official Documentation](https://www.snort.org/documents) - Official guides for writing Snort 2 and Snort 3 rules.
@@ -1331,17 +1332,17 @@ This section is dedicated to the art and science of writing rules, signatures, a
 
 ---
 
-### Attribution & Counter-Operations
+### 4.28 Attribution & Counter-Operations
 
 This section focuses on the techniques and tools used to trace the origin of attacks (attribution) and to actively deceive, delay, or gather intelligence on attackers (counter-operations).
 
-#### Comprehensive Awesome Lists & Resource Libraries
+#### 4.28.1 Comprehensive Awesome Lists & Resource Libraries
 
 - [MITRE ATT&CK®](https://attack.mitre.org/) - Understanding adversary TTPs (Tactics, Techniques, and Procedures) is the first step in attribution.
 - [MITRE Shield](https://shield.mitre.org/) - An active defense knowledge base that provides techniques for counter-operations and deception.
 - [The Art of Deception](https://github.com/The-Art-of-Hacking/h4cker/blob/master/The_Art_of_Deception.md) - Resources on deception techniques in cybersecurity.
 
-#### Attribution & Threat Actor Tracking
+#### 4.28.2 Attribution & Threat Actor Tracking
 
 - [Recorded Future](https://www.recordedfuture.com/) - A commercial threat intelligence platform that provides extensive data for attribution.
 - [Shodan](https://www.shodan.io/) - A search engine for Internet-connected devices, useful for mapping adversary infrastructure.
@@ -1352,7 +1353,7 @@ This section focuses on the techniques and tools used to trace the origin of att
 - [VirusTotal Graph](https://www.virustotal.com/gui/graph-ui) - Visualizes relationships between files, domains, IPs, and other artifacts to uncover attacker campaigns.
 - [YETI (Your Everyday Threat Intelligence)](https://github.com/yeti-platform/yeti) - An open-source, feed-driven threat intelligence platform.
 
-#### Honeypots & Deception (Counter-Operations)
+#### 4.28.3 Honeypots & Deception (Counter-Operations)
 
 - **Low-Interaction Honeypots**
     - [Cowrie](https://github.com/cowrie/cowrie) - A medium- to high-interaction SSH and Telnet honeypot designed to log brute force attacks and shell interaction.
@@ -1368,23 +1369,23 @@ This section focuses on the techniques and tools used to trace the origin of att
 - **Deception Frameworks**
     - [Deception Toolkit (DTK)](http://www.all.net/dtk/) - A classic toolkit for creating deception networks.
 
-#### Counter-Analysis & Anti-Reversing
+#### 4.28.4 Counter-Analysis & Anti-Reversing
 
 - [Pafish (Paranoid Fish)](https://github.com/a0rtega/pafish) - A demonstration tool that uses several techniques to detect sandboxes and analysis environments.
 - [Threat-Intelligence-Hunter](https://github.com/S3COPS/threat-intelligence-hunter) - A tool to investigate domains and IPs to determine if they are malicious.
 
 ---
 
-### SRC Programs
+### 4.29 SRC Programs
 
 This section covers resources, tools, and methodologies specifically for participating in Security Response Centers (SRCs) and Bug Bounty Programs.
 
-#### Comprehensive Awesome Lists & Learning Resources
+#### 4.29.1 Comprehensive Awesome Lists & Learning Resources
 
 - [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) - A list of references for bug bounty hunters.
 - [The Bug Hunter's Methodology](https://www.youtube.com/playlist?list=PLbN2o33Yd8523v34i-Xj3m1Wp-3134k4_) - A series of videos by "The Cyber Mentor" covering bug hunting methodology.
 
-#### Major Platforms & Program Lists
+#### 4.29.2 Major Platforms & Program Lists
 
 - [HackerOne](https://www.hackerone.com/) - One of the largest bug bounty and vulnerability disclosure platforms.
 - [Bugcrowd](https://www.bugcrowd.com/) - A major crowdsourced security platform offering bug bounty programs.
@@ -1394,14 +1395,14 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Open Bug Bounty](https://www.openbugbounty.org/) - A platform for coordinated, non-intrusive vulnerability disclosure.
 - [FireBounty](https://firebounty.com/) - An aggregator of bug bounty programs from various platforms.
 
-#### Specialized Tools for SRC/Bug Bounty
+#### 4.29.3 Specialized Tools for SRC/Bug Bounty
 
 - **Reconnaissance Automation**
 - **Live Host & Web Technology Discovery**
 - **Vulnerability Discovery**
 - **Data Handling & Workflow**
 
-#### Methodology & Report Writing
+#### 4.29.4 Methodology & Report Writing
 
 - [How to write a good vulnerability report](https://www.hackerone.com/blog/how-write-good-vulnerability-report) - Guidance from HackerOne on writing effective reports.
 - [Vulnerability-Report-Templates](https://github.com/julesontheroad/vulnerability-report-templates) - A collection of templates for writing vulnerability reports.
@@ -1410,9 +1411,9 @@ This section covers resources, tools, and methodologies specifically for partici
 
 ---
 
-### CTF Resources
+### 4.30 CTF Resources
 
-#### Comprehensive Awesome Lists & Resource Libraries
+#### 4.30.1 Comprehensive Awesome Lists & Resource Libraries
 
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - The most comprehensive list of CTF resources, covering platforms, tools, writeups, etc.
 - [CTF-Tools](https://github.com/ZJAZAn/CTF-Tools) - A collection of CTF tools with clear categorization.
@@ -1421,7 +1422,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [CTF-Resources](https://github.com/ctfs/resources) - A collection of CTF resources, including getting started guides and tools.
 - [Hacker-Roadmap](https://github.com/sundowndev/hacker-roadmap) - A learning roadmap to become a hacker.
 
-#### CTF Platforms & Practice Labs
+#### 4.30.2 CTF Platforms & Practice Labs
 
 - **Comprehensive Platforms**
     - [Hack The Box](https://www.hackthebox.com/) - One of the most famous online penetration testing lab platforms.
@@ -1452,7 +1453,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - **Cloud Security**
 - **Others**
 
-#### CTF Tools
+#### 4.30.3 CTF Tools
 
 - **Pwn**
     - [Pwntools](https://github.com/Gallopsled/pwntools) - A CTF framework and exploit development library, essential for pwners.
@@ -1475,7 +1476,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - **Comprehensive & Others**
     - [Z3](https://github.com/Z3Prover/z3) - An SMT solver from Microsoft Research, often used in pwn and reverse engineering.
 
-#### Writeups & Learning Resources
+#### 4.30.4 Writeups & Learning Resources
 
 - [CTFtime.org/writeups](https://ctftime.org/writeups) - A collection of writeups on CTFtime.
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - A famous security education YouTube channel with a lot of CTF and low-level knowledge.
@@ -1489,9 +1490,9 @@ This section covers resources, tools, and methodologies specifically for partici
 
 ---
 
-## Artificial Intelligence & Data Science
+## 5. Artificial Intelligence & Data Science
 
-#### 11.1 Comprehensive Awesome Lists & Repositories
+#### 5.1 Comprehensive Awesome Lists & Repositories
 
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A comprehensive list of machine learning frameworks, libraries, and software.
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A collection of deep learning tutorials, projects, and communities.
@@ -1507,7 +1508,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) - Collection of deep learning resources.
 - [Hugging Face](https://huggingface.co/) - AI community providing models, datasets, and tools.
 
-#### 11.2 Machine Learning & Deep Learning Frameworks
+#### 5.2 Machine Learning & Deep Learning Frameworks
 
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - End-to-end open-source machine learning platform by Google.
 - [PyTorch](https://github.com/pytorch/pytorch) - Open-source ML framework by Meta, known for flexibility and dynamic computation.
@@ -1525,7 +1526,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [TFLearn](https://github.com/tflearn/tflearn) - Modular deep learning library built on TensorFlow.
 - [Sonnet](https://github.com/deepmind/sonnet) - Neural network library by DeepMind, built on TensorFlow.
 
-#### 11.3 Large Language Models (LLM) & AIGC
+#### 5.3 Large Language Models (LLM) & AIGC
 
 - [n8n](https://github.com/n8n-io/n8n) - Open-source workflow automation with AI nodes.
 - [Langflow](https://github.com/langflow-ai/langflow) - Visual builder for designing and deploying LLM applications.
@@ -1560,7 +1561,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Modular node-based GUI for Stable Diffusion.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Minimal but powerful Stable Diffusion software.
 
-#### 11.4 Computer Vision (CV)
+#### 5.4 Computer Vision (CV)
 
 - [OpenCV](https://github.com/opencv/opencv) - Open-source computer vision library.
 - [YOLO (You Only Look Once)](https://github.com/ultralytics/yolov5) - Real-time object detection algorithm (v5 version).
@@ -1575,7 +1576,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Face-recognition](https://github.com/ageitgey/face_recognition) - Simplest Python library for face recognition.
 - [MediaPipe](https://github.com/google/mediapipe) - Google cross-platform ML solutions for real-time streaming.
 
-#### 11.5 Natural Language Processing (NLP)
+#### 5.5 Natural Language Processing (NLP)
 
 - [NLTK](https://github.com/nltk/nltk) - Leading Python toolkit for human language data processing.
 - [SpaCy](https://github.com/explosion/spaCy) - Industrial-grade NLP library for production.
@@ -1586,7 +1587,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [TextBlob](https://github.com/sloria/TextBlob) - Simplified text processing library in Python.
 - [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Stanford Java NLP toolkit.
 
-#### 11.6 Data Processing & Visualization
+#### 5.6 Data Processing & Visualization
 
 - [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python library for data manipulation and analysis.
 - [NumPy](https://github.com/numpy/numpy) - Fundamental package for scientific computing in Python.
@@ -1604,7 +1605,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Apache Arrow](https://github.com/apache/arrow) - Cross-language development platform for in-memory data.
 - [Polars](https://github.com/pola-rs/polars) - Fast DataFrame library written in Rust.
 
-#### 11.7 MLOps & Data Engineering
+#### 5.7 MLOps & Data Engineering
 
 - [MLflow](https://github.com/mlflow/mlflow) - Open-source platform for managing the end-to-end ML lifecycle.
 - [Kubeflow](https://github.com/kubeflow/kubeflow) - Toolkit for running ML on Kubernetes.
@@ -1622,7 +1623,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Trino](https://github.com/trinodb/trino) - Distributed SQL query engine for big data analytics.
 - [Delta Lake](https://github.com/delta-io/delta) - Storage layer bringing ACID transactions to data lakes.
 
-#### 11.8 AI Security & Explainability
+#### 5.8 AI Security & Explainability
 
 - [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for ML security.
 - [CleverHans](https://github.com/cleverhans-lab/cleverhans) - Library for benchmarking adversarial attacks on ML systems.
@@ -1637,9 +1638,9 @@ This section covers resources, tools, and methodologies specifically for partici
 
 ---
 
-## Developer Tools & Career Growth
+## 6. Developer Tools & Career Growth
 
-#### 12.1 Comprehensive Awesome Lists & Resource Libraries
+#### 6.1 Comprehensive Awesome Lists & Resource Libraries
 
 - [Awesome Dev Env](https://github.com/jondot/awesome-dev-env) - A comprehensive list of development environment resources.
 - [Awesome Developer Tools](https://github.com/goabstract/awesome-developer-tools) - A collection of various developer tools.
@@ -1649,7 +1650,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Awesome-Newsletters](https://github.com/zudochkin/awesome-newsletters) - (Duplicate) Valuable tech newsletters.
 - [Developer-Health](https://github.com/zen-pro/awesome-developer-health) - Developer health resources.
 
-#### 12.2 Code Editors & IDEs
+#### 6.2 Code Editors & IDEs
 
 - [Claude Code](https://github.com/anthropics/claude-code) - Official AI coding CLI tool by Anthropic.
 - [Zed](https://github.com/zed-industries/zed) - A high-performance code editor created by the founders of Atom.
@@ -1669,7 +1670,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Helix](https://github.com/helix-editor/helix) - Post-modern text editor inspired by Kakoune/Neovim, written in Rust.
 - [OniVim 2](https://github.com/onivim/oni2) - (Archived) Editor combining Vim and VS Code features.
 
-#### 12.3 Terminals & Shells
+#### 6.3 Terminals & Shells
 
 - [Alacritty](https://github.com/alacritty/alacritty) - (Duplicate) Cross-platform GPU-accelerated terminal emulator.
 - [WezTerm](https://github.com/wez/wezterm) - Rust-based GPU-accelerated cross-platform terminal and multiplexer.
@@ -1698,7 +1699,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Awesome-Shell](https://github.com/alebcay/awesome-shell) - (Duplicate) Shell tools and resources.
 - [Awesome-CLI-Apps](https://github.com/agarrharr/awesome-cli-apps) - (Duplicate) Excellent command-line applications.
 
-#### 12.4 Git & Version Control
+#### 6.4 Git & Version Control
 
 - [Git](https://github.com/git/git) - Distributed version control system.
 - [Pro Git](https://github.com/progit/progit2) - *Pro Git* 2nd edition book.
@@ -1716,7 +1717,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Git-LFS (Large File Storage)](https://github.com/git-lfs/git-lfs) - Git extension for large file storage.
 - [Delta](https://github.com/dandavison/delta) - Viewer for Git and diff output.
 
-#### 12.5 Documentation & Knowledge Management
+#### 6.5 Documentation & Knowledge Management
 
 - [Docusaurus](https://github.com/facebook/docusaurus) - Easy-to-maintain open-source documentation websites by Facebook.
 - [MkDocs](https://github.com/mkdocs/mkdocs) - Fast, simple, beautiful static site generator for project docs.
@@ -1733,7 +1734,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Diataxis Framework](https://diataxis.fr/) - Systematic framework for technical documentation.
 - [Write the Docs](https://www.writethedocs.org/) - Global community focused on documentation and writers.
 
-#### 12.6 Career Growth & Soft Skills
+#### 6.6 Career Growth & Soft Skills
 
 - [Refactoring Guru](https://refactoring.guru/) - Visual learning site for design patterns, refactoring, and SOLID principles.
 - [Staff Engineer](https://staffeng.com/) - Stories and lessons for Staff+ engineers.
@@ -1751,7 +1752,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [You-are-not-a-visual-learner](https://www.youtube.com/watch?v=rhgwIhB58PA) - Discussion on learning methodologies.
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - Popular Coursera course on learning strategies.
 
-#### 12.7 Other Practical Tools
+#### 6.7 Other Practical Tools
 
 - [Docker](https://github.com/docker/cli) - (Duplicate) Application containerization platform.
 - [Kubernetes](https://github.com/kubernetes/kubernetes) - (Duplicate) Container orchestration system.
