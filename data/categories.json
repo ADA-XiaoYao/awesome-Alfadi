@@ -1,10 +1,39 @@
 {
+  "Awesome Collections": [],
+  "Computer Science & Software Engineering": [],
+  "Programming Languages": [],
   "Cybersecurity": [
     "Foundations & Entry Level",
     "Reconnaissance & Information Gathering",
     "Secure Development",
     "Web Security",
     "JavaScript Reverse Engineering",
-    "Java Security"
-  ]
+    "Java Security",
+    "Web3 & Blockchain Security",
+    "API Security",
+    "Service & Middleware Security",
+    "Mobile Application Security",
+    "System Security",
+    "Cloud Security",
+    "Vulnerability Discovery & Exploitation",
+    "Code Auditing",
+    "Binary Reverse Engineering",
+    "Privilege Escalation",
+    "Internal Network Security",
+    "Persistence Techniques",
+    "Evasion & Defense Bypass",
+    "Binary Modification & Repackaging",
+    "Weaponization & Tooling",
+    "Red Team & APT Operations",
+    "Traffic Analysis",
+    "Rule & Signature Development",
+    "Attribution & Counter-Operations",
+    "Incident Response – Basic",
+    "Incident Response – Advanced",
+    "Device & Infrastructure Deployment",
+    "SRC Programs",
+    "CTF Resources"
+  ],
+  "Artificial Intelligence & Data Science": [],
+  "Developer Tools & Career Growth": []
 }
