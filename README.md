@@ -28,9 +28,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ## Table of Contents
 
-
-
-
 - [Awesome Collections](#awesome-collections)
 - [Computer Science & Software Engineering](#computer-science--software-engineering)
 - [Programming Languages](#programming-languages)
@@ -67,6 +64,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
   - [CTF Resources](#ctf-resources)
 - [Artificial Intelligence & Data Science](#artificial-intelligence--data-science)
 - [Developer Tools & Career Growth](#developer-tools--career-growth)
+
 ---
 
 ## 1. Awesome Collections
