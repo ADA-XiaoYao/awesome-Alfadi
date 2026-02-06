@@ -1,0 +1,47 @@
+name: Auto Clean 404/410 GitHub Links
+
+# Trigger schedule
+on:
+  schedule:
+    # Run every day at 3 AM UTC, can adjust as needed
+    - cron: '0 3 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  clean-markdown:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Setup Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      # Step 3: Install required Python packages
+      - name: Install dependencies
+        run: pip install aiohttp
+
+      # Step 4: Run the auto clean script
+      - name: Run auto clean script
+        run: python .github/scripts/auto_clean_md.py
+
+      # Step 5: Commit and push changes if any
+      - name: Commit and push updates
+        run: |
+          # Configure Git user for automated commits
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Stage changes
+          git add .
+          
+          # Commit only if there are changes
+          git diff-index --quiet HEAD || git commit -m "Auto remove 404/410 GitHub links"
+          
+          # Push updates to the default branch
+          git push
