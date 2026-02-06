@@ -62,7 +62,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
   - [Device & Infrastructure Deployment](#device--infrastructure-deployment)
   - [SRC Programs](#src-programs)
   - [CTF Resources](#ctf-resources)
-  - [Artificial Intelligence & Data Science](#artificial-intelligence--data-science)
+- [Artificial Intelligence & Data Science](#artificial-intelligence--data-science)
 - [Developer Tools & Career Growth](#developer-tools--career-growth)
 ---
 
