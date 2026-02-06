@@ -145,7 +145,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 *   [Free for Dev](https://github.com/ripienaar/free-for-dev) - Free SaaS, PaaS, IaaS, and other services for developers.
 *   [Professional Programming](https://github.com/charlax/professional-programming) - Resources to become a more professional programmer.
 *   [What the f*ck Python!](https://github.com/satwikkansal/wtfpython) - Fun Python snippets to understand language details.
-*   [Computer Science](https://github.com/springboard-curriculum/computer-science-fundamentals) - Springboard's foundational computer science course.
 
 #### 2.2 Algorithms & Data Structures
 
