@@ -70,55 +70,55 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ### Meta Lists & General
 
-* [Awesome](https://github.com/sindresorhus/awesome) - The original curated list of awesome lists.
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A large collection of awesome lists across topics.
-* [Lists](https://github.com/jnv/lists) - Categorized collections of useful GitHub lists.
-* [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets) - Public JSON datasets for testing and prototyping.
-* [Awesome README](https://github.com/matiassingers/awesome-readme) - Examples of well-structured README files.
-* [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - Quick reference sheets for tools and technologies.
-* [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Common misconceptions in software development.
-* [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - Curated technical interview questions.
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - High-quality public datasets.
-* [Awesome Stacks](https://github.com/stackshareio/awesome-stacks) - Popular technology stacks used by companies.
+- [Awesome](https://github.com/sindresorhus/awesome) - The original curated list of awesome lists.
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A large collection of awesome lists across topics.
+- [Lists](https://github.com/jnv/lists) - Categorized collections of useful GitHub lists.
+- [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets) - Public JSON datasets for testing and prototyping.
+- [Awesome README](https://github.com/matiassingers/awesome-readme) - Examples of well-structured README files.
+- [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - Quick reference sheets for tools and technologies.
+- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Common misconceptions in software development.
+- [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - Curated technical interview questions.
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - High-quality public datasets.
+- [Awesome Stacks](https://github.com/stackshareio/awesome-stacks) - Popular technology stacks used by companies.
 
 ### Platforms & Ecosystems
 
-* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Applications and tools for macOS.
-* [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - Applications and tools for Linux.
-* [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Free self-hosted web services and applications.
-* [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui) - Android UI/UX libraries and resources.
-* [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS libraries and frameworks.
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - Docker tools and projects.
-* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Kubernetes tools and resources.
-* [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Applications and tools built with Electron.
-* [Awesome VSCode](https://github.com/viatsko/awesome-vscode) - VS Code extensions and resources.
-* [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim) - Neovim plugins and tools.
-* [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - GitHub profile README inspirations.
-* [Awesome Actions](https://github.com/sdras/awesome-actions) - GitHub Actions tools and workflows.
-* [Awesome Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Browser extensions that enhance GitHub.
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Applications and tools for macOS.
+- [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - Applications and tools for Linux.
+- [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Free self-hosted web services and applications.
+- [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui) - Android UI/UX libraries and resources.
+- [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS libraries and frameworks.
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - Docker tools and projects.
+- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Kubernetes tools and resources.
+- [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Applications and tools built with Electron.
+- [Awesome VSCode](https://github.com/viatsko/awesome-vscode) - VS Code extensions and resources.
+- [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim) - Neovim plugins and tools.
+- [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - GitHub profile README inspirations.
+- [Awesome Actions](https://github.com/sdras/awesome-actions) - GitHub Actions tools and workflows.
+- [Awesome Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Browser extensions that enhance GitHub.
 
 ### Awesome Programming Languages
 
-* [Awesome Python](https://github.com/vinta/awesome-python) - Python frameworks, libraries, and tools.
-* [Awesome Go](https://github.com/avelino/awesome-go) - Go frameworks and software.
-* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - JavaScript libraries and resources.
-* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - Rust libraries and tools.
-* [Awesome Java](https://github.com/akullpp/awesome-java) - Java frameworks and tools.
-* [Awesome C++](https://github.com/fffaraz/awesome-cpp) - C++ libraries and resources.
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) - PHP libraries and frameworks.
-* [Awesome Ruby](https://github.com/markets/awesome-ruby) - Ruby resources and tools.
-* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Swift libraries and tools.
-* [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) - Kotlin resources and libraries.
-* [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) - TypeScript tools and libraries.
-* [Awesome Scala](https://github.com/lauris/awesome-scala) - Scala libraries and tools.
-* [Awesome Elixir](https://github.com/h4cc/awesome-elixir) - Elixir resources and libraries.
-* [Awesome Haskell](https://github.com/krispo/awesome-haskell) - Haskell resources.
-* [Awesome Clojure](https://github.com/razum2um/awesome-clojure) - Clojure resources.
-* [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - Lua libraries and tools.
-* [Awesome Perl](https://github.com/hachiojipm/awesome-perl) - Perl resources.
-* [Awesome OCaml](https://github.com/ocaml-community/awesome-ocaml) - OCaml tools and libraries.
-* [Awesome R](https://github.com/qinwf/awesome-R) - R language resources.
-* [Awesome Julia](https://github.com/svaksha/Julia.jl) - Julia ecosystem resources.
+- [Awesome Python](https://github.com/vinta/awesome-python) - Python frameworks, libraries, and tools.
+- [Awesome Go](https://github.com/avelino/awesome-go) - Go frameworks and software.
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - JavaScript libraries and resources.
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - Rust libraries and tools.
+- [Awesome Java](https://github.com/akullpp/awesome-java) - Java frameworks and tools.
+- [Awesome C++](https://github.com/fffaraz/awesome-cpp) - C++ libraries and resources.
+- [Awesome PHP](https://github.com/ziadoz/awesome-php) - PHP libraries and frameworks.
+- [Awesome Ruby](https://github.com/markets/awesome-ruby) - Ruby resources and tools.
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Swift libraries and tools.
+- [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) - Kotlin resources and libraries.
+- [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) - TypeScript tools and libraries.
+- [Awesome Scala](https://github.com/lauris/awesome-scala) - Scala libraries and tools.
+- [Awesome Elixir](https://github.com/h4cc/awesome-elixir) - Elixir resources and libraries.
+- [Awesome Haskell](https://github.com/krispo/awesome-haskell) - Haskell resources.
+- [Awesome Clojure](https://github.com/razum2um/awesome-clojure) - Clojure resources.
+- [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - Lua libraries and tools.
+- [Awesome Perl](https://github.com/hachiojipm/awesome-perl) - Perl resources.
+- [Awesome OCaml](https://github.com/ocaml-community/awesome-ocaml) - OCaml tools and libraries.
+- [Awesome R](https://github.com/qinwf/awesome-R) - R language resources.
+- [Awesome Julia](https://github.com/svaksha/Julia.jl) - Julia ecosystem resources.
 
 ---
 
@@ -126,116 +126,116 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 #### 2.1 Comprehensive Learning Paths & Courses
 
-*   [OSSU Computer Science](https://github.com/ossu/computer-science) - A complete self-taught computer science curriculum from the open-source university community.
-*   [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmaps to become various types of developers, very comprehensive.
-*   [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A full self-study plan for software engineers, especially for interview preparation.
-*   [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - A vast collection of free programming ebooks.
-*   [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Tutorials for learning programming by building real projects.
-*   [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Tutorials for building your own database, operating system, robot, etc.
-*   [CS-Notes](https://github.com/CyC2018/CS-Notes) - Essential technical interview knowledge and Leetcode solutions.
-*   [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Free technical interview resources for busy engineers.
-*   [Teach Yourself CS](https://github.com/ossu/computer-science/blob/master/README.md) - (Included in OSSU) Classic guide for self-learning computer science.
-*   [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - A list of knowledge every programmer should know.
-*   [Free for Dev](https://github.com/ripienaar/free-for-dev) - Free SaaS, PaaS, IaaS, and other services for developers.
-*   [Professional Programming](https://github.com/charlax/professional-programming) - Resources to become a more professional programmer.
-*   [What the f*ck Python!](https://github.com/satwikkansal/wtfpython) - Fun Python snippets to understand language details.
+- [OSSU Computer Science](https://github.com/ossu/computer-science) - A complete self-taught computer science curriculum from the open-source university community.
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmaps to become various types of developers, very comprehensive.
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A full self-study plan for software engineers, especially for interview preparation.
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - A vast collection of free programming ebooks.
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Tutorials for learning programming by building real projects.
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Tutorials for building your own database, operating system, robot, etc.
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - Essential technical interview knowledge and Leetcode solutions.
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Free technical interview resources for busy engineers.
+- [Teach Yourself CS](https://github.com/ossu/computer-science/blob/master/README.md) - (Included in OSSU) Classic guide for self-learning computer science.
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - A list of knowledge every programmer should know.
+- [Free for Dev](https://github.com/ripienaar/free-for-dev) - Free SaaS, PaaS, IaaS, and other services for developers.
+- [Professional Programming](https://github.com/charlax/professional-programming) - Resources to become a more professional programmer.
+- [What the f*ck Python!](https://github.com/satwikkansal/wtfpython) - Fun Python snippets to understand language details.
 
 #### 2.2 Algorithms & Data Structures
 
-*   [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - Python implementations of all algorithms.
-*   [The Algorithms - Java](https://github.com/TheAlgorithms/Java) - Java implementations of all algorithms.
-*   [The Algorithms - JavaScript](https://github.com/TheAlgorithms/JavaScript) - JavaScript implementations of all algorithms.
-*   [The Algorithms - Go](https://github.com/TheAlgorithms/Go) - Go implementations of all algorithms.
-*   [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - Resources for learning algorithms and data structures.
-*   [LeetCode](https://github.com/azl397985856/leetcode) - LeetCode solutions in multiple languages.
-*   [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive algorithm visualization tool.
-*   [Algorithms](https://github.com/keon/algorithms) - Minimalistic, human-readable algorithm implementations.
-*   [Hello-Algorithm](https://github.com/krahets/hello-algo) - "Hello Algorithm": Animated, one-click runnable tutorials for data structures and algorithms.
-*   [Structure and Interpretation of Computer Programs](https://github.com/sarabander/sicp) - Electronic version of *SICP*.
-*   [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) - Resources for algorithm competitions.
-*   [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - Kunal Kushwaha’s data structures and algorithms bootcamp.
-*   [Sedgewick-Algorithms](https://github.com/reneargento/algorithms-sedgewick-wayne) - Solutions from Sedgewick and Wayne's *Algorithms* book.
+- [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - Python implementations of all algorithms.
+- [The Algorithms - Java](https://github.com/TheAlgorithms/Java) - Java implementations of all algorithms.
+- [The Algorithms - JavaScript](https://github.com/TheAlgorithms/JavaScript) - JavaScript implementations of all algorithms.
+- [The Algorithms - Go](https://github.com/TheAlgorithms/Go) - Go implementations of all algorithms.
+- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - Resources for learning algorithms and data structures.
+- [LeetCode](https://github.com/azl397985856/leetcode) - LeetCode solutions in multiple languages.
+- [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive algorithm visualization tool.
+- [Algorithms](https://github.com/keon/algorithms) - Minimalistic, human-readable algorithm implementations.
+- [Hello-Algorithm](https://github.com/krahets/hello-algo) - "Hello Algorithm": Animated, one-click runnable tutorials for data structures and algorithms.
+- [Structure and Interpretation of Computer Programs](https://github.com/sarabander/sicp) - Electronic version of *SICP*.
+- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) - Resources for algorithm competitions.
+- [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - Kunal Kushwaha’s data structures and algorithms bootcamp.
+- [Sedgewick-Algorithms](https://github.com/reneargento/algorithms-sedgewick-wayne) - Solutions from Sedgewick and Wayne's *Algorithms* book.
 
 #### 2.3 System Design & Architecture
 
-*   [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design scalable systems; essential for interviews.
-*   [Systems Design Cheatsheet](https://github.com/karanpratapsingh/system-design) - System design quick reference.
-*   [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservices architecture patterns, frameworks, and resources.
-*   [Microservices-Patterns](https://github.com/microservices-patterns/ftgo-application) - Example code for *Microservices Patterns* book.
-*   [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - Reading list on scalability, availability, and stability patterns.
-*   [Cloud Design Patterns](https://github.com/mspnp/cloud-design-patterns) - Official Microsoft cloud design patterns.
-*   [Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Analysis of open-source application architectures.
-*   [How-web-works](https://github.com/vasanthk/how-web-works) - Simple explanations of how the web works.
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design scalable systems; essential for interviews.
+- [Systems Design Cheatsheet](https://github.com/karanpratapsingh/system-design) - System design quick reference.
+- [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservices architecture patterns, frameworks, and resources.
+- [Microservices-Patterns](https://github.com/microservices-patterns/ftgo-application) - Example code for *Microservices Patterns* book.
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - Reading list on scalability, availability, and stability patterns.
+- [Cloud Design Patterns](https://github.com/mspnp/cloud-design-patterns) - Official Microsoft cloud design patterns.
+- [Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Analysis of open-source application architectures.
+- [How-web-works](https://github.com/vasanthk/how-web-works) - Simple explanations of how the web works.
 
 #### 2.4 Software Engineering Practices & DevOps
 
-*   [Awesome SRE](https://github.com/dastergon/awesome-sre) - Site Reliability Engineering (SRE) resources.
-*   [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - Software design pattern resources.
-*   [Source-Making-Design-Patterns](https://github.com/iluwatar/java-design-patterns) - Java design pattern implementations.
-*   [Awesome Testing](https://github.com/TheJambo/awesome-testing) - Software testing resources, tools, and techniques.
-*   [Awesome Clean Code](https://github.com/JuanCrg90/Clean-Code-Notes) - Notes and practices from *Clean Code*.
-*   [Software Engineering at Google](https://github.com/google/eng-practices) - Google engineering practices.
-*   [97-Things-Every-Programmer-Should-Know](https://github.com/97-things/97-things-every-programmer-should-know) - 97 things every programmer should know.
-*   [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Notes and checklists for sysadmins, pentesters, and developers.
-*   [Awesome CI/CD](https://github.com/ciandcd/awesome-ciandcd) - Continuous integration and deployment resources.
-*   [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) - Production ML resources.
-*   [Git-Best-Practices](https://github.com/k88hudson/git-flight-rules) - Git flight rules; best practices guide.
-*   [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist for building secure APIs.
-*   [Awesome Agile](https://github.com/lorabv/awesome-agile) - Agile software development resources.
-*   [Awesome-README](https://github.com/matiassingers/awesome-readme) - Examples of excellent README files.
+- [Awesome SRE](https://github.com/dastergon/awesome-sre) - Site Reliability Engineering (SRE) resources.
+- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - Software design pattern resources.
+- [Source-Making-Design-Patterns](https://github.com/iluwatar/java-design-patterns) - Java design pattern implementations.
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing) - Software testing resources, tools, and techniques.
+- [Awesome Clean Code](https://github.com/JuanCrg90/Clean-Code-Notes) - Notes and practices from *Clean Code*.
+- [Software Engineering at Google](https://github.com/google/eng-practices) - Google engineering practices.
+- [97-Things-Every-Programmer-Should-Know](https://github.com/97-things/97-things-every-programmer-should-know) - 97 things every programmer should know.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Notes and checklists for sysadmins, pentesters, and developers.
+- [Awesome CI/CD](https://github.com/ciandcd/awesome-ciandcd) - Continuous integration and deployment resources.
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) - Production ML resources.
+- [Git-Best-Practices](https://github.com/k88hudson/git-flight-rules) - Git flight rules; best practices guide.
+- [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist for building secure APIs.
+- [Awesome Agile](https://github.com/lorabv/awesome-agile) - Agile software development resources.
+- [Awesome-README](https://github.com/matiassingers/awesome-readme) - Examples of excellent README files.
 
 #### 2.5 Operating Systems & Low-Level Concepts
 
-*   [Awesome Operating Systems](https://github.com/jubalh/awesome-os) - Operating system development resources.
-*   [Linux Kernel](https://github.com/torvalds/linux) - Linux kernel source code.
-*   [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Compilers, interpreters, and runtime resources.
-*   [Crafting Interpreters](https://github.com/munificent/craftinginterpreters) - Open-source version of *Crafting Interpreters*.
-*   [Writing an OS in Rust](https://github.com/phil-opp/blog_os) - Blog series on building an OS in Rust.
-*   [The little book about OS development](https://github.com/littleosbook/littleosbook) - A small book on OS development.
-*   [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - MIT’s teaching OS xv6 for RISC-V.
-*   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Classic operating systems textbook.
-*   [Awesome-LLVM](https://github.com/HongxuChen/awesome-llvm) - LLVM-related resources.
-*   [Linux-Insides](https://github.com/0xAX/linux-insides) - Deep dive into the Linux kernel.
-*   [What Happens When You Type a URL in the Browser](https://github.com/alex/what-happens-when) - What happens after typing a URL in a browser.
-*   [Awesome Networking](https://github.com/facyber/awesome-networking) - A curated list of computer networking tutorials, courses, books, and resources, covering everything from fundamentals to advanced network topics.
+- [Awesome Operating Systems](https://github.com/jubalh/awesome-os) - Operating system development resources.
+- [Linux Kernel](https://github.com/torvalds/linux) - Linux kernel source code.
+- [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Compilers, interpreters, and runtime resources.
+- [Crafting Interpreters](https://github.com/munificent/craftinginterpreters) - Open-source version of *Crafting Interpreters*.
+- [Writing an OS in Rust](https://github.com/phil-opp/blog_os) - Blog series on building an OS in Rust.
+- [The little book about OS development](https://github.com/littleosbook/littleosbook) - A small book on OS development.
+- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - MIT’s teaching OS xv6 for RISC-V.
+- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Classic operating systems textbook.
+- [Awesome-LLVM](https://github.com/HongxuChen/awesome-llvm) - LLVM-related resources.
+- [Linux-Insides](https://github.com/0xAX/linux-insides) - Deep dive into the Linux kernel.
+- [What Happens When You Type a URL in the Browser](https://github.com/alex/what-happens-when) - What happens after typing a URL in a browser.
+- [Awesome Networking](https://github.com/facyber/awesome-networking) - A curated list of computer networking tutorials, courses, books, and resources, covering everything from fundamentals to advanced network topics.
 
 #### 2.6 Databases
 
-*   [Awesome Database](https://github.com/numetriclabz/awesome-db) - Database tools and resources.
-*   [Awesome-Postgres](https://github.com/dhamaniasad/awesome-postgres) - PostgreSQL resources.
-*   [Awesome-MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL resources.
-*   [Awesome-Redis](https://github.com/JamzyWang/awesome-redis) - Redis resources.
-*   [Awesome-MongoDB](https://github.com/ramnes/awesome-mongodb) - MongoDB resources.
-*   [Database-Systems-Design-Implementation-and-Management](https://github.com/pingcap/awesome-database-learning) - Database learning resources.
-*   [DB-Engines](https://db-engines.com/en/ranking) - Database popularity ranking.
+- [Awesome Database](https://github.com/numetriclabz/awesome-db) - Database tools and resources.
+- [Awesome-Postgres](https://github.com/dhamaniasad/awesome-postgres) - PostgreSQL resources.
+- [Awesome-MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL resources.
+- [Awesome-Redis](https://github.com/JamzyWang/awesome-redis) - Redis resources.
+- [Awesome-MongoDB](https://github.com/ramnes/awesome-mongodb) - MongoDB resources.
+- [Database-Systems-Design-Implementation-and-Management](https://github.com/pingcap/awesome-database-learning) - Database learning resources.
+- [DB-Engines](https://db-engines.com/en/ranking) - Database popularity ranking.
 
 #### 2.7 Mathematics & Theoretical Foundations
 
-*   [Awesome Mathematics](https://github.com/rossant/awesome-math) - Mathematics resources.
-*   [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - Cryptography resources.
-*   [3Blue1Brown](https://github.com/3b1b/manim) - Animation engine behind famous math visualization videos.
-*   [Project Euler](https://github.com/nayuki/Project-Euler-solutions) - Solutions for Project Euler problems.
-*   [Math-as-code](https://github.com/Jam3/math-as-code) - Cheat sheet for translating math formulas into code.
-*   [Homotopy Type Theory](https://github.com/HoTT/book) - Book on homotopy type theory.
+- [Awesome Mathematics](https://github.com/rossant/awesome-math) - Mathematics resources.
+- [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - Cryptography resources.
+- [3Blue1Brown](https://github.com/3b1b/manim) - Animation engine behind famous math visualization videos.
+- [Project Euler](https://github.com/nayuki/Project-Euler-solutions) - Solutions for Project Euler problems.
+- [Math-as-code](https://github.com/Jam3/math-as-code) - Cheat sheet for translating math formulas into code.
+- [Homotopy Type Theory](https://github.com/HoTT/book) - Book on homotopy type theory.
 
 #### 2.8 Miscellaneous & Others
 
-*   [Awesome-Falsehood](https://github.com/kdeldycke/awesome-falsehood) - List of common misconceptions by programmers.
-*   [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode resources.
-*   [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks) - Excellent technical talks.
-*   [Computer-Science-From-the-Bottom-Up](https://github.com/ianw/bottomupcs) - Computer science from scratch.
-*   [Nand to Tetris](https://www.nand2tetris.org/) - From NAND gates to Tetris: build a modern computer.
-*   [Go-SCP](https://github.com/bramvdbogaerde/go-scp) - SCP client implemented in Go.
-*   [Public-APIs](https://github.com/public-apis/public-apis) - Free public APIs for development and testing.
-*   [Learn-anything](https://github.com/learn-anything/learn-anything) - Learning paths with interactive mind maps.
-*   [The-Art-of-Command-Line](https://github.com/jlevy/the-art-of-command-line) - The art of using the command line.
-*   [Gitignore](https://github.com/github/gitignore) - Collection of useful `.gitignore` templates.
-*   [Big-List-of-Naughty-Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - List of "naughty" strings for testing.
-*   [Awesome-Public-Datasets](https://github.com/awesomedata/awesome-public-datasets) - High-quality public datasets.
-*   [Awesome-Technical-Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - Technical writing resources.
-*   [Awesome-Scientific-Writing](https://github.com/writing-resources/awesome-scientific-writing) - Scientific writing resources.
-*   [Awesome-Product-Management](https://github.com/dend/awesome-product-management) - Product management resources.
-*   [Awesome-Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - System administrator resources.
+- [Awesome-Falsehood](https://github.com/kdeldycke/awesome-falsehood) - List of common misconceptions by programmers.
+- [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode resources.
+- [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks) - Excellent technical talks.
+- [Computer-Science-From-the-Bottom-Up](https://github.com/ianw/bottomupcs) - Computer science from scratch.
+- [Nand to Tetris](https://www.nand2tetris.org/) - From NAND gates to Tetris: build a modern computer.
+- [Go-SCP](https://github.com/bramvdbogaerde/go-scp) - SCP client implemented in Go.
+- [Public-APIs](https://github.com/public-apis/public-apis) - Free public APIs for development and testing.
+- [Learn-anything](https://github.com/learn-anything/learn-anything) - Learning paths with interactive mind maps.
+- [The-Art-of-Command-Line](https://github.com/jlevy/the-art-of-command-line) - The art of using the command line.
+- [Gitignore](https://github.com/github/gitignore) - Collection of useful `.gitignore` templates.
+- [Big-List-of-Naughty-Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - List of "naughty" strings for testing.
+- [Awesome-Public-Datasets](https://github.com/awesomedata/awesome-public-datasets) - High-quality public datasets.
+- [Awesome-Technical-Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - Technical writing resources.
+- [Awesome-Scientific-Writing](https://github.com/writing-resources/awesome-scientific-writing) - Scientific writing resources.
+- [Awesome-Product-Management](https://github.com/dend/awesome-product-management) - Product management resources.
+- [Awesome-Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - System administrator resources.
 
 ---
 
@@ -243,66 +243,66 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 #### 3.1 Comprehensive Awesome Lists & Multi-Language Resources
 
-*   [Learn X in Y Minutes](https://github.com/adambard/learnxinyminutes-docs) - Quick syntax introductions for dozens of languages.
-*   [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - Compare the same tasks across many programming languages.
-*   [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Resources for compilers, interpreters, and language tooling.
-*   [Build Your Own Lisp](http://www.buildyourownlisp.com/) - Hands-on guide to building a Lisp interpreter in C.
+- [Learn X in Y Minutes](https://github.com/adambard/learnxinyminutes-docs) - Quick syntax introductions for dozens of languages.
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - Compare the same tasks across many programming languages.
+- [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Resources for compilers, interpreters, and language tooling.
+- [Build Your Own Lisp](http://www.buildyourownlisp.com/) - Hands-on guide to building a Lisp interpreter in C.
 
 #### 3.2 Imperative & Procedural Languages
 
-*   **C** – [Awesome C](https://github.com/inputsh/awesome-c) - Libraries, tools, and best practices.
-*   **COBOL** – [Awesome COBOL](https://github.com/loveOSS/awesome-cobol) - Enterprise and legacy system resources.
-*   **Pascal** – [Free Pascal](https://www.freepascal.org/) - Compiler and documentation.
-*   **Ada** – [AdaCore Learn](https://learn.adacore.com/) - Official tutorials and learning paths.
+- **C** – [Awesome C](https://github.com/inputsh/awesome-c) - Libraries, tools, and best practices.
+- **COBOL** – [Awesome COBOL](https://github.com/loveOSS/awesome-cobol) - Enterprise and legacy system resources.
+- **Pascal** – [Free Pascal](https://www.freepascal.org/) - Compiler and documentation.
+- **Ada** – [AdaCore Learn](https://learn.adacore.com/) - Official tutorials and learning paths.
 
 #### 3.3 Object-Oriented Languages
 
-*   **Java** – [Awesome Java](https://github.com/akullpp/awesome-java) - Frameworks, libraries, and ecosystem tools.
-*   **Ruby** – [Awesome Ruby](https://github.com/markets/awesome-ruby) - Gems, tools, and frameworks.
-*   **C++** – [Awesome C++](https://github.com/fffaraz/awesome-cpp) - Community libraries and practices.
-*   **Smalltalk** – [Pharo](https://pharo.org/) - Modern Smalltalk environment and tutorials.
+- **Java** – [Awesome Java](https://github.com/akullpp/awesome-java) - Frameworks, libraries, and ecosystem tools.
+- **Ruby** – [Awesome Ruby](https://github.com/markets/awesome-ruby) - Gems, tools, and frameworks.
+- **C++** – [Awesome C++](https://github.com/fffaraz/awesome-cpp) - Community libraries and practices.
+- **Smalltalk** – [Pharo](https://pharo.org/) - Modern Smalltalk environment and tutorials.
 
 #### 3.4 Functional Languages
 
-*   **Haskell** – [Awesome Haskell](https://github.com/krispo/awesome-haskell) - Pure functional ecosystem resources.
-*   **Clojure** – [Awesome Clojure](https://github.com/razum2um/awesome-clojure) - JVM-based functional tooling.
-*   **OCaml** – [OCaml](https://ocaml.org/) - Official documentation and learning guides.
-*   **F#** – [F#](https://fsharp.org/) - Functional programming on .NET.
-*   **Racket / Scheme** – [Racket](https://racket-lang.org/) - Lisp/Scheme language and SICP materials.
-*   **Erlang** – [Erlang](https://www.erlang.org/) - Concurrency-focused functional language.
-*   **Elixir** – [Elixir](https://elixir-lang.org/) - Modern functional language on the BEAM VM.
+- **Haskell** – [Awesome Haskell](https://github.com/krispo/awesome-haskell) - Pure functional ecosystem resources.
+- **Clojure** – [Awesome Clojure](https://github.com/razum2um/awesome-clojure) - JVM-based functional tooling.
+- **OCaml** – [OCaml](https://ocaml.org/) - Official documentation and learning guides.
+- **F#** – [F#](https://fsharp.org/) - Functional programming on .NET.
+- **Racket / Scheme** – [Racket](https://racket-lang.org/) - Lisp/Scheme language and SICP materials.
+- **Erlang** – [Erlang](https://www.erlang.org/) - Concurrency-focused functional language.
+- **Elixir** – [Elixir](https://elixir-lang.org/) - Modern functional language on the BEAM VM.
 
 #### 3.5 Web & Modern Application Languages
 
-*   **JavaScript** – [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - Frontend and backend ecosystem.
-*   **TypeScript** – [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) - Typed JavaScript tools and frameworks.
-*   **PHP** – [Awesome PHP](https://github.com/ziadoz/awesome-php) - Web development libraries and utilities.
-*   **Python** – [Awesome Python](https://github.com/vinta/awesome-python) - Frameworks, automation, and data science tools.
-*   **Dart** – [Dart](https://dart.dev/) - Official tutorials and Flutter ecosystem.
+- **JavaScript** – [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - Frontend and backend ecosystem.
+- **TypeScript** – [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) - Typed JavaScript tools and frameworks.
+- **PHP** – [Awesome PHP](https://github.com/ziadoz/awesome-php) - Web development libraries and utilities.
+- **Python** – [Awesome Python](https://github.com/vinta/awesome-python) - Frameworks, automation, and data science tools.
+- **Dart** – [Dart](https://dart.dev/) - Official tutorials and Flutter ecosystem.
 
 #### 3.6 Systems, Data & Emerging Languages
 
-*   **Rust** – [Rust](https://www.rust-lang.org/) - Memory-safe systems programming resources.
-*   **Go** – [Go](https://go.dev/) - Concurrency-oriented backend development tools.
-*   **Zig** – [Zig](https://ziglang.org/) - Modern low-level systems language.
-*   **Nim** – [Nim](https://nim-lang.org/) - Efficient compiled systems language.
-*   **R** – [R Project](https://www.r-project.org/) - Statistical computing environment.
-*   **Julia** – [Julia](https://julialang.org/) - High-performance scientific computing.
-*   **Swift** – [Swift](https://swift.org/) - Apple ecosystem and server development.
-*   **Kotlin** – [Kotlin](https://kotlinlang.org/) - JVM and Android development.
+- **Rust** – [Rust](https://www.rust-lang.org/) - Memory-safe systems programming resources.
+- **Go** – [Go](https://go.dev/) - Concurrency-oriented backend development tools.
+- **Zig** – [Zig](https://ziglang.org/) - Modern low-level systems language.
+- **Nim** – [Nim](https://nim-lang.org/) - Efficient compiled systems language.
+- **R** – [R Project](https://www.r-project.org/) - Statistical computing environment.
+- **Julia** – [Julia](https://julialang.org/) - High-performance scientific computing.
+- **Swift** – [Swift](https://swift.org/) - Apple ecosystem and server development.
+- **Kotlin** – [Kotlin](https://kotlinlang.org/) - JVM and Android development.
 
 #### 3.7 Domain-Specific & Specialized Languages
 
-*   **Solidity** – [Solidity](https://soliditylang.org/) - Ethereum smart contract language.
-*   **Vyper** – [Vyper](https://vyperlang.org/) - Pythonic smart contract language.
-*   **Move** – [Move](https://move-language.github.io/move/) - Blockchain smart contract language.
-*   **SQL** – [SQLBolt](https://sqlbolt.com/) - Interactive SQL learning.
-*   **XQuery** – [XQuery](https://www.w3.org/XML/Query/) - XML query language specification.
-*   **VHDL** – [VHDL Guide](https://vhdlguide.readthedocs.io/) - Hardware description tutorials.
-*   **Bash** – [Awesome Shell](https://github.com/alebcay/awesome-shell) - Shell scripting resources.
-*   **PowerShell** – [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Automation and tooling.
-*   **GLSL** – [The Book of Shaders](https://thebookofshaders.com/) - Shader programming tutorials.
-*   **Processing / p5.js** – [p5.js](https://p5js.org/) - Creative coding framework.
+- **Solidity** – [Solidity](https://soliditylang.org/) - Ethereum smart contract language.
+- **Vyper** – [Vyper](https://vyperlang.org/) - Pythonic smart contract language.
+- **Move** – [Move](https://move-language.github.io/move/) - Blockchain smart contract language.
+- **SQL** – [SQLBolt](https://sqlbolt.com/) - Interactive SQL learning.
+- **XQuery** – [XQuery](https://www.w3.org/XML/Query/) - XML query language specification.
+- **VHDL** – [VHDL Guide](https://vhdlguide.readthedocs.io/) - Hardware description tutorials.
+- **Bash** – [Awesome Shell](https://github.com/alebcay/awesome-shell) - Shell scripting resources.
+- **PowerShell** – [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Automation and tooling.
+- **GLSL** – [The Book of Shaders](https://thebookofshaders.com/) - Shader programming tutorials.
+- **Processing / p5.js** – [p5.js](https://p5js.org/) - Creative coding framework.
 
 ---
 
@@ -838,33 +838,33 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 ---
 
 ### Vulnerability Discovery & Exploitation                                           
-*   [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A >
-*   [Awesome Pentesting](https://github.com/enaqx/awesome-pentesting) - A curated co>
-*   [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - A curated >
-*   [Exploit Database](https://github.com/offensive-security/exploitdb) - The offici>
-*   [ProjectDiscovery Tools](https://github.com/projectdiscovery) - A collection of >
-*   [SecLists](https://github.com/danielmiessler/SecLists) - A collection of multipl>
-*   [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - A curated list>
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A >
+- [Awesome Pentesting](https://github.com/enaqx/awesome-pentesting) - A curated co>
+- [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - A curated >
+- [Exploit Database](https://github.com/offensive-security/exploitdb) - The offici>
+- [ProjectDiscovery Tools](https://github.com/projectdiscovery) - A collection of >
+- [SecLists](https://github.com/danielmiessler/SecLists) - A collection of multipl>
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - A curated list>
 
 ---
 
 ### Code Auditing
 
-*   [Awesome Code Review](https://github.com/joho/awesome-code-review) - A curated list of tools, articles, and resources about code review.
-*   [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools for all programming languages, essential for security auditing.
-*   [CodeQL](https://github.com/github/codeql) - A powerful semantic code analysis engine developed by GitHub for automating vulnerability discovery.
-*   [Semgrep](https://github.com/semgrep/semgrep) - A fast, open-source, static analysis tool for finding bugs and enforcing code standards.
-*   [Bandit](https://github.com/PyCQA/bandit) - A tool designed specifically to find common security issues in Python code.
-*   [SonarQube](https://github.com/SonarSource/sonarqube) - An open-source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities.
+- [Awesome Code Review](https://github.com/joho/awesome-code-review) - A curated list of tools, articles, and resources about code review.
+- [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools for all programming languages, essential for security auditing.
+- [CodeQL](https://github.com/github/codeql) - A powerful semantic code analysis engine developed by GitHub for automating vulnerability discovery.
+- [Semgrep](https://github.com/semgrep/semgrep) - A fast, open-source, static analysis tool for finding bugs and enforcing code standards.
+- [Bandit](https://github.com/PyCQA/bandit) - A tool designed specifically to find common security issues in Python code.
+- [SonarQube](https://github.com/SonarSource/sonarqube) - An open-source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities.
 
 ### Privilege Escalation
 
-*   [Awesome Privilege Escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of high-quality resources, articles, and tools on privilege escalation.
-*   [PEASS-ng](https://github.com/carlospolop/PEASS-ng) - Privilege Escalation Awesome Scripts SUITE, for Windows and Linux/Unix systems, to check for potential privilege escalation paths.
-*   [GTFOBins](https://gtfobins.github.io/) - A curated list of Unix binaries that can be exploited to bypass local security restrictions.
-*   [LOLBAS](https://lolbas-project.github.io/) - Documents binaries, scripts, and libraries that can be used for "Living Off The Land" attacks on Windows.
-*   [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework that includes several modules for privilege escalation.
-*   [LinEnum](https://github.com/rebootuser/LinEnum) - A scripted Linux local enumeration and privilege escalation checker.
+- [Awesome Privilege Escalation](https://github.com/m0nad/awesome-privilege-escalation) - A curated list of high-quality resources, articles, and tools on privilege escalation.
+- [PEASS-ng](https://github.com/carlospolop/PEASS-ng) - Privilege Escalation Awesome Scripts SUITE, for Windows and Linux/Unix systems, to check for potential privilege escalation paths.
+- [GTFOBins](https://gtfobins.github.io/) - A curated list of Unix binaries that can be exploited to bypass local security restrictions.
+- [LOLBAS](https://lolbas-project.github.io/) - Documents binaries, scripts, and libraries that can be used for "Living Off The Land" attacks on Windows.
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework that includes several modules for privilege escalation.
+- [LinEnum](https://github.com/rebootuser/LinEnum) - A scripted Linux local enumeration and privilege escalation checker.
 
 ---
 
@@ -899,12 +899,12 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ### Binary Modification & Repackaging
 
-*   [Awesome Reverse Engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - A curated list of resources, frameworks, and tools for reverse engineering.
-*   [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - A software reverse engineering (SRE) framework developed by the National Security Agency (NSA).
-*   [Radare2](https://github.com/radareorg/radare2) - A Unix-like reverse engineering framework and command-line toolset.
-*   [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for Windows.
-*   [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android APK files, allowing for modification and repackaging.
-*   [Frida](https://github.com/frida/frida) - A dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+- [Awesome Reverse Engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - A curated list of resources, frameworks, and tools for reverse engineering.
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - A software reverse engineering (SRE) framework developed by the National Security Agency (NSA).
+- [Radare2](https://github.com/radareorg/radare2) - A Unix-like reverse engineering framework and command-line toolset.
+- [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for Windows.
+- [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android APK files, allowing for modification and repackaging.
+- [Frida](https://github.com/frida/frida) - A dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 
 ---
 
@@ -928,13 +928,13 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ### Internal Network Security
 
-*   [Awesome Pentesting](https://github.com/enaqx/awesome-pentesting) - A collection of numerous penetration testing resources, tools, and other highlights.
-*   [Impacket](https://github.com/fortra/impacket) - A collection of Python classes for working with network protocols, an essential tool for internal network pentesting.
-*   [Mimikatz](https://github.com/gentilkiwi/mimikatz) - A tool for extracting plaintext passwords, hashes, PINs, and Kerberos tickets from memory on Windows.
-*   [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Graphically reveals hidden and unexpected relationships in an Active Directory environment.
-*   [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A post-exploitation tool that helps automate security assessments in large networks.
-*   [Responder](https://github.com/lgandx/Responder) - An LLMNR, NBT-NS, and MDNS poisoner, often used to capture network credential hashes.
-*   [Internal-Pentest-Playbook](https://github.com/21y4d/Internal-Pentest-Playbook) - A practical playbook for internal penetration testing, covering various techniques and strategies.
+- [Awesome Pentesting](https://github.com/enaqx/awesome-pentesting) - A collection of numerous penetration testing resources, tools, and other highlights.
+- [Impacket](https://github.com/fortra/impacket) - A collection of Python classes for working with network protocols, an essential tool for internal network pentesting.
+- [Mimikatz](https://github.com/gentilkiwi/mimikatz) - A tool for extracting plaintext passwords, hashes, PINs, and Kerberos tickets from memory on Windows.
+- [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Graphically reveals hidden and unexpected relationships in an Active Directory environment.
+- [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A post-exploitation tool that helps automate security assessments in large networks.
+- [Responder](https://github.com/lgandx/Responder) - An LLMNR, NBT-NS, and MDNS poisoner, often used to capture network credential hashes.
+- [Internal-Pentest-Playbook](https://github.com/21y4d/Internal-Pentest-Playbook) - A practical playbook for internal penetration testing, covering various techniques and strategies.
 
 ---
 
@@ -1631,150 +1631,150 @@ This section covers resources, tools, and methodologies specifically for partici
 
 #### 11.1 Comprehensive Awesome Lists & Repositories
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A comprehensive list of machine learning frameworks, libraries, and software.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A collection of deep learning tutorials, projects, and communities.
-* [Awesome Data Science](https://github.com/academic/awesome-datascience) - Resources for data science, including courses, blogs, datasets, and more.
-* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) - Authoritative list of resources for Large Language Models (LLM).
-* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) - Resources for AI agents.
-* [Awesome Generative AI](https://github.com/steven-tey/awesome-generative-ai) - Curated list of generative AI tools and applications.
-* [Awesome MLOps](https://github.com/visenger/awesome-mlops) - Collection of MLOps platforms, tools, and resources.
-* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) - Tools and resources for data engineering.
-* [Awesome AI Security](https://github.com/Deep-Learning-Security/Awesome-AI-Security) - AI security resources, covering attacks and defenses.
-* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) - Resources for deploying ML in production.
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - High-quality public datasets for AI and data science.
-* [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Learning roadmap to become an AI expert.
-* [Data Science Cheatsheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) - Cheatsheets for data science concepts.
-* [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) - Collection of deep learning resources.
-* [Hugging Face](https://huggingface.co/) - AI community providing models, datasets, and tools.
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A comprehensive list of machine learning frameworks, libraries, and software.
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A collection of deep learning tutorials, projects, and communities.
+- [Awesome Data Science](https://github.com/academic/awesome-datascience) - Resources for data science, including courses, blogs, datasets, and more.
+- [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) - Authoritative list of resources for Large Language Models (LLM).
+- [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) - Resources for AI agents.
+- [Awesome Generative AI](https://github.com/steven-tey/awesome-generative-ai) - Curated list of generative AI tools and applications.
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops) - Collection of MLOps platforms, tools, and resources.
+- [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) - Tools and resources for data engineering.
+- [Awesome AI Security](https://github.com/Deep-Learning-Security/Awesome-AI-Security) - AI security resources, covering attacks and defenses.
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) - Resources for deploying ML in production.
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - High-quality public datasets for AI and data science.
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Learning roadmap to become an AI expert.
+- [Data Science Cheatsheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) - Cheatsheets for data science concepts.
+- [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) - Collection of deep learning resources.
+- [Hugging Face](https://huggingface.co/) - AI community providing models, datasets, and tools.
 
 #### 11.2 Machine Learning & Deep Learning Frameworks
 
-* [TensorFlow](https://github.com/tensorflow/tensorflow) - End-to-end open-source machine learning platform by Google.
-* [PyTorch](https://github.com/pytorch/pytorch) - Open-source ML framework by Meta, known for flexibility and dynamic computation.
-* [Keras](https://github.com/keras-team/keras) - High-level neural networks API, compatible with TensorFlow, PyTorch, and more.
-* [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - Popular library for classical ML in Python.
-* [JAX](https://github.com/google/jax) - High-performance numerical computing library from Google, NumPy compatible.
-* [MXNet](https://github.com/apache/mxnet) - Deep learning framework by Apache.
-* [Caffe](https://github.com/BVLC/caffe) - Deep learning framework developed by Berkeley AI Research.
-* [Theano](https://github.com/Theano/Theano) - Historical Python library for deep learning (no longer maintained).
-* [ONNX](https://github.com/onnx/onnx) - Open format for representing deep learning models.
-* [Deeplearning4j](https://github.com/eclipse/deeplearning4j) - Distributed deep learning library for JVM.
-* [Fastai](https://github.com/fastai/fastai) - High-level deep learning library based on PyTorch.
-* [Chainer](https://github.com/chainer/chainer) - Flexible neural network framework (now largely merged with PyTorch).
-* [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - Open-source deep learning platform by Baidu.
-* [TFLearn](https://github.com/tflearn/tflearn) - Modular deep learning library built on TensorFlow.
-* [Sonnet](https://github.com/deepmind/sonnet) - Neural network library by DeepMind, built on TensorFlow.
+- [TensorFlow](https://github.com/tensorflow/tensorflow) - End-to-end open-source machine learning platform by Google.
+- [PyTorch](https://github.com/pytorch/pytorch) - Open-source ML framework by Meta, known for flexibility and dynamic computation.
+- [Keras](https://github.com/keras-team/keras) - High-level neural networks API, compatible with TensorFlow, PyTorch, and more.
+- [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - Popular library for classical ML in Python.
+- [JAX](https://github.com/google/jax) - High-performance numerical computing library from Google, NumPy compatible.
+- [MXNet](https://github.com/apache/mxnet) - Deep learning framework by Apache.
+- [Caffe](https://github.com/BVLC/caffe) - Deep learning framework developed by Berkeley AI Research.
+- [Theano](https://github.com/Theano/Theano) - Historical Python library for deep learning (no longer maintained).
+- [ONNX](https://github.com/onnx/onnx) - Open format for representing deep learning models.
+- [Deeplearning4j](https://github.com/eclipse/deeplearning4j) - Distributed deep learning library for JVM.
+- [Fastai](https://github.com/fastai/fastai) - High-level deep learning library based on PyTorch.
+- [Chainer](https://github.com/chainer/chainer) - Flexible neural network framework (now largely merged with PyTorch).
+- [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - Open-source deep learning platform by Baidu.
+- [TFLearn](https://github.com/tflearn/tflearn) - Modular deep learning library built on TensorFlow.
+- [Sonnet](https://github.com/deepmind/sonnet) - Neural network library by DeepMind, built on TensorFlow.
 
 #### 11.3 Large Language Models (LLM) & AIGC
 
-* [n8n](https://github.com/n8n-io/n8n) - Open-source workflow automation with AI nodes.
-* [Langflow](https://github.com/langflow-ai/langflow) - Visual builder for designing and deploying LLM applications.
-* [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - One of the most powerful open-source LLMs currently.
-* [Dify](https://github.com/langgenius/dify) - Production-grade LLM development platform.
-* [Ollama](https://github.com/ollama/ollama) - Tool to run LLMs locally with ease.
-* [RAGFlow](https://github.com/infiniflow/ragflow) - Next-gen RAG engine based on deep document understanding.
-* [vLLM](https://github.com/vllm-project/vllm) - High-throughput, memory-efficient LLM inference library.
-* [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source AI software engineer agents.
+- [n8n](https://github.com/n8n-io/n8n) - Open-source workflow automation with AI nodes.
+- [Langflow](https://github.com/langflow-ai/langflow) - Visual builder for designing and deploying LLM applications.
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - One of the most powerful open-source LLMs currently.
+- [Dify](https://github.com/langgenius/dify) - Production-grade LLM development platform.
+- [Ollama](https://github.com/ollama/ollama) - Tool to run LLMs locally with ease.
+- [RAGFlow](https://github.com/infiniflow/ragflow) - Next-gen RAG engine based on deep document understanding.
+- [vLLM](https://github.com/vllm-project/vllm) - High-throughput, memory-efficient LLM inference library.
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source AI software engineer agents.
 
-* [LangChain](https://github.com/langchain-ai/langchain) - Framework to build applications powered by language models.
-* [LlamaIndex](https://github.com/run-llama/llama_index) - Connects LLMs with external data.
-* [Transformers](https://github.com/huggingface/transformers) - Hugging Face library with thousands of pre-trained models for NLP, NLU, and NLG.
-* [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Open-source text-to-image generation model.
-* [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Browser interface for Stable Diffusion.
-* [Whisper](https://github.com/openai/whisper) - OpenAI’s universal speech recognition model.
-* [LLaMA](https://github.com/facebookresearch/llama) - Foundation LLM by Meta AI.
-* [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Instruction-tuned model based on LLaMA.
-* [Vicuna](https://github.com/lm-sys/FastChat) - LLaMA-based, ChatGPT-level open-source chat model.
-* [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) - Gradio Web UI for running LLMs.
-* [PrivateGPT](https://github.com/imartinez/privateGPT) - Local, offline interaction with documents.
-* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Experimental autonomous GPT-4 project.
-* [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI agents in-browser.
-* [Awesome Prompt Engineering](https://github.com/prompt-engineering/awesome-prompt-engineering) - Resources for prompt engineering.
-* [LLM From Scratch](https://github.com/rasbt/LLMs-from-scratch) - Tutorial to build LLMs from zero.
-* [LoRA (Low-Rank Adaptation)](https://github.com/microsoft/LoRA) - Efficient fine-tuning method for large models.
-* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) - Library for generating sentence/text embeddings.
-* [PEFT (Parameter-Efficient Fine-Tuning)](https://github.com/huggingface/peft) - Hugging Face library for parameter-efficient fine-tuning.
-* [bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit quantization library for running large models on consumer hardware.
-* [GPT-Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Generate entire codebases from prompts.
-* [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Leading Stable Diffusion GUI and API.
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Modular node-based GUI for Stable Diffusion.
-* [Fooocus](https://github.com/lllyasviel/Fooocus) - Minimal but powerful Stable Diffusion software.
-* [Fooocus](https://github.com/lllyasviel/Fooocus) - Minimal but powerful Stable Diffusion software.
+- [LangChain](https://github.com/langchain-ai/langchain) - Framework to build applications powered by language models.
+- [LlamaIndex](https://github.com/run-llama/llama_index) - Connects LLMs with external data.
+- [Transformers](https://github.com/huggingface/transformers) - Hugging Face library with thousands of pre-trained models for NLP, NLU, and NLG.
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Open-source text-to-image generation model.
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Browser interface for Stable Diffusion.
+- [Whisper](https://github.com/openai/whisper) - OpenAI’s universal speech recognition model.
+- [LLaMA](https://github.com/facebookresearch/llama) - Foundation LLM by Meta AI.
+- [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Instruction-tuned model based on LLaMA.
+- [Vicuna](https://github.com/lm-sys/FastChat) - LLaMA-based, ChatGPT-level open-source chat model.
+- [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) - Gradio Web UI for running LLMs.
+- [PrivateGPT](https://github.com/imartinez/privateGPT) - Local, offline interaction with documents.
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Experimental autonomous GPT-4 project.
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI agents in-browser.
+- [Awesome Prompt Engineering](https://github.com/prompt-engineering/awesome-prompt-engineering) - Resources for prompt engineering.
+- [LLM From Scratch](https://github.com/rasbt/LLMs-from-scratch) - Tutorial to build LLMs from zero.
+- [LoRA (Low-Rank Adaptation)](https://github.com/microsoft/LoRA) - Efficient fine-tuning method for large models.
+- [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) - Library for generating sentence/text embeddings.
+- [PEFT (Parameter-Efficient Fine-Tuning)](https://github.com/huggingface/peft) - Hugging Face library for parameter-efficient fine-tuning.
+- [bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit quantization library for running large models on consumer hardware.
+- [GPT-Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Generate entire codebases from prompts.
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Leading Stable Diffusion GUI and API.
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Modular node-based GUI for Stable Diffusion.
+- [Fooocus](https://github.com/lllyasviel/Fooocus) - Minimal but powerful Stable Diffusion software.
+- [Fooocus](https://github.com/lllyasviel/Fooocus) - Minimal but powerful Stable Diffusion software.
 
 #### 11.4 Computer Vision (CV)
 
-* [OpenCV](https://github.com/opencv/opencv) - Open-source computer vision library.
-* [YOLO (You Only Look Once)](https://github.com/ultralytics/yolov5) - Real-time object detection algorithm (v5 version).
-* [Detectron2](https://github.com/facebookresearch/detectron2) - Next-generation object detection and segmentation platform by FAIR.
-* [MMDetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab toolbox and benchmarks for object detection.
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated computer vision resources.
-* [Pillow](https://github.com/python-pillow/Pillow) - Friendly Python image processing library (PIL fork).
-* [Tesseract](https://github.com/tesseract-ocr/tesseract) - Open-source OCR engine supported by Google.
-* [Albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library.
-* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Real-time multi-person keypoint detection.
-* [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - Leading Deepfake software.
-* [Face-recognition](https://github.com/ageitgey/face_recognition) - Simplest Python library for face recognition.
-* [MediaPipe](https://github.com/google/mediapipe) - Google cross-platform ML solutions for real-time streaming.
+- [OpenCV](https://github.com/opencv/opencv) - Open-source computer vision library.
+- [YOLO (You Only Look Once)](https://github.com/ultralytics/yolov5) - Real-time object detection algorithm (v5 version).
+- [Detectron2](https://github.com/facebookresearch/detectron2) - Next-generation object detection and segmentation platform by FAIR.
+- [MMDetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab toolbox and benchmarks for object detection.
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated computer vision resources.
+- [Pillow](https://github.com/python-pillow/Pillow) - Friendly Python image processing library (PIL fork).
+- [Tesseract](https://github.com/tesseract-ocr/tesseract) - Open-source OCR engine supported by Google.
+- [Albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library.
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Real-time multi-person keypoint detection.
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - Leading Deepfake software.
+- [Face-recognition](https://github.com/ageitgey/face_recognition) - Simplest Python library for face recognition.
+- [MediaPipe](https://github.com/google/mediapipe) - Google cross-platform ML solutions for real-time streaming.
 
 #### 11.5 Natural Language Processing (NLP)
 
-* [NLTK](https://github.com/nltk/nltk) - Leading Python toolkit for human language data processing.
-* [SpaCy](https://github.com/explosion/spaCy) - Industrial-grade NLP library for production.
-* [Gensim](https://github.com/RaRe-Technologies/gensim) - Python library for topic modeling, document indexing, and similarity retrieval.
-* [Awesome NLP](https://github.com/keon/awesome-nlp) - Curated NLP resources.
-* [Stanza](https://github.com/stanfordnlp/stanza) - Stanford University Python NLP library.
-* [Flair](https://github.com/flairNLP/flair) - Simple NLP framework.
-* [TextBlob](https://github.com/sloria/TextBlob) - Simplified text processing library in Python.
-* [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Stanford Java NLP toolkit.
+- [NLTK](https://github.com/nltk/nltk) - Leading Python toolkit for human language data processing.
+- [SpaCy](https://github.com/explosion/spaCy) - Industrial-grade NLP library for production.
+- [Gensim](https://github.com/RaRe-Technologies/gensim) - Python library for topic modeling, document indexing, and similarity retrieval.
+- [Awesome NLP](https://github.com/keon/awesome-nlp) - Curated NLP resources.
+- [Stanza](https://github.com/stanfordnlp/stanza) - Stanford University Python NLP library.
+- [Flair](https://github.com/flairNLP/flair) - Simple NLP framework.
+- [TextBlob](https://github.com/sloria/TextBlob) - Simplified text processing library in Python.
+- [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Stanford Java NLP toolkit.
 
 #### 11.6 Data Processing & Visualization
 
-* [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python library for data manipulation and analysis.
-* [NumPy](https://github.com/numpy/numpy) - Fundamental package for scientific computing in Python.
-* [Matplotlib](https://github.com/matplotlib/matplotlib) - Popular plotting library in Python.
-* [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization library built on Matplotlib.
-* [Plotly](https://github.com/plotly/plotly.py) - Interactive plotting library.
-* [Bokeh](https://github.com/bokeh/bokeh) - Interactive visualization for modern web browsers.
-* [Dask](https://github.com/dask/dask) - Flexible library for parallel computing, scalable with Pandas and Scikit-learn.
-* [Vaex](https://github.com/vaexio/vaex) - High-performance out-of-core DataFrame library for Python.
-* [Jupyter Notebook](https://github.com/jupyter/notebook) - Web-based interactive computing environment.
-* [JupyterLab](https://github.com/jupyterlab/jupyterlab) - Next-generation Jupyter Notebook interface.
-* [Streamlit](https://github.com/streamlit/streamlit) - Build web apps for ML and data science projects rapidly.
-* [Gradio](https://github.com/gradio-app/gradio) - Customizable UI components for ML models.
-* [Apache Spark](https://github.com/apache/spark) - Unified engine for large-scale data processing.
-* [Apache Arrow](https://github.com/apache/arrow) - Cross-language development platform for in-memory data.
-* [Polars](https://github.com/pola-rs/polars) - Fast DataFrame library written in Rust.
+- [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python library for data manipulation and analysis.
+- [NumPy](https://github.com/numpy/numpy) - Fundamental package for scientific computing in Python.
+- [Matplotlib](https://github.com/matplotlib/matplotlib) - Popular plotting library in Python.
+- [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization library built on Matplotlib.
+- [Plotly](https://github.com/plotly/plotly.py) - Interactive plotting library.
+- [Bokeh](https://github.com/bokeh/bokeh) - Interactive visualization for modern web browsers.
+- [Dask](https://github.com/dask/dask) - Flexible library for parallel computing, scalable with Pandas and Scikit-learn.
+- [Vaex](https://github.com/vaexio/vaex) - High-performance out-of-core DataFrame library for Python.
+- [Jupyter Notebook](https://github.com/jupyter/notebook) - Web-based interactive computing environment.
+- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - Next-generation Jupyter Notebook interface.
+- [Streamlit](https://github.com/streamlit/streamlit) - Build web apps for ML and data science projects rapidly.
+- [Gradio](https://github.com/gradio-app/gradio) - Customizable UI components for ML models.
+- [Apache Spark](https://github.com/apache/spark) - Unified engine for large-scale data processing.
+- [Apache Arrow](https://github.com/apache/arrow) - Cross-language development platform for in-memory data.
+- [Polars](https://github.com/pola-rs/polars) - Fast DataFrame library written in Rust.
 
 #### 11.7 MLOps & Data Engineering
 
-* [MLflow](https://github.com/mlflow/mlflow) - Open-source platform for managing the end-to-end ML lifecycle.
-* [Kubeflow](https://github.com/kubeflow/kubeflow) - Toolkit for running ML on Kubernetes.
-* [DVC](https://github.com/iterative/dvc) - Open-source version control for ML projects.
-* [Airflow](https://github.com/apache/airflow) - Platform for programmatically authoring, scheduling, and monitoring workflows.
-* [Prefect](https://github.com/PrefectHQ/prefect) - Modern workflow automation platform for data pipelines.
-* [BentoML](https://github.com/bentoml/BentoML) - Framework for serving and deploying ML models.
-* [Feast](https://github.com/feast-dev/feast) - Open-source feature store.
-* [Ray](https://github.com/ray-project/ray) - Unified compute framework to scale AI and Python applications.
-* [Optuna](https://github.com/optuna/optuna) - Automated hyperparameter optimization framework.
-* [Weights & Biases (Wandb)](https://wandb.ai/site) - MLOps platform for experiment tracking, data visualization, and collaboration.
-* [ClearML](https://github.com/allegroai/clearml) - Automated MLOps platform.
-* [DBT](https://github.com/dbt-labs/dbt-core) - Data transformation tool for analysts.
-* [Great Expectations](https://github.com/great-expectations/great_expectations) - Data testing, documentation, and validation framework.
-* [Trino](https://github.com/trinodb/trino) - Distributed SQL query engine for big data analytics.
-* [Delta Lake](https://github.com/delta-io/delta) - Storage layer bringing ACID transactions to data lakes.
+- [MLflow](https://github.com/mlflow/mlflow) - Open-source platform for managing the end-to-end ML lifecycle.
+- [Kubeflow](https://github.com/kubeflow/kubeflow) - Toolkit for running ML on Kubernetes.
+- [DVC](https://github.com/iterative/dvc) - Open-source version control for ML projects.
+- [Airflow](https://github.com/apache/airflow) - Platform for programmatically authoring, scheduling, and monitoring workflows.
+- [Prefect](https://github.com/PrefectHQ/prefect) - Modern workflow automation platform for data pipelines.
+- [BentoML](https://github.com/bentoml/BentoML) - Framework for serving and deploying ML models.
+- [Feast](https://github.com/feast-dev/feast) - Open-source feature store.
+- [Ray](https://github.com/ray-project/ray) - Unified compute framework to scale AI and Python applications.
+- [Optuna](https://github.com/optuna/optuna) - Automated hyperparameter optimization framework.
+- [Weights & Biases (Wandb)](https://wandb.ai/site) - MLOps platform for experiment tracking, data visualization, and collaboration.
+- [ClearML](https://github.com/allegroai/clearml) - Automated MLOps platform.
+- [DBT](https://github.com/dbt-labs/dbt-core) - Data transformation tool for analysts.
+- [Great Expectations](https://github.com/great-expectations/great_expectations) - Data testing, documentation, and validation framework.
+- [Trino](https://github.com/trinodb/trino) - Distributed SQL query engine for big data analytics.
+- [Delta Lake](https://github.com/delta-io/delta) - Storage layer bringing ACID transactions to data lakes.
 
 #### 11.8 AI Security & Explainability
 
-* [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for ML security.
-* [CleverHans](https://github.com/cleverhans-lab/cleverhans) - Library for benchmarking adversarial attacks on ML systems.
-* [SHAP](https://github.com/slundberg/shap) - Game-theoretic method for explaining ML model outputs.
-* [LIME](https://github.com/marcotcr/lime) - Python package for interpreting predictions of any classifier or regressor.
-* [Captum](https://github.com/pytorch/captum) - Model interpretability library for PyTorch.
-* [Counterfit](https://github.com/Azure/counterfit) - CLI tool for automated AI system security assessment.
-* [TextAttack](https://github.com/QData/TextAttack) - Python framework for NLP adversarial attacks, data augmentation, and model training.
-* [DeepFool](https://github.com/LTS4/deepfool) - Simple and accurate method to compute deep network robustness.
-* [AI-Exploits](https://github.com/protectai/ai-exploits) - Collection of AI system exploits.
-* [Garak](https://github.com/leondz/garak) - LLM vulnerability scanner.
+- [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for ML security.
+- [CleverHans](https://github.com/cleverhans-lab/cleverhans) - Library for benchmarking adversarial attacks on ML systems.
+- [SHAP](https://github.com/slundberg/shap) - Game-theoretic method for explaining ML model outputs.
+- [LIME](https://github.com/marcotcr/lime) - Python package for interpreting predictions of any classifier or regressor.
+- [Captum](https://github.com/pytorch/captum) - Model interpretability library for PyTorch.
+- [Counterfit](https://github.com/Azure/counterfit) - CLI tool for automated AI system security assessment.
+- [TextAttack](https://github.com/QData/TextAttack) - Python framework for NLP adversarial attacks, data augmentation, and model training.
+- [DeepFool](https://github.com/LTS4/deepfool) - Simple and accurate method to compute deep network robustness.
+- [AI-Exploits](https://github.com/protectai/ai-exploits) - Collection of AI system exploits.
+- [Garak](https://github.com/leondz/garak) - LLM vulnerability scanner.
 
 ---
 
@@ -1782,161 +1782,161 @@ This section covers resources, tools, and methodologies specifically for partici
 
 #### 12.1 Comprehensive Awesome Lists & Resource Libraries
 
-*   [Awesome Dev Env](https://github.com/jondot/awesome-dev-env) - A comprehensive list of development environment resources.
-*   [Awesome Developer Tools](https://github.com/goabstract/awesome-developer-tools) - A collection of various developer tools.
-*   [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) - Tools and resources to boost productivity.
-*   [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - (Duplicate) Learning roadmaps for different developer roles.
-*   [Free for Dev](https://github.com/ripienaar/free-for-dev) - (Duplicate) Free SaaS, PaaS, IaaS and other services for developers.
-*   [Awesome-README](https://github.com/matiassingers/awesome-readme) - (Duplicate) Excellent README examples.
-*   [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - Technical writing resources.
-*   [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - (Duplicate) Cheat sheets for various technologies and tools.
-*   [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Mastering the command line.
-*   [Awesome-Interview-Questions](https://github.com/DopplerHQ/awesome-interview-questions) - (Duplicate) Curated interview question lists.
-*   [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - (Duplicate) Free technical interview resources for busy engineers.
-*   [Coding Interview University](https://github.com/jwasham/coding-interview-university) - (Duplicate) Complete self-taught curriculum for becoming a software engineer.
-*   [Professional Programming](https://github.com/charlax/professional-programming) - (Duplicate) Resources to become a more professional programmer.
-*   [Awesome-for-Beginners](https://github.com/MunGell/awesome-for-beginners) - Beginner-friendly open source projects.
-*   [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks) - (Duplicate) Inspiring technical talks.
-*   [Awesome-Podcasts](https://github.com/rShetty/awesome-podcasts) - (Duplicate) Podcasts loved by developers.
-*   [Awesome-Newsletters](https://github.com/zudochkin/awesome-newsletters) - (Duplicate) Valuable tech newsletters.
-*   [Developer-Health](https://github.com/zen-pro/awesome-developer-health) - Developer health resources.
+- [Awesome Dev Env](https://github.com/jondot/awesome-dev-env) - A comprehensive list of development environment resources.
+- [Awesome Developer Tools](https://github.com/goabstract/awesome-developer-tools) - A collection of various developer tools.
+- [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) - Tools and resources to boost productivity.
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - (Duplicate) Learning roadmaps for different developer roles.
+- [Free for Dev](https://github.com/ripienaar/free-for-dev) - (Duplicate) Free SaaS, PaaS, IaaS and other services for developers.
+- [Awesome-README](https://github.com/matiassingers/awesome-readme) - (Duplicate) Excellent README examples.
+- [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - Technical writing resources.
+- [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - (Duplicate) Cheat sheets for various technologies and tools.
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Mastering the command line.
+- [Awesome-Interview-Questions](https://github.com/DopplerHQ/awesome-interview-questions) - (Duplicate) Curated interview question lists.
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - (Duplicate) Free technical interview resources for busy engineers.
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - (Duplicate) Complete self-taught curriculum for becoming a software engineer.
+- [Professional Programming](https://github.com/charlax/professional-programming) - (Duplicate) Resources to become a more professional programmer.
+- [Awesome-for-Beginners](https://github.com/MunGell/awesome-for-beginners) - Beginner-friendly open source projects.
+- [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks) - (Duplicate) Inspiring technical talks.
+- [Awesome-Podcasts](https://github.com/rShetty/awesome-podcasts) - (Duplicate) Podcasts loved by developers.
+- [Awesome-Newsletters](https://github.com/zudochkin/awesome-newsletters) - (Duplicate) Valuable tech newsletters.
+- [Developer-Health](https://github.com/zen-pro/awesome-developer-health) - Developer health resources.
 
 #### 12.2 Code Editors & IDEs
 
-*   [Claude Code](https://github.com/anthropics/claude-code) - Official AI coding CLI tool by Anthropic.
-*   [Zed](https://github.com/zed-industries/zed) - A high-performance code editor created by the founders of Atom.
+- [Claude Code](https://github.com/anthropics/claude-code) - Official AI coding CLI tool by Anthropic.
+- [Zed](https://github.com/zed-industries/zed) - A high-performance code editor created by the founders of Atom.
 
-*   [Visual Studio Code (VS Code)](https://github.com/microsoft/vscode) - Microsoft’s most popular open-source code editor.
-*   [Awesome-VSCode](https://github.com/viatsko/awesome-vscode) - (Duplicate) VS Code extensions and resources.
-*   [Neovim](https://github.com/neovim/neovim) - A fork of Vim focused on extensibility and usability.
-*   [Awesome-Neovim](https://github.com/rockerBOO/awesome-neovim) - (Duplicate) Neovim plugins and resources.
-*   [Vim](https://github.com/vim/vim) - Highly configurable text editor.
-*   [The Ultimate Vim Configuration](https://github.com/amix/vimrc) - Ultimate Vim configuration.
-*   [SpaceVim](https://github.com/SpaceVim/SpaceVim) - Community-driven modular Vim/Neovim configuration.
-*   [Emacs](https://www.gnu.org/software/emacs/) - Extensible, customizable, self-documenting real-time display editor.
-*   [Doom Emacs](https://github.com/doomemacs/doomemacs) - An Emacs configuration framework for Vim enthusiasts.
-*   [Spacemacs](https://github.com/syl20bnr/spacemacs) - Community-driven Emacs distribution.
-*   [JetBrains IDEs](https://www.jetbrains.com/products/) - (Commercial) IntelliJ IDEA, PyCharm, GoLand, WebStorm, etc.
-*   [Sublime Text](https://www.sublimetext.com/) - (Commercial) Mature and refined text editor.
-*   [Atom](https://github.com/atom/atom) - (Archived) Customizable text editor by GitHub.
-*   [Zed](https://github.com/zed-industries/zed) - (macOS) High-performance collaborative editor built by Atom & Tree-sitter creators.
-*   [Lapce](https://github.com/lapce/lapce) - Lightning-fast powerful code editor written in Rust.
-*   [Helix](https://github.com/helix-editor/helix) - Post-modern text editor inspired by Kakoune/Neovim, written in Rust.
-*   [OniVim 2](https://github.com/onivim/oni2) - (Archived) Editor combining Vim and VS Code features.
+- [Visual Studio Code (VS Code)](https://github.com/microsoft/vscode) - Microsoft’s most popular open-source code editor.
+- [Awesome-VSCode](https://github.com/viatsko/awesome-vscode) - (Duplicate) VS Code extensions and resources.
+- [Neovim](https://github.com/neovim/neovim) - A fork of Vim focused on extensibility and usability.
+- [Awesome-Neovim](https://github.com/rockerBOO/awesome-neovim) - (Duplicate) Neovim plugins and resources.
+- [Vim](https://github.com/vim/vim) - Highly configurable text editor.
+- [The Ultimate Vim Configuration](https://github.com/amix/vimrc) - Ultimate Vim configuration.
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - Community-driven modular Vim/Neovim configuration.
+- [Emacs](https://www.gnu.org/software/emacs/) - Extensible, customizable, self-documenting real-time display editor.
+- [Doom Emacs](https://github.com/doomemacs/doomemacs) - An Emacs configuration framework for Vim enthusiasts.
+- [Spacemacs](https://github.com/syl20bnr/spacemacs) - Community-driven Emacs distribution.
+- [JetBrains IDEs](https://www.jetbrains.com/products/) - (Commercial) IntelliJ IDEA, PyCharm, GoLand, WebStorm, etc.
+- [Sublime Text](https://www.sublimetext.com/) - (Commercial) Mature and refined text editor.
+- [Atom](https://github.com/atom/atom) - (Archived) Customizable text editor by GitHub.
+- [Zed](https://github.com/zed-industries/zed) - (macOS) High-performance collaborative editor built by Atom & Tree-sitter creators.
+- [Lapce](https://github.com/lapce/lapce) - Lightning-fast powerful code editor written in Rust.
+- [Helix](https://github.com/helix-editor/helix) - Post-modern text editor inspired by Kakoune/Neovim, written in Rust.
+- [OniVim 2](https://github.com/onivim/oni2) - (Archived) Editor combining Vim and VS Code features.
 
 #### 12.3 Terminals & Shells
 
-*   [Alacritty](https://github.com/alacritty/alacritty) - (Duplicate) Cross-platform GPU-accelerated terminal emulator.
-*   [WezTerm](https://github.com/wez/wezterm) - Rust-based GPU-accelerated cross-platform terminal and multiplexer.
-*   [Kitty](https://github.com/kovidgoyal/kitty) - Fast, feature-rich GPU-accelerated terminal emulator.
-*   [Hyper](https://github.com/vercel/hyper) - Terminal built on web technologies.
-*   [iTerm2](https://iterm2.com/) - (macOS) Terminal replacement for macOS.
-*   [Windows Terminal](https://github.com/microsoft/terminal) - Modern terminal application for Windows.
-*   [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Community-driven framework for managing Zsh configuration.
-*   [Awesome-Zsh-Plugins](https://github.com/unixorn/awesome-zsh-plugins) - (Duplicate) Zsh plugins and themes.
-*   [Starship](https://github.com/starship/starship) - Minimal, blazing-fast, infinitely customizable cross-shell prompt.
-*   [Fish Shell](https://github.com/fish-shell/fish-shell) - Smart and user-friendly command line shell.
-*   [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Framework for Fish Shell.
-*   [Fig](https://fig.io/) - (Acquired by AWS) IDE-style autocomplete for terminals.
-*   [Warp](https://www.warp.dev/) - (macOS) Modern Rust-based terminal.
-*   [Tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
-*   [Zellij](https://github.com/zellij-org/zellij) - Rust-based terminal workspace for developers.
-*   [Fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder.
-*   [Bat](https://github.com/sharkdp/bat) - (Duplicate) `cat` clone with syntax highlighting and Git integration.
-*   [Ripgrep](https://github.com/BurntSushi/ripgrep) - (Duplicate) Extremely fast line-oriented search tool.
-*   [Exa](https://github.com/ogham/exa) - (Duplicate) Modern replacement for `ls`.
-*   [Fd](https://github.com/sharkdp/fd) - Simple, fast, user-friendly alternative to `find`.
-*   [Sd](https://github.com/chmln/sd) - Intuitive find & replace CLI tool.
-*   [Zoxide](https://github.com/ajeetdsouza/zoxide) - Smarter `cd` command.
-*   [Tldr](https://github.com/tldr-pages/tldr) - Community-maintained simplified man pages.
-*   [Cheat.sh](https://github.com/chubin/cheat.sh) - Unified community-driven cheat sheets.
-*   [Awesome-Shell](https://github.com/alebcay/awesome-shell) - (Duplicate) Shell tools and resources.
-*   [Awesome-CLI-Apps](https://github.com/agarrharr/awesome-cli-apps) - (Duplicate) Excellent command-line applications.
+- [Alacritty](https://github.com/alacritty/alacritty) - (Duplicate) Cross-platform GPU-accelerated terminal emulator.
+- [WezTerm](https://github.com/wez/wezterm) - Rust-based GPU-accelerated cross-platform terminal and multiplexer.
+- [Kitty](https://github.com/kovidgoyal/kitty) - Fast, feature-rich GPU-accelerated terminal emulator.
+- [Hyper](https://github.com/vercel/hyper) - Terminal built on web technologies.
+- [iTerm2](https://iterm2.com/) - (macOS) Terminal replacement for macOS.
+- [Windows Terminal](https://github.com/microsoft/terminal) - Modern terminal application for Windows.
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Community-driven framework for managing Zsh configuration.
+- [Awesome-Zsh-Plugins](https://github.com/unixorn/awesome-zsh-plugins) - (Duplicate) Zsh plugins and themes.
+- [Starship](https://github.com/starship/starship) - Minimal, blazing-fast, infinitely customizable cross-shell prompt.
+- [Fish Shell](https://github.com/fish-shell/fish-shell) - Smart and user-friendly command line shell.
+- [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Framework for Fish Shell.
+- [Fig](https://fig.io/) - (Acquired by AWS) IDE-style autocomplete for terminals.
+- [Warp](https://www.warp.dev/) - (macOS) Modern Rust-based terminal.
+- [Tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
+- [Zellij](https://github.com/zellij-org/zellij) - Rust-based terminal workspace for developers.
+- [Fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder.
+- [Bat](https://github.com/sharkdp/bat) - (Duplicate) `cat` clone with syntax highlighting and Git integration.
+- [Ripgrep](https://github.com/BurntSushi/ripgrep) - (Duplicate) Extremely fast line-oriented search tool.
+- [Exa](https://github.com/ogham/exa) - (Duplicate) Modern replacement for `ls`.
+- [Fd](https://github.com/sharkdp/fd) - Simple, fast, user-friendly alternative to `find`.
+- [Sd](https://github.com/chmln/sd) - Intuitive find & replace CLI tool.
+- [Zoxide](https://github.com/ajeetdsouza/zoxide) - Smarter `cd` command.
+- [Tldr](https://github.com/tldr-pages/tldr) - Community-maintained simplified man pages.
+- [Cheat.sh](https://github.com/chubin/cheat.sh) - Unified community-driven cheat sheets.
+- [Awesome-Shell](https://github.com/alebcay/awesome-shell) - (Duplicate) Shell tools and resources.
+- [Awesome-CLI-Apps](https://github.com/agarrharr/awesome-cli-apps) - (Duplicate) Excellent command-line applications.
 
 #### 12.4 Git & Version Control
 
-*   [Git](https://github.com/git/git) - Distributed version control system.
-*   [Pro Git](https://github.com/progit/progit2) - *Pro Git* 2nd edition book.
-*   [Git-flight-rules](https://github.com/k88hudson/git-flight-rules) - (Duplicate) Git flight rules for emergency situations.
-*   [Gitignore](https://github.com/github/gitignore) - (Duplicate) Collection of useful `.gitignore` templates.
-*   [Lazygit](https://github.com/jesseduffield/lazygit) - Simple Git terminal UI.
-*   [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Standardized Git commit message convention.
-*   [Commitizen](https://github.com/commitizen/cz-cli) - Generate commits following Conventional Commits.
-*   [Husky](https://github.com/typicode/husky) - Modern native Git hooks.
-*   [GitKraken](https://www.gitkraken.com/) - (Commercial) Cross-platform Git GUI client.
-*   [SourceTree](https://www.sourcetreeapp.com/) - (Free) Git GUI for Windows and Mac.
-*   [GitHub Desktop](https://github.com/desktop/desktop) - Official GitHub desktop client.
-*   [Gitea](https://github.com/go-gitea/gitea) - Self-hosted Git service written in Go.
-*   [Gogs](https://github.com/gogs/gogs) - Another self-hosted Git service written in Go.
-*   [GitLab](https://gitlab.com/gitlab-org/gitlab) - Open-source complete DevOps platform.
-*   [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Tool for removing large files or sensitive data from Git repos.
-*   [Git-LFS (Large File Storage)](https://github.com/git-lfs/git-lfs) - Git extension for large file storage.
-*   [Delta](https://github.com/dandavison/delta) - Viewer for Git and diff output.
+- [Git](https://github.com/git/git) - Distributed version control system.
+- [Pro Git](https://github.com/progit/progit2) - *Pro Git* 2nd edition book.
+- [Git-flight-rules](https://github.com/k88hudson/git-flight-rules) - (Duplicate) Git flight rules for emergency situations.
+- [Gitignore](https://github.com/github/gitignore) - (Duplicate) Collection of useful `.gitignore` templates.
+- [Lazygit](https://github.com/jesseduffield/lazygit) - Simple Git terminal UI.
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Standardized Git commit message convention.
+- [Commitizen](https://github.com/commitizen/cz-cli) - Generate commits following Conventional Commits.
+- [Husky](https://github.com/typicode/husky) - Modern native Git hooks.
+- [GitKraken](https://www.gitkraken.com/) - (Commercial) Cross-platform Git GUI client.
+- [SourceTree](https://www.sourcetreeapp.com/) - (Free) Git GUI for Windows and Mac.
+- [GitHub Desktop](https://github.com/desktop/desktop) - Official GitHub desktop client.
+- [Gitea](https://github.com/go-gitea/gitea) - Self-hosted Git service written in Go.
+- [Gogs](https://github.com/gogs/gogs) - Another self-hosted Git service written in Go.
+- [GitLab](https://gitlab.com/gitlab-org/gitlab) - Open-source complete DevOps platform.
+- [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Tool for removing large files or sensitive data from Git repos.
+- [Git-LFS (Large File Storage)](https://github.com/git-lfs/git-lfs) - Git extension for large file storage.
+- [Delta](https://github.com/dandavison/delta) - Viewer for Git and diff output.
 
 #### 12.5 Documentation & Knowledge Management
 
-*   [Docusaurus](https://github.com/facebook/docusaurus) - Easy-to-maintain open-source documentation websites by Facebook.
-*   [MkDocs](https://github.com/mkdocs/mkdocs) - Fast, simple, beautiful static site generator for project docs.
-*   [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) - Popular theme for MkDocs.
-*   [VitePress](https://github.com/vuejs/vitepress) - Vite-powered static site generator by the Vue team.
-*   [Docsify](https://github.com/docsifyjs/docsify) - Magical documentation generator without build steps.
-*   [Read the Docs](https://github.com/readthedocs/readthedocs.org) - Platform for building, versioning, and hosting docs.
-*   [Obsidian](https://obsidian.md/) - (Freemium) Powerful knowledge base built on local Markdown files.
-*   [Logseq](https://github.com/logseq/logseq) - Privacy-focused open-source knowledge management platform.
-*   [Joplin](https://github.com/laurent22/joplin) - Open-source note-taking and to-do app with E2EE.
-*   [Notion](https://www.notion.so/) - (Commercial) All-in-one workspace for notes, tasks, wikis, and databases.
-*   [Typora](https://typora.io/) - (Commercial) Minimal WYSIWYG Markdown editor.
-*   [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown syntax cheat sheet.
-*   [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - (Duplicate) Self-hosted services including docs and wiki systems.
-*   [Diataxis Framework](https://diataxis.fr/) - Systematic framework for technical documentation.
-*   [Write the Docs](https://www.writethedocs.org/) - Global community focused on documentation and writers.
+- [Docusaurus](https://github.com/facebook/docusaurus) - Easy-to-maintain open-source documentation websites by Facebook.
+- [MkDocs](https://github.com/mkdocs/mkdocs) - Fast, simple, beautiful static site generator for project docs.
+- [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) - Popular theme for MkDocs.
+- [VitePress](https://github.com/vuejs/vitepress) - Vite-powered static site generator by the Vue team.
+- [Docsify](https://github.com/docsifyjs/docsify) - Magical documentation generator without build steps.
+- [Read the Docs](https://github.com/readthedocs/readthedocs.org) - Platform for building, versioning, and hosting docs.
+- [Obsidian](https://obsidian.md/) - (Freemium) Powerful knowledge base built on local Markdown files.
+- [Logseq](https://github.com/logseq/logseq) - Privacy-focused open-source knowledge management platform.
+- [Joplin](https://github.com/laurent22/joplin) - Open-source note-taking and to-do app with E2EE.
+- [Notion](https://www.notion.so/) - (Commercial) All-in-one workspace for notes, tasks, wikis, and databases.
+- [Typora](https://typora.io/) - (Commercial) Minimal WYSIWYG Markdown editor.
+- [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdown syntax cheat sheet.
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - (Duplicate) Self-hosted services including docs and wiki systems.
+- [Diataxis Framework](https://diataxis.fr/) - Systematic framework for technical documentation.
+- [Write the Docs](https://www.writethedocs.org/) - Global community focused on documentation and writers.
 
 #### 12.6 Career Growth & Soft Skills
 
-*   [Clean Code](https://github.com/JuanCrg90/Clean-Code-Notes) - (Duplicate) Notes and practices from *Clean Code*.
-*   [Design Patterns](https://github.com/iluwatar/java-design-patterns) - (Duplicate) Java design pattern implementations.
-*   [Refactoring Guru](https://refactoring.guru/) - Visual learning site for design patterns, refactoring, and SOLID principles.
-*   [97-Things-Every-Programmer-Should-Know](https://github.com/97-things/97-things-every-programmer-should-know) - (Duplicate) 97 things every programmer should know.
-*   [Software Engineering at Google](https://github.com/google/eng-practices) - (Duplicate) Google engineering practices.
-*   [System Design Primer](https://github.com/donnemartin/system-design-primer) - (Duplicate) Learn to design scalable systems.
-*   [Staff Engineer](https://staffeng.com/) - Stories and lessons for Staff+ engineers.
-*   [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) - *The Manager’s Path* book.
-*   [Pragmatic Engineer](https://blog.pragmaticengineer.com/) - Blog by Gergely Orosz on software engineering careers.
-*   [Levels.fyi](https://www.levels.fyi/) - Compare levels, salaries, and career paths in tech companies.
-*   [Blind](https://www.teamblind.com/) - Anonymous professional community.
-*   [LeetCode](https://leetcode.com/) - (Duplicate) Algorithms and data structure practice platform.
-*   [HackerRank](https://www.hackerrank.com/) - Coding skills practice and competitions.
-*   [Codewars](https://www.codewars.com/) - Improve coding through challenges.
-*   [Project Euler](https://projecteuler.net/) - Challenging math and programming problems.
-*   [Awesome-Remote-Work](https://github.com/lukasz-madon/awesome-remote-job) - (Duplicate) Remote work resources.
-*   [Public-Speaking](https://github.com/vmbrasseur/Public_Speaking) - Public speaking resources.
-*   [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Guide on becoming a programmer.
-*   [You-are-not-a-visual-learner](https://www.youtube.com/watch?v=rhgwIhB58PA) - Discussion on learning methodologies.
-*   [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - Popular Coursera course on learning strategies.
+- [Clean Code](https://github.com/JuanCrg90/Clean-Code-Notes) - (Duplicate) Notes and practices from *Clean Code*.
+- [Design Patterns](https://github.com/iluwatar/java-design-patterns) - (Duplicate) Java design pattern implementations.
+- [Refactoring Guru](https://refactoring.guru/) - Visual learning site for design patterns, refactoring, and SOLID principles.
+- [97-Things-Every-Programmer-Should-Know](https://github.com/97-things/97-things-every-programmer-should-know) - (Duplicate) 97 things every programmer should know.
+- [Software Engineering at Google](https://github.com/google/eng-practices) - (Duplicate) Google engineering practices.
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - (Duplicate) Learn to design scalable systems.
+- [Staff Engineer](https://staffeng.com/) - Stories and lessons for Staff+ engineers.
+- [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) - *The Manager’s Path* book.
+- [Pragmatic Engineer](https://blog.pragmaticengineer.com/) - Blog by Gergely Orosz on software engineering careers.
+- [Levels.fyi](https://www.levels.fyi/) - Compare levels, salaries, and career paths in tech companies.
+- [Blind](https://www.teamblind.com/) - Anonymous professional community.
+- [LeetCode](https://leetcode.com/) - (Duplicate) Algorithms and data structure practice platform.
+- [HackerRank](https://www.hackerrank.com/) - Coding skills practice and competitions.
+- [Codewars](https://www.codewars.com/) - Improve coding through challenges.
+- [Project Euler](https://projecteuler.net/) - Challenging math and programming problems.
+- [Awesome-Remote-Work](https://github.com/lukasz-madon/awesome-remote-job) - (Duplicate) Remote work resources.
+- [Public-Speaking](https://github.com/vmbrasseur/Public_Speaking) - Public speaking resources.
+- [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) - Guide on becoming a programmer.
+- [You-are-not-a-visual-learner](https://www.youtube.com/watch?v=rhgwIhB58PA) - Discussion on learning methodologies.
+- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - Popular Coursera course on learning strategies.
 
 #### 12.7 Other Practical Tools
 
-*   [HTTPie](https://github.com/httpie/httpie) - (Duplicate) Modern user-friendly command-line HTTP client.
-*   [Postman](https://www.postman.com/) - (Duplicate) Collaborative API development and testing platform.
-*   [Insomnia](https://github.com/Kong/insomnia) - (Duplicate) Open-source cross-platform API design and testing tool.
-*   [Docker](https://github.com/docker/cli) - (Duplicate) Application containerization platform.
-*   [Kubernetes](https://github.com/kubernetes/kubernetes) - (Duplicate) Container orchestration system.
-*   [Ansible](https://github.com/ansible/ansible) - Simple IT automation engine.
-*   [Terraform](https://github.com/hashicorp/terraform) - (Duplicate) Infrastructure as Code tool.
-*   [NVM (Node Version Manager)](https://github.com/nvm-sh/nvm) - Node.js version manager.
-*   [Pyenv](https://github.com/pyenv/pyenv) - Python version manager.
-*   [asdf](https://github.com/asdf-vm/asdf) - Extensible multi-language version manager.
-*   [jq](https://github.com/jqlang/jq) - (Duplicate) Command-line JSON processor.
-*   [yq](https://github.com/mikefarah/yq) - YAML/JSON/XML/TOML processor similar to jq.
-*   [ngrok](https://ngrok.com/) - Expose local servers to the public internet.
-*   [LocalStack](https://github.com/localstack/localstack) - Local AWS cloud service emulator.
-*   [DBngin](https://dbngin.com/) - All-in-one database version manager.
-*   [DB-Gate](https://github.com/dbeaver/dbeaver) - DBeaver, free universal database tool.
-*   [Responsively App](https://github.com/responsively-app/responsively-app) - Modified browser for multi-screen web preview.
-*   [Carbon](https://github.com/carbon-app/carbon) - Create and share beautiful source code images.
-*   [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - Screen, webcam, and whiteboard recorder exporting GIF/video.
-*   [Kap](https://github.com/wulkano/kap) - (macOS) Open-source screen recorder.
-*   [LiceCap](https://www.cockos.com/licecap/) - Simple animated screen capture tool.
-*   [GIMP](https://www.gimp.org/) - Open-source image editor.
-*   [Inkscape](https://inkscape.org/) - Open-source vector graphics editor.
-*   [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual collaborative whiteboard tool.
+- [HTTPie](https://github.com/httpie/httpie) - (Duplicate) Modern user-friendly command-line HTTP client.
+- [Postman](https://www.postman.com/) - (Duplicate) Collaborative API development and testing platform.
+- [Insomnia](https://github.com/Kong/insomnia) - (Duplicate) Open-source cross-platform API design and testing tool.
+- [Docker](https://github.com/docker/cli) - (Duplicate) Application containerization platform.
+- [Kubernetes](https://github.com/kubernetes/kubernetes) - (Duplicate) Container orchestration system.
+- [Ansible](https://github.com/ansible/ansible) - Simple IT automation engine.
+- [Terraform](https://github.com/hashicorp/terraform) - (Duplicate) Infrastructure as Code tool.
+- [NVM (Node Version Manager)](https://github.com/nvm-sh/nvm) - Node.js version manager.
+- [Pyenv](https://github.com/pyenv/pyenv) - Python version manager.
+- [asdf](https://github.com/asdf-vm/asdf) - Extensible multi-language version manager.
+- [jq](https://github.com/jqlang/jq) - (Duplicate) Command-line JSON processor.
+- [yq](https://github.com/mikefarah/yq) - YAML/JSON/XML/TOML processor similar to jq.
+- [ngrok](https://ngrok.com/) - Expose local servers to the public internet.
+- [LocalStack](https://github.com/localstack/localstack) - Local AWS cloud service emulator.
+- [DBngin](https://dbngin.com/) - All-in-one database version manager.
+- [DB-Gate](https://github.com/dbeaver/dbeaver) - DBeaver, free universal database tool.
+- [Responsively App](https://github.com/responsively-app/responsively-app) - Modified browser for multi-screen web preview.
+- [Carbon](https://github.com/carbon-app/carbon) - Create and share beautiful source code images.
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - Screen, webcam, and whiteboard recorder exporting GIF/video.
+- [Kap](https://github.com/wulkano/kap) - (macOS) Open-source screen recorder.
+- [LiceCap](https://www.cockos.com/licecap/) - Simple animated screen capture tool.
+- [GIMP](https://www.gimp.org/) - Open-source image editor.
+- [Inkscape](https://inkscape.org/) - Open-source vector graphics editor.
+- [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual collaborative whiteboard tool.
