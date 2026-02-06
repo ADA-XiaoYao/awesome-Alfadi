@@ -25,7 +25,7 @@ jobs:
 
       - name: Run advanced check script
         env:
-          GITHUB_TOKEN_CUSTOM: ${{ secrets.GITHUB_TOKEN_CUSTOM }}
+          GITHUB_TOKEN_CUSTOM: ${{ secrets.TOKEN_CUSTOM }}
         run: |
           python scripts/check_repos_advanced.py
 
