@@ -73,20 +73,17 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 * [Awesome](https://github.com/sindresorhus/awesome) - The original curated list of awesome lists.
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A large collection of awesome lists across topics.
 * [Lists](https://github.com/jnv/lists) - Categorized collections of useful GitHub lists.
-* [Awesome Standalones](https://github.com/sublimino/awesome-standalones) - Independent and self-contained awesome lists.
 * [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets) - Public JSON datasets for testing and prototyping.
 * [Awesome README](https://github.com/matiassingers/awesome-readme) - Examples of well-structured README files.
 * [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - Quick reference sheets for tools and technologies.
 * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Common misconceptions in software development.
 * [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - Curated technical interview questions.
-* [Awesome Analytics](https://github.com/newhouse/awesome-analytics) - Analytics tools and services.
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - High-quality public datasets.
 * [Awesome Stacks](https://github.com/stackshareio/awesome-stacks) - Popular technology stacks used by companies.
 
 ### Platforms & Ecosystems
 
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Applications and tools for macOS.
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Software and tools for Windows.
 * [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - Applications and tools for Linux.
 * [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Free self-hosted web services and applications.
 * [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui) - Android UI/UX libraries and resources.
@@ -113,7 +110,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 * [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Swift libraries and tools.
 * [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin) - Kotlin resources and libraries.
 * [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) - TypeScript tools and libraries.
-* [Awesome C#](https://github.com/uhub/awesome-csharp) - C# frameworks and tools.
 * [Awesome Scala](https://github.com/lauris/awesome-scala) - Scala libraries and tools.
 * [Awesome Elixir](https://github.com/h4cc/awesome-elixir) - Elixir resources and libraries.
 * [Awesome Haskell](https://github.com/krispo/awesome-haskell) - Haskell resources.
@@ -133,11 +129,9 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 *   [OSSU Computer Science](https://github.com/ossu/computer-science) - A complete self-taught computer science curriculum from the open-source university community.
 *   [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmaps to become various types of developers, very comprehensive.
 *   [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A full self-study plan for software engineers, especially for interview preparation.
-*   [CS-Courses](https://github.com/prakhar1989/awesome-cs-courses) - A list of computer science courses from top universities worldwide.
 *   [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - A vast collection of free programming ebooks.
 *   [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Tutorials for learning programming by building real projects.
 *   [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - Tutorials for building your own database, operating system, robot, etc.
-*   [The Art of Computer Science](https://github.com/The-Art-of-Computer-Science/The-Art-of-Computer-Science) - A modern self-study guide for computer science.
 *   [CS-Notes](https://github.com/CyC2018/CS-Notes) - Essential technical interview knowledge and Leetcode solutions.
 *   [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Free technical interview resources for busy engineers.
 *   [Teach Yourself CS](https://github.com/ossu/computer-science/blob/master/README.md) - (Included in OSSU) Classic guide for self-learning computer science.
@@ -150,7 +144,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 *   [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - Python implementations of all algorithms.
 *   [The Algorithms - Java](https://github.com/TheAlgorithms/Java) - Java implementations of all algorithms.
-*   [The Algorithms - C++](https://github.com/TheAlgorithms/C_Plus_Plus) - C++ implementations of all algorithms.
 *   [The Algorithms - JavaScript](https://github.com/TheAlgorithms/JavaScript) - JavaScript implementations of all algorithms.
 *   [The Algorithms - Go](https://github.com/TheAlgorithms/Go) - Go implementations of all algorithms.
 *   [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - Resources for learning algorithms and data structures.
@@ -160,39 +153,27 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 *   [Hello-Algorithm](https://github.com/krahets/hello-algo) - "Hello Algorithm": Animated, one-click runnable tutorials for data structures and algorithms.
 *   [Structure and Interpretation of Computer Programs](https://github.com/sarabander/sicp) - Electronic version of *SICP*.
 *   [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) - Resources for algorithm competitions.
-*   [Problem-Solving-with-Algorithms-and-Data-Structures-using-Python](https://github.com/runestone/pythonds) - Solving algorithms and data structures with Python.
 *   [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - Kunal Kushwaha’s data structures and algorithms bootcamp.
-*   [Mastering-Go-Third-Edition](https://github.com/mlowicki/Mastering-Go-Third-Edition) - *Mastering Go* 3rd edition, covering concurrency and data structures.
 *   [Sedgewick-Algorithms](https://github.com/reneargento/algorithms-sedgewick-wayne) - Solutions from Sedgewick and Wayne's *Algorithms* book.
 
 #### 2.3 System Design & Architecture
 
 *   [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design scalable systems; essential for interviews.
-*   [Awesome System Design](https://github.com/maddhruv/awesome-system-design) - A collection of system design resources.
-*   [Grokking the System Design Interview](https://github.com/Jeevan-kumar-Raj/Grokking-the-System-Design-Interview) - Classic tutorials for system design interviews.
 *   [Systems Design Cheatsheet](https://github.com/karanpratapsingh/system-design) - System design quick reference.
-*   [Designing Data-Intensive Applications](https://github.com/andres-fr/data-intensive-applications-notes) - Notes for *Designing Data-Intensive Applications*.
 *   [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservices architecture patterns, frameworks, and resources.
 *   [Microservices-Patterns](https://github.com/microservices-patterns/ftgo-application) - Example code for *Microservices Patterns* book.
 *   [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - Reading list on scalability, availability, and stability patterns.
-*   [The System Design Manual](https://github.com/system-design-ops/system-design) - System design manual.
-*   [System-Design-Interview-An-Insiders-Guide](https://github.com/resumejob/system-design-interview) - Resources for *System Design Interview*.
 *   [Cloud Design Patterns](https://github.com/mspnp/cloud-design-patterns) - Official Microsoft cloud design patterns.
 *   [Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Analysis of open-source application architectures.
-*   [Web-Architecture-101](https://github.com/matiassingers/web-architecture-101) - Basics of web architecture.
-*   [Software-Architecture-And-Design-Patterns](https://github.com/MagalixCorp/Software-Architecture-And-Design-Patterns) - Software architecture and design patterns.
 *   [How-web-works](https://github.com/vasanthk/how-web-works) - Simple explanations of how the web works.
 
 #### 2.4 Software Engineering Practices & DevOps
 
-*   [Awesome DevOps](https://github.com/bregman-arie/awesome-devops) - DevOps tools, culture, and resources.
 *   [Awesome SRE](https://github.com/dastergon/awesome-sre) - Site Reliability Engineering (SRE) resources.
 *   [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - Software design pattern resources.
-*   [Refactoring.Guru](https://github.com/Refactoring-Guru/design-patterns-python) - Python implementations of design patterns.
 *   [Source-Making-Design-Patterns](https://github.com/iluwatar/java-design-patterns) - Java design pattern implementations.
 *   [Awesome Testing](https://github.com/TheJambo/awesome-testing) - Software testing resources, tools, and techniques.
 *   [Awesome Clean Code](https://github.com/JuanCrg90/Clean-Code-Notes) - Notes and practices from *Clean Code*.
-*   [The Art of Readable Code](https://github.com/YegorBugayenko/the-art-of-readable-code) - Resources related to *The Art of Readable Code*.
 *   [Software Engineering at Google](https://github.com/google/eng-practices) - Google engineering practices.
 *   [97-Things-Every-Programmer-Should-Know](https://github.com/97-things/97-things-every-programmer-should-know) - 97 things every programmer should know.
 *   [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Notes and checklists for sysadmins, pentesters, and developers.
@@ -200,7 +181,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 *   [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) - Production ML resources.
 *   [Git-Best-Practices](https://github.com/k88hudson/git-flight-rules) - Git flight rules; best practices guide.
 *   [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist for building secure APIs.
-*   [The-Pragmatic-Programmer](https://github.com/pragmaticprogrammer/pragmatic_programmer_20th_anniversary_edition) - Resources related to *The Pragmatic Programmer*.
 *   [Awesome Agile](https://github.com/lorabv/awesome-agile) - Agile software development resources.
 *   [Awesome-README](https://github.com/matiassingers/awesome-readme) - Examples of excellent README files.
 
@@ -213,11 +193,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 *   [Writing an OS in Rust](https://github.com/phil-opp/blog_os) - Blog series on building an OS in Rust.
 *   [The little book about OS development](https://github.com/littleosbook/littleosbook) - A small book on OS development.
 *   [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - MIT’s teaching OS xv6 for RISC-V.
-*   [Awesome Concurrency](https://github.com/lukasz-madon/awesome-concurrency) - Concurrency programming resources.
-*   [Computer-Networking-A-Top-Down-Approach-Solutions](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-Solutions) - Solutions for *Computer Networking: A Top-Down Approach*.
-*   [Dive into Systems](https://github.com/diveintosystems/diveintosystems.github.io) - Free introductory book on computer systems.
 *   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Classic operating systems textbook.
-*   [Awesome-Virtualization](https://github.com/WJCarpenter/awesome-virtualization) - Virtualization resources.
 *   [Awesome-LLVM](https://github.com/HongxuChen/awesome-llvm) - LLVM-related resources.
 *   [Linux-Insides](https://github.com/0xAX/linux-insides) - Deep dive into the Linux kernel.
 *   [What Happens When You Type a URL in the Browser](https://github.com/alex/what-happens-when) - What happens after typing a URL in a browser.
@@ -228,27 +204,19 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 *   [Awesome Database](https://github.com/numetriclabz/awesome-db) - Database tools and resources.
 *   [Awesome-Postgres](https://github.com/dhamaniasad/awesome-postgres) - PostgreSQL resources.
 *   [Awesome-MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL resources.
-*   [Awesome-SQLite](https://github.com/planet-sqlite/awesome-sqlite) - SQLite resources.
 *   [Awesome-Redis](https://github.com/JamzyWang/awesome-redis) - Redis resources.
 *   [Awesome-MongoDB](https://github.com/ramnes/awesome-mongodb) - MongoDB resources.
 *   [Database-Systems-Design-Implementation-and-Management](https://github.com/pingcap/awesome-database-learning) - Database learning resources.
-*   [Use-The-Index-Luke](https://github.com/unindexed/use-the-index-luke) - Guide to SQL indexes.
-*   [SQL-style-guide](https://github.com/simonholywell/sql-style-guide) - SQL style guide.
-*   [Advanced-SQL](https://github.com/s-shemmee/advanced-sql) - Advanced SQL techniques.
 *   [DB-Engines](https://db-engines.com/en/ranking) - Database popularity ranking.
 
 #### 2.7 Mathematics & Theoretical Foundations
 
 *   [Awesome Mathematics](https://github.com/rossant/awesome-math) - Mathematics resources.
 *   [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - Cryptography resources.
-*   [Awesome-Information-Theory](https://github.com/soroushz/awesome-information-theory) - Information theory resources.
 *   [3Blue1Brown](https://github.com/3b1b/manim) - Animation engine behind famous math visualization videos.
 *   [Project Euler](https://github.com/nayuki/Project-Euler-solutions) - Solutions for Project Euler problems.
 *   [Math-as-code](https://github.com/Jam3/math-as-code) - Cheat sheet for translating math formulas into code.
 *   [Homotopy Type Theory](https://github.com/HoTT/book) - Book on homotopy type theory.
-*   [Awesome-Calculus](https://github.com/e-kol/awesome-calculus) - Calculus resources.
-*   [Awesome-Linear-Algebra](https://github.com/vochicong/awesome-linear-algebra) - Linear algebra resources.
-*   [Probability-and-Statistics-Ebook](https://github.com/chervwood/Probability-and-Statistics-Ebook) - Probability and statistics ebook.
 
 #### 2.8 Miscellaneous & Others
 
@@ -256,7 +224,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 *   [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode resources.
 *   [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks) - Excellent technical talks.
 *   [Computer-Science-From-the-Bottom-Up](https://github.com/ianw/bottomupcs) - Computer science from scratch.
-*   [How to Design Programs](https://github.com/HtDP/2e) - Second edition of *How to Design Programs*.
 *   [Nand to Tetris](https://www.nand2tetris.org/) - From NAND gates to Tetris: build a modern computer.
 *   [Go-SCP](https://github.com/bramvdbogaerde/go-scp) - SCP client implemented in Go.
 *   [Public-APIs](https://github.com/public-apis/public-apis) - Free public APIs for development and testing.
@@ -264,7 +231,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 *   [The-Art-of-Command-Line](https://github.com/jlevy/the-art-of-command-line) - The art of using the command line.
 *   [Gitignore](https://github.com/github/gitignore) - Collection of useful `.gitignore` templates.
 *   [Big-List-of-Naughty-Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - List of "naughty" strings for testing.
-*   [Awesome-Analytics](https://github.com/newhouse/awesome-analytics) - Analytics tools and services.
 *   [Awesome-Public-Datasets](https://github.com/awesomedata/awesome-public-datasets) - High-quality public datasets.
 *   [Awesome-Technical-Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - Technical writing resources.
 *   [Awesome-Scientific-Writing](https://github.com/writing-resources/awesome-scientific-writing) - Scientific writing resources.
@@ -277,7 +243,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 #### 3.1 Comprehensive Awesome Lists & Multi-Language Resources
 
-*   [Awesome Languages](https://github.com/abhishek-pandey/awesome-languages) - Curated collections of programming language resources and references.
 *   [Learn X in Y Minutes](https://github.com/adambard/learnxinyminutes-docs) - Quick syntax introductions for dozens of languages.
 *   [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - Compare the same tasks across many programming languages.
 *   [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Resources for compilers, interpreters, and language tooling.
@@ -286,7 +251,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 #### 3.2 Imperative & Procedural Languages
 
 *   **C** – [Awesome C](https://github.com/inputsh/awesome-c) - Libraries, tools, and best practices.
-*   **Fortran** – [Fortran Tutorial](https://github.com/j3-fortran/fortran_tutorial) - Scientific and numerical computing guides.
 *   **COBOL** – [Awesome COBOL](https://github.com/loveOSS/awesome-cobol) - Enterprise and legacy system resources.
 *   **Pascal** – [Free Pascal](https://www.freepascal.org/) - Compiler and documentation.
 *   **Ada** – [AdaCore Learn](https://learn.adacore.com/) - Official tutorials and learning paths.
@@ -294,7 +258,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 #### 3.3 Object-Oriented Languages
 
 *   **Java** – [Awesome Java](https://github.com/akullpp/awesome-java) - Frameworks, libraries, and ecosystem tools.
-*   **C#** – [Awesome CSharp](https://github.com/uhub/awesome-csharp) - .NET ecosystem resources.
 *   **Ruby** – [Awesome Ruby](https://github.com/markets/awesome-ruby) - Gems, tools, and frameworks.
 *   **C++** – [Awesome C++](https://github.com/fffaraz/awesome-cpp) - Community libraries and practices.
 *   **Smalltalk** – [Pharo](https://pharo.org/) - Modern Smalltalk environment and tutorials.
@@ -335,7 +298,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 *   **Move** – [Move](https://move-language.github.io/move/) - Blockchain smart contract language.
 *   **SQL** – [SQLBolt](https://sqlbolt.com/) - Interactive SQL learning.
 *   **XQuery** – [XQuery](https://www.w3.org/XML/Query/) - XML query language specification.
-*   **Verilog** – [Awesome Verilog](https://github.com/verilog-lang/awesome-verilog) - HDL tools and resources.
 *   **VHDL** – [VHDL Guide](https://vhdlguide.readthedocs.io/) - Hardware description tutorials.
 *   **Bash** – [Awesome Shell](https://github.com/alebcay/awesome-shell) - Shell scripting resources.
 *   **PowerShell** – [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Automation and tooling.
@@ -355,8 +317,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - A curated list of penetration testing resources, where information gathering is the primary step.
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - The authoritative resource list for Open Source Intelligence (OSINT), the core of information gathering.
 - [InfoSec Reference](https://github.com/rmusser01/Infosec_Reference) - An information security reference with numerous diagrams, notes, and tool links.
-- [PT-EveryThing](https://github.com/alphaSeclab/pt-every-thing) - A very comprehensive collection of various resources related to penetration testing.
-- [Cyber Security Resources](https://github.com/gerryguy311/Cyber-Security-Resources) - A collection of cybersecurity resources with clear categorization.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Notes and checklists for system administrators, penetration testers, developers, and more.
 - [Hacking-Tools](https://github.com/Z4nzu/hackingtool) - An all-in-one hacking tool installer and collection.
 - [Bug Bounty Hunting Methodology](https://github.com/jhaddix/tbhm) - Jason Haddix's methodology for bug bounty hunters.
@@ -364,10 +324,8 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [NahamSec/Resources](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - Resources for beginner bug bounty hunters.
 - [Pentester Land](https://pentester.land/list-of-bug-bounty-writeups.html) - A large collection of bug bounty writeups.
 - [HackerOne/hacktivity](https://hackerone.com/hacktivity) - Publicly disclosed vulnerability reports.
-- [Bugcrowd/bug-bounty-list](https://github.com/bugcrowd/bug-bounty-list) - Bugcrowd's list of bug bounty programs.
 - [OSINT Dojo](https://www.osintdojo.com/) - OSINT learning and challenges.
 - [The Hacker's Handbook](https://thehackerish.com/the-ultimate-guide-to-hacking-and-penetration-testing/) - The Hacker's Handbook.
-- [Recon-Cheatsheet](https://github.com/daffainfo/Recon-Cheatsheet) - A reconnaissance cheatsheet.
 - [Bug-Bounty-Toolz](https://github.com/m4ll0k/Bug-Bounty-Toolz) - A collection of tools for bug bounty hunting.
 
 ---
@@ -407,7 +365,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [RustScan](https://github.com/RustScan/RustScan) - An extremely fast port scanner that can automatically pipe results into Nmap.
 - [Sandmap](https://github.com/trimstray/sandmap) - A graphical scanning tool that uses Nmap as its engine.
 - [Unicornscan](http://www.unicornscan.org/) - An asynchronous TCP/UDP scanner.
-- [TX-Ray](https://github.com/42wim/tx-ray) - A network diagnostic tool similar to `mtr`.
 - [Angry IP Scanner](https://github.com/angryip/ipscan) - A fast and friendly network scanner.
 - [Advanced-Port-Scanner](https://www.advanced-port-scanner.com/) - A free Windows port scanner.
 - [Netdiscover](https://tools.kali.org/information-gathering/netdiscover) - An ARP reconnaissance tool included in Kali.
@@ -501,13 +458,10 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scans for misconfigured AWS S3 buckets.
 - [Cloud-enum](https://github.com/initstring/cloud_enum) - A multi-cloud OSINT enumeration tool (AWS, Azure, Google Cloud).
 - [Git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump source code exposed by a .git directory.
-- [SVN-dumper](https://github.com/iamstupid/svndumper) - A tool to dump source code exposed by a .svn directory.
 - [DS_Store-dumper](https://github.com/lijiejie/ds_store_exp) - Parses .DS_Store files and downloads source code.
-- [Cloud-mapper](https://github.com/VirtueSecurity/cloud-mapper) - Analyzes AWS environments and generates network diagrams.
 - [WeirdAAL](https://github.com/carnal0wnage/weirdAAL) - An AWS attack and reconnaissance tool.
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunts for security weaknesses in Kubernetes clusters.
 - [Nacos-Client](https://github.com/nacos-group/nacos-sdk-python) - The Nacos client, which can be used for unauthorized access.
-- [Finger](https://github.com/trailofbits/finger) - A web server fingerprinting tool written in Go.
 
 ---
 
@@ -518,12 +472,8 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [OWASP Secure Coding Practices-Quick Reference Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/) - The OWASP Secure Coding Practices Quick Reference Guide.
 - [Awesome DevSecOps](https://github.com/TaptuIT/awesome-devsecops) - A list of tools, services, and resources related to DevSecOps.
 - [Awesome-Static-Analysis](https://github.com/mre/awesome-static-analysis) - A collection of static analysis tools, linters, and code quality checkers.
-- [Secure-Coding-Guidlines](https://github.com/CERT-SEI/code-guidelines) - The CERT Secure Coding Standards.
-- [Application-Security-Checklist](https://github.com/mainstay/appsec-checklist) - An application security checklist.
-- [Awesome-Software-Composition-Analysis](https://github.com/sonatype-nexus-community/awesome-software-composition-analysis) - A list of tools and resources for Software Composition Analysis (SCA).
 - [OWASP-SAMM](https://github.com/OWASP/samm) - The Software Assurance Maturity Model (SAMM).
 - [OWASP-ASVS](https://github.com/OWASP/ASVS) - The Application Security Verification Standard (ASVS).
-- [Security-Champion-Playbook](https://github.com/c0rdis/security-champion-playbook) - A playbook for security champions.
 - [Semgrep](https://github.com/semgrep/semgrep) - A fast, open-source static analysis tool that is easy to write custom rules for.
 - [CodeQL](https://github.com/github/codeql) - A code analysis engine from GitHub for automating security checks.
 - [SonarQube](https://github.com/SonarSource/sonarqube) - An open-source platform for continuous inspection of code quality and security.
@@ -547,7 +497,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Seeker (Synopsys)](https://www.synopsys.com/software-integrity/security-testing/interactive-application-security-testing.html) - Synopsys's IAST solution.
 - [OpenRASP](https://github.com/baidu/openrasp) - Baidu's open-source Runtime Application Self-Protection (RASP) solution.
 - [Sqreen](https://www.sqreen.com/) - (Acquired by Datadog) RASP and application security monitoring.
-- [IAST-Resources](https://github.com/IAST/awesome-iast) - Resources related to IAST.
 
 ---
 
@@ -557,10 +506,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - The ultimate collection of web attack payloads and bypass techniques.
 - [OWASP Top 10 Project](https://github.com/OWASP/Top10) - The official OWASP Top 10 project and documentation.
 - [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries) - OWASP's security development cheat sheets, also an excellent resource for learning about web vulnerabilities.
-- [Web Hacking 101](https://github.com/Hacker0x01/web-hacking-101) - A free e-book from HackerOne.
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) - Another resource list on web security and bug bounties.
-- [Hacking-Articles](https://github.com/aaronguostudio/hacking-articles) - A large collection of hacking and security articles, with a heavy focus on web security.
-- [Pentest-Bookmark](https://github.com/jaiswalakshaye/pentest-bookmarks) - Penetration testing bookmarks, including many web security tools and blogs.
 - [Awesome-Bug-Bounty](https://github.com/djadmin/awesome-bug-bounty) - A list of bug bounty resources.
 - [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web security learning notes.
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Free online web security training from the creators of Burp Suite.
@@ -574,13 +520,11 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Fiddler](https://www.telerik.com/fiddler) - A free web debugging proxy for Windows.
 - [Charles Proxy](https://www.charlesproxy.com/) - A commercial HTTP proxy/monitor for Windows, Mac, and Linux.
 - [Proxify](https://github.com/projectdiscovery/proxify) - A versatile and customizable HTTPS proxy written in Go.
-- [Mitm-tools](https://github.com/mitm-tools) - A collection of tools related to mitmproxy.
 - [Bettercap](https://github.com/bettercap/bettercap) - The Swiss army knife for man-in-the-middle attacks.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - An automated SQL injection and database takeover tool.
 - [NoSQLMap](https://github.com/codingo/NoSQLMap) - An automated NoSQL injection and database takeover tool.
 - [Commix](https://github.com/commixproject/commix) - An automated command injection and exploitation tool.
 - [Tplmap](https://github.com/epinna/tplmap) - An automated server-side template injection detection and exploitation tool.
-- [SQLi-Payloads](https://github.com/payloadbox/sql-injection-payload-list) - A list of SQL injection payloads.
 - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - A script for mapping GraphQL endpoints and conducting penetration tests.
 - [Inject-Payloads](https://github.com/1N3/IntruderPayloads) - A collection of payloads for web fuzzing.
 - [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA) - A classic PHP/MySQL web application with various vulnerabilities.
@@ -591,7 +535,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [XSSHunter](https://github.com/mandatoryprogrammer/xsshunter-express) - A framework for identifying and managing blind XSS vulnerabilities.
 - [XSStrike](https://github.com/s0md3v/XSStrike) - An advanced XSS scanner.
 - [Dalfox](https://github.com/hahwul/dalfox) - An XSS parameter analysis and scanning tool written in Go.
-- [XSS-Payloads](https://github.com/payloadbox/xss-payload-list) - A collection of XSS payloads.
 - [Awesome-XSS](https://github.com/s0md3v/AwesomeXSS) - A list of XSS resources.
 - [DOMPurify](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, and robust XSS sanitizer for HTML, MathML, and SVG.
 - [js-xss](https://github.com/leizongmin/js-xss) - A JavaScript library for preventing XSS.
@@ -603,22 +546,13 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [XXEinjector](https://github.com/enjoiz/XXEinjector) - An automated XXE exploitation tool.
 - [LFISuite](https://github.com/D35m0nd142/LFISuite) - A fully automated LFI scanning and exploitation tool.
 - [dotdotpwn](https://github.com/wireghoul/dotdotpwn) - A directory traversal fuzzer.
-- [SSRF-Bible-Cheatsheet](https://github.com/Phuong39/SSRF-bible-cheatsheet) - An SSRF cheatsheet.
-- [XXE-Payloads](https://github.com/payloadbox/xxe-injection-payload-list) - A list of XXE injection payloads.
-- [LFI-Payloads](https://github.com/payloadbox/file-inclusion-payload-list) - A list of LFI/RFI payloads.
 - [Interactsh](https://github.com/projectdiscovery/interactsh) - An OAST (Out-of-Band Application Security Testing) server for detecting SSRF, blind injection, etc.
 - [Request-Baskets](https://github.com/darklynx/request-baskets) - A web service for collecting HTTP requests, useful for testing SSRF.
-- [SSRF-Detector](https://github.com/cujanovic/SSRF-Detector) - A tool for detecting SSRF vulnerabilities.
-- [Request-Smuggler](https://github.com/gwen001/request-smuggler) - A tool for detecting HTTP request smuggling vulnerabilities.
-- [HTTP-Request-Smuggling](https://github.com/PortSwigger/http-request-smuggling) - PortSwigger's research and tools on request smuggling.
 - [Smuggler](https://github.com/defparam/smuggler) - A Python script for testing HTTP request smuggling.
 - [Race The Web](https://github.com/TheHackerDev/race-the-web) - A tool for testing race condition vulnerabilities in web applications.
 - [Turbo Intruder](https://portswigger.net/bapp/9abaa233-c348-47a8-835e-43641d35a467) - A Burp Suite extension for sending a large number of high-speed HTTP requests, suitable for testing race conditions.
-- [Race-Condition-Exploits](https://github.com/lucyoa/race-condition-exploit-scripts) - Race condition exploit scripts.
-- [WAF-Bypass-Techniques-and-Tools](https://github.com/Zoooook/WAF-Bypass-Techniques-and-Tools) - A collection of WAF bypass techniques and tools.
 - [WAFW00F](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewalls.
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb) - The next generation web scanner for fingerprinting.
-- [Wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identifies technologies used on websites.
 - [CORStest](https://github.com/RUB-NDS/CORStest) - A comprehensive scanner for CORS misconfigurations.
 - [JWT-tool](https://github.com/ticarpi/jwt_tool) - A toolkit for verifying, forging, and cracking JWTs.
 - [C-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) - A JWT cracker written in C.
@@ -634,11 +568,9 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ### JavaScript Reverse Engineering
 
-- [Awesome JavaScript Reversing](https://github.com/jsoverson/awesome-js-reversing) - A list of resources for JavaScript reversing.
 - [de4js](https://github.com/lelinhtinh/de4js) - A JavaScript deobfuscation tool.
 - [AST Explorer](https://astexplorer.net/) - An online tool for analyzing JavaScript AST.
 - [Retire.js](https://github.com/RetireJS/retire.js) - Detects the use of JS libraries with known vulnerabilities.
-- [JS-Scan](https://github.com/zricethezav/js-scan) - A tool for scanning JS files for interesting information.
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - Discovers endpoints in JavaScript files.
 - [SecretFinder](https://github.com/m4ll0k/SecretFinder) - Discovers sensitive data and endpoints in JS files.
 - [PostMessage-tracker](https://github.com/fransr/postmessage-tracker) - A Chrome extension for tracking `postMessage` communication.
@@ -647,7 +579,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [JS-Vuln-DB](https://github.com/tunz/js-vuln-db) - A JavaScript vulnerability database.
 - [ESLint](https://github.com/eslint/eslint) - A pluggable JS linting tool that can be configured with security rules.
 - [Nodejsscan](https://github.com/ajinabraham/nodejsscan) - A static security code scanner for Node.js applications.
-- [ScanJS](https://github.com/scanjs/scanjs) - A static analyzer focused on Node.js security.
 
 ---
 
@@ -657,23 +588,17 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Marshalsec](https://github.com/mbechler/marshalsec) - A Java deserialization exploitation library supporting multiple formats and payloads.
 - [GadgetProbe](https://github.com/BishopFox/gadgetprobe) - Probes for available gadget chains in Java deserialization.
 - [Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet) - A cheat sheet for Java deserialization.
-- [Fastjson-Exploit](https://github.com/c0ny1/fastjson-exploits) - An exploit tool for Fastjson vulnerabilities.
 - [Log4j-scan](https://github.com/fullhunt/log4j-scan) - A scanner for the Log4Shell (CVE-2021-44228) vulnerability.
 - [JNDI-Injection-Exploit](https://github.com/welk1n/JNDI-Injection-Exploit) - A tool for exploiting JNDI injection.
 - [JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit) - A JNDI injection exploit kit.
-- [Shiro-Attack](https://github.com/j1anFen/shiro_attack) - An exploit tool for Shiro deserialization vulnerabilities.
-- [Weblogic-Exploit](https://github.com/21superman/weblogic_exploit) - A collection of exploit tools for Weblogic vulnerabilities.
-- [Struts2-Scan](https://github.com/m-c-y/struts-scan) - A Struts2 vulnerability scanning and exploitation tool.
 - [Jackson-databind-deser-PoC](https://github.com/FasterXML/jackson-docs) - The official Jackson documentation, including a security section.
 - [Java-Decompiler](http://java-decompiler.github.io/) - A GUI for Java decompilers.
 - [Recaf](https://github.com/Col-E/Recaf) - A modern Java bytecode editor.
 - [Arthas](https://github.com/alibaba/arthas) - An open-source Java diagnostic tool from Alibaba, also useful for security analysis.
 - [RASP (Runtime application self-protection)](https://github.com/baidu/openrasp) - Baidu's open-source Runtime Application Self-Protection solution.
-- [Java-Bug-Bounty-Recon](https://github.com/s-p-k/Java-Bug-Bounty-Recon) - Bug bounty reconnaissance for Java applications.
 - [Burp-ysoserial](https://github.com/summitt/burp-ysoserial) - A plugin to integrate ysoserial into Burp Suite.
 - [Java-Exploit-Framework](https://github.com/4ra1n/y4-lang) - A Java security research and exploitation framework.
 - [SpotBugs](https://github.com/spotbugs/spotbugs) - The spiritual successor to FindBugs, for Java static analysis.
-- [Kunlun-Mirror](https://github.com/LoRexxar/Kunlun-Mirror) - A white-box code auditing tool supporting PHP, JavaScript, and Java.
 - [Error-prone](https://github.com/google/error-prone) - A Java static analysis tool from Google that catches compile-time errors.
 
 ---
@@ -701,7 +626,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Awesome API Security](https://github.com/arainho/awesome-api-security) - The authoritative resource list for API security, covering tools, articles, and best practices.
 - [OWASP API Security Top 10](https://owasp.org/www-project-api-security/) - The official OWASP Top 10 API Security Risks project.
 - [Checklist-Web-Aplication-Security](https://github.com/shieldfy/API-Security-Checklist) - An API security checklist for protecting the design and implementation of APIs.
-- [Hacking-APIs](https://github.com/Hacking-APIs/hacking-apis) - The official repository for the book "Hacking APIs".
 - [Postman](https://www.postman.com/) - A collaboration platform for API development, testing, and documentation, also a starting point for API security testing.
 - [Insomnia](https://github.com/Kong/insomnia) - An open-source, cross-platform API design and testing tool.
 - [Kiterunner](https://github.com/assetnote/kiterunner) - An API brute-forcing and content discovery tool for scanning API endpoints.
@@ -718,35 +642,24 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [SOAP-UI](https://www.soapui.org/) - An open-source web service testing tool supporting SOAP and REST.
 - [Karate](https://github.com/karatelabs/karate) - An open-source API test automation tool.
 - [Rest-assured](https://github.com/rest-assured/rest-assured) - A library for easily testing REST services in Java.
-- [Frisby.js](https://github.com/frisby/frisby) - A REST API testing framework built on Jest.
 
 ---
 
 ### Service & Middleware Security
 
-- [Awesome-Web-Services](https://github.com/bregman-arie/awesome-web-services) - A list of resources related to web services; understanding how they work is the basis for attacking them.
 - [ysoserial.net](https://github.com/pwntester/ysoserial.net) - A deserialization payload generation tool for the .NET platform.
 - [dnSpy](https://github.com/dnSpy/dnSpy) - A .NET debugger and assembly editor.
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - An open-source .NET assembly browser and decompiler.
 - [dotPeek](https://www.jetbrains.com/decompiler/) - A free .NET decompiler from JetBrains.
-- [SharpExploit](https://github.com/knownsec/SharpExploit) - A .NET exploit toolset.
 - [Exchange-Vulns](https://github.com/Yt1g3r/CVE-2021-26855_SSRF) - A PoC for the Exchange Server (ProxyLogon) vulnerability.
-- [ViewGen](https://github.com/0xacx/viewgen) - A .NET ViewState generation and decoding tool.
-- [Sharepoint-Hacking](https://github.com/V1n1v131r4/SharePoint-Stuff) - Hacking resources related to SharePoint.
 - [PHPGGC](https://github.com/ambionics/phpggc) - A PHP deserialization payload generator.
-- [PHP-Exploit-Scripts](https://github.com/cujanovic/PHP-Exploit-Scripts) - A collection of PHP exploit scripts.
 - [Weevely](https://github.com/epinna/weevely3) - A stealthy PHP webshell and backdoor.
 - [AntSword](https://github.com/AntSwordProject/antSword) - An open-source, cross-platform website management tool (webshell management).
 - [Behinder](https://github.com/rebeyond/Behinder) - A dynamic binary encrypted website management client (webshell management).
 - [Godzilla](https://github.com/BeichenDream/Godzilla) - Another powerful webshell management tool.
-- [PHP-Vulnerability-Hunter](https://github.com/OneSourceCat/php-vulnerability-hunter) - A static analysis tool for PHP vulnerabilities.
-- [PHP-FPM-RCE](https://github.com/vulhub/vulhub/tree/master/php/fpm-rce) - An environment for the PHP-FPM remote command execution vulnerability.
-- [LFI-PHP-Wrapper](https://github.com/gellin/Team-Pentesting-LFI-Cheatsheet) - A cheatsheet for using PHP wrappers in LFI.
 - [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) - A PowerShell toolkit for attacking SQL Server.
 - [SQL-Server-Cheatsheet](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/docs/sql-injection-and-more.md) - A cheatsheet for attacking SQL Server.
 - [Redis-Rogue-Server](https://github.com/Dliv3/redis-rogue-server) - An exploit tool for Redis unauthorized access.
-- [MongoDB-Exploits](https://github.com/pedroetb/mongo-hacker) - A command-line enhancement tool for MongoDB, also useful for security testing.
-- [Oracle-Pentest-Cheatsheet](https://github.com/Mohamed-512/Oracle-Pentest-Cheatsheet) - A penetration testing cheatsheet for Oracle databases.
 - [MSDAT (Microsoft SQL Database Attacking Tool)](https://github.com/quentinhardy/msdat) - A Microsoft SQL Database attacking tool.
 - [Elasticsearch-Exploit](https://github.com/vulhub/vulhub/tree/master/elasticsearch) - Exploits for Elasticsearch vulnerabilities.
 - [DB-PT-Cheatsheet](https://github.com/mishmashclone/mishmash-pentest-tools/blob/master/cheatsheets/sqli-cheatsheet.txt) - A database penetration testing cheatsheet.
@@ -906,7 +819,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Lambda-Guard](https://github.com/Skyscanner/LambdaGuard) - An AWS Lambda security scanner.
 - [GCP-Bucket-Brute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - A script to brute-force Google Cloud Storag>
 - [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scans for misconfigured AWS S3 buckets.
-- [Cloud-mapper](https://github.com/VirtueSecurity/cloud-mapper) - Analyzes AWS environments and generates network diag>
 - [Steampipe](https://github.com/turbot/steampipe) - Use SQL to query your cloud infrastructure.
 - [Cartography](https://github.com/lyft/cartography) - Visualize infrastructure assets and their relationships in an in>
 - [ElectricEye](https://github.com/cisagov/ElectricEye) - Continuous AWS security auditing.
@@ -1587,7 +1499,6 @@ This section covers resources, tools, and methodologies specifically for partici
 - [NahamSec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - An excellent starting point for newcomers, curated by a prominent bug bounty hunter.
 - [Pentester Land - Bug Bounty Writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - A massive, categorized list of public bug bounty writeups.
 - [HackerOne/hacktivity](https://hackerone.com/hacktivity) - The official feed of publicly disclosed vulnerability reports on the HackerOne platform.
-- [Bugcrowd/bug-bounty-list](https://github.com/bugcrowd/bug-bounty-list) - A list of bug bounty programs, though it may not be actively maintained.
 - [The Bug Hunter's Methodology](https://www.youtube.com/playlist?list=PLbN2o33Yd8523v34i-Xj3m1Wp-3134k4_) - A series of videos by "The Cyber Mentor" covering bug hunting methodology.
 
 #### Major Platforms & Program Lists
@@ -1610,7 +1521,6 @@ This section covers resources, tools, and methodologies specifically for partici
 - **Live Host & Web Technology Discovery**
     - [Httpx](https://github.com/projectdiscovery/httpx) - A fast and multi-purpose HTTP toolkit for probing for live web servers.
     - [Naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner designed to be used with other tools in a pipeline.
-    - [Wappalyzer](https://github.com/wappalyzer/wappalyzer) - A CLI and browser extension to identify technologies on websites.
 - **Vulnerability Discovery**
     - [Nuclei](https://github.com/projectdiscovery/nuclei) - A template-based scanner that is extremely popular for quickly checking for thousands of known vulnerabilities.
     - [FFUF (Fuzz Faster U Fool)](https://github.com/ffuf/ffuf) - A fast web fuzzer used for discovering hidden directories, files, and parameters.
@@ -1983,7 +1893,6 @@ This section covers resources, tools, and methodologies specifically for partici
 
 #### 12.6 Career Growth & Soft Skills
 
-*   [The Pragmatic Programmer](https://github.com/pragmaticprogrammer/pragmatic_programmer_20th_anniversary_edition) - (Duplicate) Resources related to *The Pragmatic Programmer*.
 *   [Clean Code](https://github.com/JuanCrg90/Clean-Code-Notes) - (Duplicate) Notes and practices from *Clean Code*.
 *   [Design Patterns](https://github.com/iluwatar/java-design-patterns) - (Duplicate) Java design pattern implementations.
 *   [Refactoring Guru](https://refactoring.guru/) - Visual learning site for design patterns, refactoring, and SOLID principles.
