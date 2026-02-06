@@ -1,0 +1,55 @@
+name: Auto Check Repos
+
+on:
+  schedule:
+    - cron: '0 3 * * 0'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run check_repos.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_CUSTOM }}
+        run: |
+          python scripts/check_repos.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Create/update auto PR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_CUSTOM }}
+        run: |
+          BRANCH="auto-update-reports"
+          git checkout -B $BRANCH
+
+          # 将 data 文件夹添加到分支
+          git add data/
+          git commit -m "Update repo reports [skip ci]" || echo "No changes"
+
+          git push --force origin $BRANCH
+
+          # 创建 PR（如果不存在）
+          gh pr list --head $BRANCH --json number --jq '.[0].number' || \
+          gh pr create --title "Weekly Repo Check Reports" \
+                       --body "Auto-generated weekly repo check reports." \
+                       --head $BRANCH \
+                       --base main
