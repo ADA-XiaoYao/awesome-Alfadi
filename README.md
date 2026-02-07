@@ -30,6 +30,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 
 
+
 [Awesome Collections](#1-awesome-collections)
 [Computer Science & Software Engineering](#computer-science--software-engineering)
 [Programming Languages](#3-programming-languages)
@@ -90,7 +91,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - Applications and tools for Linux.
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Free self-hosted web services and applications.
 - [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui) - Android UI/UX libraries and resources.
-- [Awesome iOS](https://github.com/vsouza/awesome-ios) - IOS libraries and frameworks.
+- [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS libraries and frameworks.
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - Docker tools and projects.
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Kubernetes tools and resources.
 - [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Applications and tools built with Electron.
@@ -256,15 +257,10 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 #### 3.3 Object-Oriented Languages
 
-- **Java** – [Awesome Java](https://github.com/akullpp/awesome-java) - Frameworks, libraries, and ecosystem tools.
-- **Ruby** – [Awesome Ruby](https://github.com/markets/awesome-ruby) - Gems, tools, and frameworks.
-- **C++** – [Awesome C++](https://github.com/fffaraz/awesome-cpp) - Community libraries and practices.
 - **Smalltalk** – [Pharo](https://pharo.org/) - Modern Smalltalk environment and tutorials.
 
 #### 3.4 Functional Languages
 
-- **Haskell** – [Awesome Haskell](https://github.com/krispo/awesome-haskell) - Pure functional ecosystem resources.
-- **Clojure** – [Awesome Clojure](https://github.com/razum2um/awesome-clojure) - JVM-based functional tooling.
 - **OCaml** – [OCaml](https://ocaml.org/) - Official documentation and learning guides.
 - **F#** – [F#](https://fsharp.org/) - Functional programming on .NET.
 - **Racket / Scheme** – [Racket](https://racket-lang.org/) - Lisp/Scheme language and SICP materials.
@@ -273,10 +269,6 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 #### 3.5 Web & Modern Application Languages
 
-- **JavaScript** – [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - Frontend and backend ecosystem.
-- **TypeScript** – [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) - Typed JavaScript tools and frameworks.
-- **PHP** – [Awesome PHP](https://github.com/ziadoz/awesome-php) - Web development libraries and utilities.
-- **Python** – [Awesome Python](https://github.com/vinta/awesome-python) - Frameworks, automation, and data science tools.
 - **Dart** – [Dart](https://dart.dev/) - Official tutorials and Flutter ecosystem.
 
 #### 3.6 Systems, Data & Emerging Languages
@@ -323,7 +315,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Pentester Land](https://pentester.land/list-of-bug-bounty-writeups.html) - A large collection of bug bounty writeups.
 - [HackerOne/hacktivity](https://hackerone.com/hacktivity) - Publicly disclosed vulnerability reports.
 - [OSINT Dojo](https://www.osintdojo.com/) - OSINT learning and challenges.
-- [The Hacker's Handbook](https://thehackerish.com/the-ultimate-guide-to-hacking-and-penetration-testing/) - The Hacker's Handbook.
+- [The Hacker's Handbook](https://thehackerish.com/the-ultimate-guide-to-hacking-and-penetration-testing/) - Official The Hacker's Handbook resource.
 - [Bug-Bounty-Toolz](https://github.com/m4ll0k/Bug-Bounty-Toolz) - A collection of tools for bug bounty hunting.
 
 ---
@@ -1697,13 +1689,12 @@ This section covers resources, tools, and methodologies specifically for partici
 - [Zoxide](https://github.com/ajeetdsouza/zoxide) - Smarter `cd` command.
 - [Tldr](https://github.com/tldr-pages/tldr) - Community-maintained simplified man pages.
 - [Cheat.sh](https://github.com/chubin/cheat.sh) - Unified community-driven cheat sheets.
-- [Awesome-Shell](https://github.com/alebcay/awesome-shell) - (Duplicate) Shell tools and resources.
 - [Awesome-CLI-Apps](https://github.com/agarrharr/awesome-cli-apps) - (Duplicate) Excellent command-line applications.
 
 #### 6.4 Git & Version Control
 
 - [Git](https://github.com/git/git) - Distributed version control system.
-- [Pro Git](https://github.com/progit/progit2) - *Pro Git* 2nd edition book.
+- [Pro Git](https://github.com/progit/progit2) - The official *Pro Git* 2nd edition book.
 - [Lazygit](https://github.com/jesseduffield/lazygit) - Simple Git terminal UI.
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Standardized Git commit message convention.
 - [Commitizen](https://github.com/commitizen/cz-cli) - Generate commits following Conventional Commits.
