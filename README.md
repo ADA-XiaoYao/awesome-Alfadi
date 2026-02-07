@@ -28,42 +28,43 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ## Table of Contents
 
-- [Awesome Collections](#awesome-collections)
-- [Computer Science & Software Engineering](#computer-science--software-engineering)
-- [Programming Languages](#programming-languages)
-- [Cybersecurity](#cybersecurity)
-  - [Foundations & Entry Level](#foundations--entry-level)
-  - [Reconnaissance & Information Gathering](#reconnaissance--information-gathering)
-  - [Secure Development](#secure-development)
-  - [Web Security](#web-security)
-  - [JavaScript Reverse Engineering](#javascript-reverse-engineering)
-  - [Java Security](#java-security)
-  - [Web3 & Blockchain Security](#web3--blockchain-security)
-  - [API Security](#api-security)
-  - [Service & Middleware Security](#service--middleware-security)
-  - [Mobile Application Security](#mobile-application-security)
-  - [System Security](#system-security)
-  - [Cloud Security](#cloud-security)
-  - [Vulnerability Discovery & Exploitation](#vulnerability-discovery--exploitation)
-  - [Code Auditing](#code-auditing)
-  - [Binary Reverse Engineering](#binary-reverse-engineering)
-  - [Privilege Escalation](#privilege-escalation)
-  - [Internal Network Security](#internal-network-security)
-  - [Persistence Techniques](#persistence-techniques)
-  - [Evasion & Defense Bypass](#evasion--defense-bypass)
-  - [Binary Modification & Repackaging](#binary-modification--repackaging)
-  - [Weaponization & Tooling](#weaponization--tooling)
-  - [Red Team & APT Operations](#red-team--apt-operations)
-  - [Traffic Analysis](#traffic-analysis)
-  - [Rule & Signature Development](#rule--signature-development)
-  - [Attribution & Counter-Operations](#attribution--counter-operations)
-  - [Incident Response – Basic](#incident-response--basic)
-  - [Incident Response – Advanced](#incident-response--advanced)
-  - [Device & Infrastructure Deployment](#device--infrastructure-deployment)
-  - [SRC Programs](#src-programs)
-  - [CTF Resources](#ctf-resources)
-- [Artificial Intelligence & Data Science](#artificial-intelligence--data-science)
-- [Developer Tools & Career Growth](#developer-tools--career-growth)
+
+[Awesome Collections](#1-awesome-collections)
+[Computer Science & Software Engineering](#computer-science--software-engineering)
+[Programming Languages](#3-programming-languages)
+[Cybersecurity](#4-cybersecurity)
+[Foundations & Entry Level](#foundations--entry-level)
+[Reconnaissance & Information Gathering](#reconnaissance--information-gathering)
+[Secure Development](#43-secure-development)
+[Web Security](#44-web-security)
+[JavaScript Reverse Engineering](#45-javascript-reverse-engineering)
+[Java Security](#46-java-security)
+[Web3 & Blockchain Security](#web3--blockchain-security)
+[API Security](#48-api-security)
+[Service & Middleware Security](#service--middleware-security)
+[Mobile Application Security](#410-mobile-application-security)
+[System Security](#411-system-security)
+[Cloud Security](#412-cloud-security)
+[Vulnerability Discovery & Exploitation](#vulnerability-discovery--exploitation)
+[Code Auditing](#414-code-auditing)
+[Binary Reverse Engineering](#424-binary-reverse-engineering)
+[Privilege Escalation](#415-privilege-escalation)
+[Internal Network Security](#419-internal-network-security)
+[Persistence Techniques](#420-persistence-techniques)
+[Evasion & Defense Bypass](#evasion--defense-bypass)
+[Binary Modification & Repackaging](#binary-modification--repackaging)
+[Weaponization & Tooling](#weaponization--tooling)
+[Red Team & APT Operations](#red-team--apt-operations)
+[Traffic Analysis](#426-traffic-analysis)
+[Rule & Signature Development](#rule--signature-development)
+[Attribution & Counter-Operations](#attribution--counter-operations)
+[Incident Response – Basic](#incident-response--basic)
+[Incident Response – Advanced](#incident-response--advanced)
+[Device & Infrastructure Deployment](#device--infrastructure-deployment)
+[SRC Programs](#429-src-programs)
+[CTF Resources](#430-ctf-resources)
+[Artificial Intelligence & Data Science](#artificial-intelligence--data-science)
+[Developer Tools & Career Growth](#developer-tools--career-growth)
 
 ---
 
@@ -390,7 +391,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Waymore](https://github.com/xnl-h4ck3r/waymore) - Finds more URLs from more sources.
 
 #### 4.2.4 Open Source Intelligence (OSINT) & Sensitive Information Leakage
-- [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Searches for high entropy strings and secrets in git repositories, digging deep into commit history.
+- [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Searches for high entropy strings and secrets in Git repositories, digging deep into commit history.
 - [Gitleaks](https://github.com/gitleaks/gitleaks) - Detects hardcoded secrets in Git repositories.
 - [Shhgit](https://github.com/eth0izzle/shhgit) - Monitors GitHub in real-time for accidentally committed secrets and sensitive files.
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Hunts for social media accounts by username across major social networks.
@@ -405,7 +406,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Twint](https://github.com/twintproject/twint) - An advanced Twitter scraping and OSINT tool.
 - [GitGraber](https://github.com/hisxo/gitgraber) - Monitors GitHub in real-time for sensitive data leakage related to companies.
 - [DumpsterDiver](https://github.com/securing/DumpsterDiver) - Searches for hardcoded secrets in various types of files.
-- [Git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing passwords and other sensitive information to a git repository.
+- [Git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing passwords and other sensitive information to a Git repository.
 - [Gitrob](https://github.com/michenriksen/gitrob) - Finds potentially sensitive files in the repositories of public organizations or members on GitHub.
 - [Holehe](https://github.com/megadose/holehe) - Checks if an email is registered on different websites.
 - [GHunt](https://github.com/mxrch/GHunt) - An OSINT tool for Google accounts.
@@ -453,7 +454,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) - A CMS detection and vulnerability scanning suite.
 - [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scans for misconfigured AWS S3 buckets.
 - [Cloud-enum](https://github.com/initstring/cloud_enum) - A multi-cloud OSINT enumeration tool (AWS, Azure, Google Cloud).
-- [Git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump source code exposed by a .git directory.
+- [Git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump source code exposed by a .Git directory.
 - [DS_Store-dumper](https://github.com/lijiejie/ds_store_exp) - Parses .DS_Store files and downloads source code.
 - [WeirdAAL](https://github.com/carnal0wnage/weirdAAL) - An AWS attack and reconnaissance tool.
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunts for security weaknesses in Kubernetes clusters.
