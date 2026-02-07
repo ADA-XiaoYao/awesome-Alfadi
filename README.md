@@ -496,64 +496,72 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ### 4.4 Web Security
 
-- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - The most comprehensive list of web security resources, covering various topics.
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - The ultimate collection of web attack payloads and bypass techniques.
-- [OWASP Top 10 Project](https://github.com/OWASP/Top10) - The official OWASP Top 10 project and documentation.
-- [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) - Another resource list on web security and bug bounties.
-- [Awesome-Bug-Bounty](https://github.com/djadmin/awesome-bug-bounty) - A list of bug bounty resources.
-- [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web security learning notes.
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Free online web security training from the creators of Burp Suite.
-- [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - A list of resources for Web Application Firewalls (WAF).
-- [Burp Suite](https://portswigger.net/burp) - The industry standard for web security testing, integrating proxy, scanner, intruder, and more.
-- [OWASP ZAP (Zed Attack Proxy)](https://github.com/zaproxy/zaproxy) - A powerful, open-source web application security scanner and proxy tool.
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive, SSL/TLS-capable HTTPS proxy.
-- [Caido](https://caido.io/) - An emerging, lightweight, and fast web security auditing toolkit.
-- [GoLismero](https://github.com/golismero/golismero) - An open-source web application security framework.
-- [Vega](https://subgraph.com/vega/) - An open-source web security scanner and testing platform.
-- [Fiddler](https://www.telerik.com/fiddler) - A free web debugging proxy for Windows.
-- [Charles Proxy](https://www.charlesproxy.com/) - A commercial HTTP proxy/monitor for Windows, Mac, and Linux.
-- [Proxify](https://github.com/projectdiscovery/proxify) - A versatile and customizable HTTPS proxy written in Go.
-- [Bettercap](https://github.com/bettercap/bettercap) - The Swiss army knife for man-in-the-middle attacks.
-- [sqlmap](https://github.com/sqlmapproject/sqlmap) - An automated SQL injection and database takeover tool.
-- [NoSQLMap](https://github.com/codingo/NoSQLMap) - An automated NoSQL injection and database takeover tool.
-- [Commix](https://github.com/commixproject/commix) - An automated command injection and exploitation tool.
-- [Tplmap](https://github.com/epinna/tplmap) - An automated server-side template injection detection and exploitation tool.
-- [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - A script for mapping GraphQL endpoints and conducting penetration tests.
-- [Inject-Payloads](https://github.com/1N3/IntruderPayloads) - A collection of payloads for web fuzzing.
-- [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA) - A classic PHP/MySQL web application with various vulnerabilities.
-- [SQLi-Labs](https://github.com/Audi-1/sqli-labs) - A practice lab for SQL injection.
-- [Ghauri](https://github.com/r0oth3x49/ghauri) - An advanced SQL injection detection and exploitation tool.
-- [DSSS (Damn Small SQLi Scanner)](https://github.com/stamparm/DSSS) - A small SQL injection scanner.
-- [BeEF (The Browser Exploitation Framework)](https://github.com/beefproject/beef) - A browser exploitation framework, often used in conjunction with XSS.
-- [XSSHunter](https://github.com/mandatoryprogrammer/xsshunter-express) - A framework for identifying and managing blind XSS vulnerabilities.
-- [XSStrike](https://github.com/s0md3v/XSStrike) - An advanced XSS scanner.
-- [Dalfox](https://github.com/hahwul/dalfox) - An XSS parameter analysis and scanning tool written in Go.
-- [Awesome-XSS](https://github.com/s0md3v/AwesomeXSS) - A list of XSS resources.
-- [DOMPurify](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, and robust XSS sanitizer for HTML, MathML, and SVG.
-- [js-xss](https://github.com/leizongmin/js-xss) - A JavaScript library for preventing XSS.
-- [bXSS](https://github.com/LewisArdern/bXSS) - A blind XSS framework.
-- [xssor2](https://github.com/evilcos/xssor2) - An XSS data reception and exploitation platform.
-- [EzXSS](https://github.com/ssl/ezXSS) - An easy-to-use blind XSS platform.
-- [SSRFmap](https://github.com/swisskyrepo/SSRFmap) - An automated SSRF exploitation tool.
-- [Gopherus](https://github.com/tarunkant/Gopherus) - Generates Gopher payloads for SSRF and more.
-- [XXEinjector](https://github.com/enjoiz/XXEinjector) - An automated XXE exploitation tool.
-- [LFISuite](https://github.com/D35m0nd142/LFISuite) - A fully automated LFI scanning and exploitation tool.
-- [dotdotpwn](https://github.com/wireghoul/dotdotpwn) - A directory traversal fuzzer.
-- [Interactsh](https://github.com/projectdiscovery/interactsh) - An OAST (Out-of-Band Application Security Testing) server for detecting SSRF, blind injection, etc.
-- [Request-Baskets](https://github.com/darklynx/request-baskets) - A web service for collecting HTTP requests, useful for testing SSRF.
-- [Smuggler](https://github.com/defparam/smuggler) - A Python script for testing HTTP request smuggling.
-- [Race The Web](https://github.com/TheHackerDev/race-the-web) - A tool for testing race condition vulnerabilities in web applications.
-- [Turbo Intruder](https://portswigger.net/bapp/9abaa233-c348-47a8-835e-43641d35a467) - A Burp Suite extension for sending a large number of high-speed HTTP requests, suitable for testing race conditions.
-- [WAFW00F](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewalls.
-- [WhatWeb](https://github.com/urbanadventurer/WhatWeb) - The next generation web scanner for fingerprinting.
-- [CORStest](https://github.com/RUB-NDS/CORStest) - A comprehensive scanner for CORS misconfigurations.
-- [JWT-tool](https://github.com/ticarpi/jwt_tool) - A toolkit for verifying, forging, and cracking JWTs.
-- [C-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) - A JWT cracker written in C.
-- [OAuth-2.0-Security-Best-Current-Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics) - OAuth 2.0 Security Best Current Practice.
-- [Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) - A scanner for web cache poisoning vulnerabilities.
-- [Wordlists (SecLists)](https://github.com/danielmiessler/SecLists) - A collection of multiple types of lists used during security assessments, with a large number of lists for web attacks.
-- [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - A dictionary of payloads for offensive security testing.
-- [HTTPie](https://github.com/httpie/httpie) - A modern, user-friendly command-line HTTP client.
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) — Comprehensive web security resource collection covering multiple domains.
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) — Extensive payload library for web exploitation and bypass techniques.
+- [OWASP Top 10](https://github.com/OWASP/Top10) — Official OWASP Top 10 project and documentation.
+- [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) — Curated web hacking and bug bounty resources.
+- [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) — Aggregated bug bounty learning materials and tools.
+- [Web Security Learning](https://github.com/CHYbeta/Web-Security-Learning) — Structured web security learning notes and practice guides.
+
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) — Free interactive web security training platform.
+- [Burp Suite](https://portswigger.net/burp) — Industry-standard integrated web security testing toolkit.
+- [OWASP ZAP](https://github.com/zaproxy/zaproxy) — Open-source web application scanner and interception proxy.
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) — Interactive SSL/TLS-capable HTTP/HTTPS proxy.
+- [Caido](https://caido.io/) — Lightweight and high-performance web auditing toolkit.
+- [GoLismero](https://github.com/golismero/golismero) — Web application security assessment framework.
+- [Vega](https://subgraph.com/vega/) — Open-source vulnerability scanner and testing platform.
+- [Fiddler](https://www.telerik.com/fiddler) — Free web debugging proxy for Windows environments.
+- [Charles Proxy](https://www.charlesproxy.com/) — Cross-platform HTTP/HTTPS proxy monitor.
+- [Proxify](https://github.com/projectdiscovery/proxify) — Flexible HTTPS proxy written in Go.
+- [Bettercap](https://github.com/bettercap/bettercap) — Network attack and man-in-the-middle toolkit.
+
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) — Automated SQL injection detection and exploitation tool.
+- [NoSQLMap](https://github.com/codingo/NoSQLMap) — Automated NoSQL injection exploitation framework.
+- [Commix](https://github.com/commixproject/commix) — Automated command injection exploitation utility.
+- [Tplmap](https://github.com/epinna/tplmap) — Server-side template injection detection tool.
+- [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) — GraphQL endpoint enumeration and testing script.
+- [Inject Payloads](https://github.com/1N3/IntruderPayloads) — Collection of fuzzing payload dictionaries.
+
+- [Damn Vulnerable Web Application](https://github.com/digininja/DVWA) — Classic intentionally vulnerable PHP/MySQL application.
+- [SQLi Labs](https://github.com/Audi-1/sqli-labs) — Hands-on SQL injection practice environment.
+- [Ghauri](https://github.com/r0oth3x49/ghauri) — Advanced SQL injection exploitation engine.
+- [DSSS](https://github.com/stamparm/DSSS) — Lightweight SQL injection scanner.
+
+- [BeEF](https://github.com/beefproject/beef) — Browser exploitation framework focused on client-side attacks.
+- [XSSHunter](https://github.com/mandatoryprogrammer/xsshunter-express) — Blind XSS detection and management framework.
+- [XSStrike](https://github.com/s0md3v/XSStrike) — Advanced cross-site scripting scanner.
+- [Dalfox](https://github.com/hahwul/dalfox) — Fast XSS parameter analysis and scanning tool.
+- [Awesome XSS](https://github.com/s0md3v/AwesomeXSS) — Aggregated XSS knowledge base.
+- [DOMPurify](https://github.com/cure53/DOMPurify) — High-performance HTML sanitizer for XSS prevention.
+- [js-xss](https://github.com/leizongmin/js-xss) — JavaScript library for sanitizing untrusted HTML.
+- [bXSS](https://github.com/LewisArdern/bXSS) — Blind XSS exploitation framework.
+- [xssor2](https://github.com/evilcos/xssor2) — XSS data receiving and exploitation platform.
+- [EzXSS](https://github.com/ssl/ezXSS) — User-friendly blind XSS platform.
+
+- [SSRFmap](https://github.com/swisskyrepo/SSRFmap) — Automated SSRF exploitation toolkit.
+- [Gopherus](https://github.com/tarunkant/Gopherus) — Payload generator for SSRF and Gopher protocols.
+- [XXEinjector](https://github.com/enjoiz/XXEinjector) — Automated XXE exploitation tool.
+- [LFISuite](https://github.com/D35m0nd142/LFISuite) — Automated local file inclusion scanner.
+- [dotdotpwn](https://github.com/wireghoul/dotdotpwn) — Directory traversal fuzzing utility.
+
+- [Interactsh](https://github.com/projectdiscovery/interactsh) — Out-of-band interaction testing server.
+- [Request Baskets](https://github.com/darklynx/request-baskets) — HTTP request collection service for SSRF testing.
+- [Smuggler](https://github.com/defparam/smuggler) — HTTP request smuggling detection script.
+- [Race The Web](https://github.com/TheHackerDev/race-the-web) — Race condition vulnerability testing tool.
+- [Turbo Intruder](https://portswigger.net/bapp/9abaa233-c348-47a8-835e-43641d35a467) — High-speed HTTP request extension for Burp Suite.
+
+- [WAFW00F](https://github.com/EnableSecurity/wafw00f) — Web application firewall fingerprinting tool.
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb) — Web technology fingerprinting scanner.
+- [CORStest](https://github.com/RUB-NDS/CORStest) — Scanner for CORS misconfiguration issues.
+- [JWT Tool](https://github.com/ticarpi/jwt_tool) — Toolkit for analyzing and forging JWT tokens.
+- [C JWT Cracker](https://github.com/brendan-rius/c-jwt-cracker) — High-performance JWT cracking utility.
+
+- [OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics) — Official OAuth 2.0 security recommendations.
+- [Web Cache Vulnerability Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) — Scanner for web cache poisoning flaws.
+
+- [SecLists](https://github.com/danielmiessler/SecLists) — Massive collection of security testing wordlists.
+- [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) — Offensive security payload dictionary database.
+- [HTTPie](https://github.com/httpie/httpie) — Modern and human-friendly command-line HTTP client.
 
 ---
 
