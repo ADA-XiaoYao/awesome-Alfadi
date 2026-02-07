@@ -1,15 +1,15 @@
-<div align="center">
-  <img src="Media/banner.jpg" alt="Awesome Alfadi Banner" width="100%" style="max-width:1200px; height:auto; border-radius:12px;">
-</div>
+<div align="center"
+  <img src="Media/banner.jpg" alt="Awesome Alfadi Banner" width="100%" style="max-width:1200px; height:auto; border-radius:12px;"
+</div
 
-<div align="center">
-  <h1>
+<div align="center"
+  <h1
     Awesome Alfadi 
-    <a href="https://awesome.re">
-      <img src="https://awesome.re/badge.svg" alt="Awesome Badge" style="height:30px; vertical-align:middle;">
-    </a>
-  </h1>
-</div>
+    <a href="https://awesome.re"
+      <img src="https://awesome.re/badge.svg" alt="Awesome Badge" style="height:30px; vertical-align:middle;"
+    </a
+  </h1
+</div
 
 **A carefully selected, comprehensive learning list covering computer science, programming languages, and cybersecurity. Enabling everyone to become a top expert in their field.**
 
@@ -27,6 +27,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 ---
 
 ## Table of Contents
+
 
 
 
@@ -91,7 +92,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - Applications and tools for Linux.
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Free self-hosted web services and applications.
 - [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui) - Android UI/UX libraries and resources.
-- [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS libraries and frameworks.
+- [Awesome iOS](https://github.com/vsouza/awesome-ios) - IOS libraries and frameworks.
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - Docker tools and projects.
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - Kubernetes tools and resources.
 - [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Applications and tools built with Electron.
@@ -195,7 +196,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Crafting Interpreters](https://github.com/munificent/craftinginterpreters) - Open-source version of *Crafting Interpreters*.
 - [Writing an OS in Rust](https://github.com/phil-opp/blog_os) - Blog series on building an OS in Rust.
 - [The little book about OS development](https://github.com/littleosbook/littleosbook) - A small book on OS development.
-- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - MIT’s teaching OS xv6 for RISC-V.
+- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - MIT’s teaching operating system xv6 for RISC-V.
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Classic operating systems textbook.
 - [Awesome-LLVM](https://github.com/HongxuChen/awesome-llvm) - LLVM-related resources.
 - [Linux-Insides](https://github.com/0xAX/linux-insides) - Deep dive into the Linux kernel.
@@ -775,7 +776,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Helm-secrets](https://github.com/jkroepke/helm-secrets) - A plugin for managing secrets in Helm charts.
 - [Kyverno](https://github.com/kyverno/kyverno) - A policy engine designed for Kubernetes.
 - [OPA/Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - A Kubernetes policy controller that uses Open Pol>.
-- [Kube-apiserver-attack](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/Section-4-Kubernetes-Se>
+- [Kube-apiserver-attack](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/Section-4-Kubernetes-Se) - Kube-apiserver-attack.
 - [ETCD-Security](https://etcd.io/docs/v3.5/op-guide/security/) - The official etcd security guide.
 - [Kubernetes-Goat](https://github.com/madhuakula/kubernetes-goat) - An intentionally vulnerable Kubernetes cluster for>.
 - [Kube-Linter](https://github.com/stackrox/kube-linter) - A static analysis tool for Kubernetes YAML files and Helm ch>.
@@ -841,7 +842,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Hell's Gate](https://github.com/am0nsec/HellsGate) - A PoC for bypassing EDR usin>.
 - [SharpBlock](https://github.com/gaasedelen/SharpBlock) - A tool to block EDR from >.
 - [Invisibility-Cloak](https://github.com/peewpw/Invoke-PSImage) - Encodes a PowerSh>.
-- [Unhooking-Patching-EDR-Bypass](https://github.com/TheD1rkMtr/Unhooking-Patching-E>
+- [Unhooking-Patching-EDR-Bypass](https://github.com/TheD1rkMtr/Unhooking-Patching-E) - Unhooking-Patching-EDR-Bypass.
 - [Reflective-DLL-Injection](https://github.com/stephenfewer/ReflectiveDLLInjection) - >.
 - [Process-Injection](https://github.com/s3cur3th1ssh1t/Process-Injection) - A colle>.
 - [Process-Hollowing](https://github.com/m0n0ph1/Process-Hollowing) - A PoC for the >.
@@ -869,7 +870,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 
 ### 4.18 Weaponization & Tooling
 
-- [Metasploit's msfvenom](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-u>
+- [Metasploit's msfvenom](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-u) - Metasploit's msfvenom.
 - [Macro-Pack](https://github.com/sevagas/macro_pack) - A tool for automatically generating>.
 - [Unicorn](https://github.com/trustedsec/unicorn) - A tool for PowerShell downgrade attack>.
 - [HTA-Attack](https://github.com/trustedsec/unicorn/blob/master/unicorn.py) - Unicorn can >.
@@ -898,11 +899,11 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
 - [Persistence-Sniper](https://github.com/last-byte/Persistence-Sniper) - A PowerShell scri>.
 - [Python-for-Red-Teaming](https://github.com/nassiben/Red-Team-Python-Tooling) - Python to>.
 - [Schtasks-persistence](https://attack.mitre.org/techniques/T1053/005/) - Persistence usin>.
-- [WMI-Persistence](https://github.com/fireeye/SharPersist/blob/master/SharPersist/SharPers>
+- [WMI-Persistence](https://github.com/fireeye/SharPersist/blob/master/SharPersist/SharPers) - WMI-Persistence.
 - [Registry-RunKeys-Persistence](https://attack.mitre.org/techniques/T1547/001/) - Persiste>.
 - [DLL-Hijacking](https://github.com/KINGSABRI/DLL-Hijacking-Hunter) - DLL Hijacking Hunter.
 - [COM-Hijacking](https://github.com/tyranid/oleviewdotnet) - A .NET tool for viewing and d>.
-- [Powershell-Persistence-Cookbook](https://github.com/darkoperator/Posh-Sec-Mod/blob/maste>
+- [Powershell-Persistence-Cookbook](https://github.com/darkoperator/Posh-Sec-Mod/blob/maste) - Powershell-Persistence-Cookbook.
 
 ---
 
@@ -1506,7 +1507,7 @@ This section covers resources, tools, and methodologies specifically for partici
 - [TensorFlow](https://github.com/tensorflow/tensorflow) - End-to-end open-source machine learning platform by Google.
 - [PyTorch](https://github.com/pytorch/pytorch) - Open-source ML framework by Meta, known for flexibility and dynamic computation.
 - [Keras](https://github.com/keras-team/keras) - High-level neural networks API, compatible with TensorFlow, PyTorch, and more.
-- [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - Popular library for classical ML in Python.
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Popular library for classical ML in Python.
 - [JAX](https://github.com/google/jax) - High-performance numerical computing library from Google, NumPy compatible.
 - [MXNet](https://github.com/apache/mxnet) - Deep learning framework by Apache.
 - [Caffe](https://github.com/BVLC/caffe) - Deep learning framework developed by Berkeley AI Research.
