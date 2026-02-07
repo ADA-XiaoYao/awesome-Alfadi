@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-    Awesome Alfadi 
+    Awesome AlphaNet 
     <a href="https://awesome.re">
       <img src="https://awesome.re/badge.svg" alt="Awesome Badge" style="height:30px; vertical-align:middle;">
   </a>
