@@ -32,11 +32,8 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
   - [Meta Lists & General](#11-meta-lists-general)
   - [Platforms & Ecosystems](#12-platforms-ecosystems)
   - [Awesome Programming Languages](#13-awesome-programming-languages)
-
 - [Computer Science & Software Engineering](#2-computer-science-software-engineering)
-
 - [Programming Languages](#3-programming-languages)
-
 - [Cybersecurity](#4-cybersecurity)
   - [Foundations & Entry Level](#41-foundations-entry-level)
   - [Reconnaissance & Information Gathering](#42-reconnaissance-information-gathering)
@@ -68,9 +65,7 @@ Please read the [Contribution Guidelines](./contributing.md) before submitting a
   - [Attribution & Counter-Operations](#428-attribution-counter-operations)
   - [SRC Programs](#429-src-programs)
   - [CTF Resources](#430-ctf-resources)
-
 - [Artificial Intelligence & Data Science](#5-artificial-intelligence-data-science)
-
 - [Developer Tools & Career Growth](#6-developer-tools-career-growth)
 ---
 
