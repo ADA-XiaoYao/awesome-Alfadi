@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="Media/banner.jpg" alt="Awesome Alfadi Banner" width="100%" style="max-width:1200px; height:auto; border-radius:12px;">
+  <img src="Media/banner.jpg" alt="Awesome AlfaNet Banner" width="100%" style="max-width:1200px; height:auto; border-radius:12px;">
 </div>
 
 <div align="center">
   <h1>
-    Awesome Alfadi 
+    Awesome AlfaNet
     <a href="https://awesome.re">
       <img src="https://awesome.re/badge.svg" alt="Awesome Badge" style="height:30px; vertical-align:middle;">
     </a>
