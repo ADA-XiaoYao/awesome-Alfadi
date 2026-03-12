@@ -1,4 +1,15 @@
-# Awesome AlfaNet [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+<div align="center">
+  <img src="Media/banner.jpg" alt="Awesome AlfaNet Banner" width="100%" style="max-width:1200px; height:auto; border-radius:12px;">
+</div>
+
+<div align="center">
+  <h1>
+    Awesome AlfaNet 
+    <a href="https://awesome.re">
+      <img src="https://awesome.re/badge.svg" alt="Awesome Badge" style="height:30px; vertical-align:middle;">
+    </a>
+  </h1>
+</div>
 
 **A carefully selected, comprehensive learning list covering computer science, programming languages, and cybersecurity. Enabling everyone to become a top expert in their field.**
 
