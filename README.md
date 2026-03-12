@@ -234,4 +234,192 @@
 - [Subfinder](https://github.com/projectdiscovery/subfinder#readme) - Fast subdomain discovery tool from ProjectDiscovery.
 - [Nmap](https://github.com/nmap/nmap#readme) - The king of network discovery and security auditing.
 - [Masscan](https://github.com/robertdavidgraham/masscan#readme) - An internet-scale port scanner, extremely fast.
-- [Dirsearch](https://github.com/
+- [Dirsearch](https://github.com/maurosoria/dirsearch#readme) - A web path scanner written in Python, fast and powerful.
+- [Sherlock](https://github.com/sherlock-project/sherlock#readme) - Hunts for social media accounts by username.
+- [TruffleHog](https://github.com/trufflesecurity/trufflehog#readme) - Searches for high entropy strings and secrets in Git repositories.
+
+### 4.3 Secure Development
+
+- [Awesome AppSec](https://github.com/paragonie/awesome-appsec#readme) - A comprehensive list of resources for Application Security.
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/#readme) - Secure development cheat sheets from OWASP.
+- [Semgrep](https://github.com/returntocorp/semgrep#readme) - Fast, open-source static analysis tool for custom rules.
+- [CodeQL](https://github.com/github/codeql#readme) - A code analysis engine from GitHub for automating security checks.
+- [Snyk](https://github.com/snyk/snyk#readme) - Finds and fixes vulnerabilities in open-source dependencies.
+
+### 4.4 Web Security
+
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Comprehensive list of web security resources.
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings#readme) - Ultimate collection of web attack payloads and bypass techniques.
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security#readme) - Free online web security training from the creators of Burp Suite.
+- [sqlmap](https://github.com/sqlmapproject/sqlmap#readme) - Automated SQL injection and database takeover tool.
+- [XSStrike](https://github.com/s0md3v/XSStrike#readme) - Advanced XSS scanner with fuzzy matching and intelligent payload generation.
+
+### 4.5 JavaScript Reverse Engineering
+
+- [de4js](https://github.com/lelinhtinh/de4js#readme) - A JavaScript deobfuscation tool.
+- [AST Explorer](https://github.com/fkling/astexplorer#readme) - An online tool for analyzing JavaScript AST.
+- [Obfuscator.io](https://obfuscator.io/#readme) - A free JavaScript obfuscation tool.
+- [SecretFinder](https://github.com/m4ll0k/SecretFinder) - Discovers sensitive data and endpoints in JS files.
+
+### 4.6 Java Security
+
+- [ysoserial](https://github.com/frohoff/ysoserial#readme) - Tool for generating payloads that exploit unsafe Java object deserialization.
+- [Marshalsec](https://github.com/mbechler/marshalsec#readme) - Java deserialization exploitation library.
+- [Recaf](https://github.com/Col-E/Recaf#readme) - A modern Java bytecode editor.
+- [Arthas](https://github.com/alibaba/arthas#readme) - Open-source Java diagnostic tool from Alibaba.
+
+### 4.7 Web3 & Blockchain Security
+
+- [Awesome Web3 Security](https://github.com/Smi_v/awesome-web3-security#readme) - A list of resources for Web3 security.
+- [Slither](https://github.com/crytic/slither#readme) - A Solidity static analysis framework.
+- [Mythril](https://github.com/ConsenSys/mythril#readme) - Security analysis tool for Ethereum smart contracts.
+- [Foundry](https://github.com/foundry-rs/foundry#readme) - Extremely fast toolkit for Ethereum application development.
+
+### 4.8 API Security
+
+- [Awesome API Security](https://github.com/arainho/awesome-api-security#readme) - Authoritative resource list for API security.
+- [OWASP API Security Top 10](https://owasp.org/www-project-api-security/#readme) - Official OWASP Top 10 API Security Risks project.
+- [Cherrybomb](https://github.com/blst-security/cherrybomb#readme) - CLI tool for finding inconsistencies in OpenAPI specifications.
+
+### 4.9 Service & Middleware Security
+
+- [PHPGGC](https://github.com/ambionics/phpggc#readme) - A PHP deserialization payload generator.
+- [Behinder](https://github.com/rebeyond/Behinder#readme) - A dynamic binary encrypted website management client.
+- [Redis-Rogue-Server](https://github.com/n0b0dyCN/Redis-Rogue-Server#readme) - An exploit tool for Redis unauthorized access.
+
+### 4.10 Mobile Application Security
+
+- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF#readme) - Automated mobile application pentesting and malware analysis framework.
+- [Frida](https://github.com/frida/frida#readme) - Dynamic code instrumentation toolkit for injecting scripts into processes.
+- [Jadx](https://github.com/skylot/jadx#readme) - A decompiler for Android Dex and Apk files.
+
+### 4.11 System Security
+
+- [Mimikatz](https://github.com/gentilkiwi/mimikatz#readme) - Tool for extracting plaintext passwords and tickets from Windows memory.
+- [BloodHound](https://github.com/BloodHoundAD/BloodHound#readme) - Tool for visualizing Active Directory trust relationships.
+- [LinPEAS](https://github.com/peass-ng/PEASS-ng#readme) - Script for checking Linux privilege escalation paths.
+- [GTFOBins](https://gtfobins.github.io/#readme) - Exploiting Unix/Linux binaries for privilege escalation or bypass.
+
+### 4.12 Cloud Security
+
+- [Awesome Cloud Security](https://github.com/onurakpolat/awesome-cloud-security#readme) - Comprehensive list of resources for cloud security.
+- [Kube-bench](https://github.com/aquasecurity/kube-bench#readme) - Checks if Kubernetes is deployed securely based on CIS benchmarks.
+- [Pacu](https://github.com/RhinoSecurityLabs/pacu#readme) - An AWS exploitation framework.
+- [Prowler](https://github.com/prowler-cloud/prowler#readme) - Tool for AWS security best practices assessment and auditing.
+
+### 4.13 Vulnerability Discovery & Exploitation
+
+- [Exploit Database](https://github.com/offensive-security/exploitdb#readme) - The official archive of exploits and vulnerable software.
+- [Nuclei](https://github.com/projectdiscovery/nuclei#readme) - Fast and customizable vulnerability scanner based on templates.
+- [Metasploit](https://github.com/rapid7/metasploit-framework#readme) - The world's most used penetration testing framework.
+
+### 4.14 Code Auditing
+
+- [Bandit](https://github.com/PyCQA/bandit#readme) - Tool designed to find common security issues in Python code.
+- [SonarQube](https://github.com/SonarSource/sonarqube#readme) - Platform for continuous inspection of code quality and security.
+
+### 4.15 Privilege Escalation
+
+- [PEASS-ng](https://github.com/peass-ng/PEASS-ng#readme) - Privilege Escalation Awesome Scripts SUITE for Windows and Linux.
+- [LOLBAS](https://lolbas-project.github.io/#readme) - Binaries and scripts native to Windows used for attacks.
+
+### 4.16 Evasion & Defense Bypass
+
+- [ScareCrow](https://github.com/optiv/ScareCrow#readme) - An EDR evasion payload generation framework.
+- [SysWhispers2](https://github.com/jthuraisamy/SysWhispers2#readme) - Generates direct system calls for EDR evasion.
+- [Veil-Framework](https://github.com/Veil-Framework/Veil#readme) - Generates Metasploit payloads that bypass common antivirus solutions.
+
+### 4.17 Binary Modification & Repackaging
+
+- [x64dbg](https://github.com/x64dbg/x64dbg#readme) - An open-source x64/x32 debugger for Windows.
+- [Apktool](https://github.com/iBotPeaches/Apktool#readme) - A tool for reverse engineering Android APK files.
+
+### 4.18 Weaponization & Tooling
+
+- [msfvenom](https://github.com/rapid7/metasploit-framework#readme) - A Metasploit standalone payload generator for shellcode and executables.
+- [Macro-Pack](https://github.com/sevagas/macro_pack#readme) - Tool for automating obfuscation and generation of MS Office documents for red teaming.
+- [Unicorn](https://github.com/trustedsec/unicorn#readme) - Tool for using PowerShell downgrade attacks and injecting shellcode into memory.
+- [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter#readme) - Payload generation framework for various formats like HTA, JS, and VBS.
+- [PyRIT](https://github.com/Azure/PyRIT#readme) - Python Risk Identification Tool for generative AI automation.
+
+### 4.19 Internal Network Security
+
+- [Internal-Pentest-Playbook](https://github.com/mubix/Internal-Pentest-Playbook#readme) - Practical playbook for internal penetration testing techniques.
+- [Brutus](https://github.com/praetorian-inc/brutus#readme) - Fast, zero-dependency credential testing tool in Go for various protocols.
+- [Chisel](https://github.com/jpillora/chisel#readme) - A fast TCP/UDP tunnel over HTTP, ideal for network pivoting.
+- [Ligolo-ng](https://github.com/nicocha30/ligolo-ng#readme) - Advanced and fast tunneling tool using TUN/TAP interfaces.
+
+### 4.20 Persistence Techniques
+
+- [Awesome-Persistence](https://github.com/mikesiko/Awesome-Persistence#readme) - Curated list of high-quality resources and tools on software persistence.
+- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team#readme) - Library of tests mapped to MITRE ATT&CK, including persistence tests.
+- [SharpPersist](https://github.com/mandiant/SharpPersist#readme) - Windows persistence toolkit written in C# for various techniques.
+- [Persistence-Sniper](https://github.com/nccgroup/Persistence-Sniper#readme) - PowerShell script to find persistence implants on Windows.
+
+### 4.21 Red Team & APT Operations
+
+- [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming#readme) - Comprehensive list of red teaming resources covering all phases.
+- [Sliver](https://github.com/BishopFox/sliver#readme) - Cross-platform, open-source C2 framework written in Go.
+- [MITRE ATT&CK®](https://attack.mitre.org/#readme) - Globally-accessible knowledge base of adversary tactics and techniques.
+
+### 4.22 Incident Response
+
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#readme) - List of tools and resources focused on incident response.
+- [TheHive](https://github.com/TheHive-Project/TheHive#readme) - Scalable, open-source security incident response platform.
+- [Velociraptor](https://github.com/Velocidex/velociraptor#readme) - Advanced digital forensics and incident response tool.
+
+### 4.23 Binary Reverse Engineering
+
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra#readme) - Software reverse engineering framework developed by the NSA.
+- [Binary Ninja](https://binary.ninja/#readme) - Modern, programmable binary analysis platform.
+- [Radare2](https://github.com/radareorg/radare2#readme) - Portable reverse engineering framework and command-line toolset.
+
+## 5. Artificial Intelligence & Data Science
+
+### 5.1 Comprehensive Awesome Lists & Repositories
+
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) - Comprehensive list of ML frameworks and software.
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Collection of deep learning tutorials and projects.
+- [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme) - Authoritative list of resources for Large Language Models.
+
+### 5.2 Machine Learning & Deep Learning Frameworks
+
+- [PyTorch](https://github.com/pytorch/pytorch#readme) - Open-source ML framework by Meta, known for flexibility.
+- [TensorFlow](https://github.com/tensorflow/tensorflow#readme) - End-to-end open-source ML platform by Google.
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn#readme) - Popular library for classical ML in Python.
+
+### 5.3 Large Language Models (LLM) & AIGC
+
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3#readme) - One of the most powerful open-source LLMs currently.
+- [Dify](https://github.com/langgenius/dify#readme) - Production-grade LLM development platform.
+- [Ollama](https://github.com/ollama/ollama#readme) - Tool to run LLMs locally with ease.
+- [LangChain](https://github.com/langchain-ai/langchain#readme) - Framework to build applications powered by language models.
+
+## 6. Developer Tools & Career Growth
+
+### 6.1 Code Editors & IDEs
+
+- [Visual Studio Code](https://github.com/microsoft/vscode#readme) - Microsoft’s most popular open-source code editor.
+- [Neovim](https://github.com/neovim/neovim#readme) - A fork of Vim focused on extensibility and usability.
+- [Zed](https://github.com/zed-industries/zed#readme) - High-performance code editor written in Rust.
+
+### 6.2 Terminals & Shells
+
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh#readme) - Framework for managing Zsh configuration.
+- [Starship](https://github.com/starship/starship#readme) - Minimal, blazing-fast, infinitely customizable cross-shell prompt.
+- [Tmux](https://github.com/tmux/tmux#readme) - Terminal multiplexer for multiple sessions.
+
+### 6.3 Git & Version Control
+
+- [Lazygit](https://github.com/jesseduffield/lazygit#readme) - Simple terminal UI for git commands.
+- [Conventional Commits](https://www.conventionalcommits.org/#readme) - Standardized Git commit message convention.
+
+---
+
+## Contributing
+
+Contributions are welcome! Please read the [contributing guidelines](contributing.md) first.
+
+## License
+
+To the extent possible under law, [ADA-XiaoYao](https://github.com/ADA-XiaoYao) has waived all copyright and related or neighboring rights to this work under [CC0 1.0](LICENSE).
